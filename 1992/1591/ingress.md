@@ -1,1 +1,0 @@
-Garanterade nivåer m. m.
