@@ -241,6 +241,7 @@ kap-11/31.md
 kap-11/32.md
 kap-11/33.md
 kap-11/34.md
+kap-11/34a.md
 kap-11/35.md
 kap-11/36.md
 kap-11/36a.md
