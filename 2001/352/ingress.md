@@ -1,0 +1,1 @@
+Rådets förordning (EG) nr 1348/2000 om delgivning i medlemsstaterna av handlingar i mål och ärenden av civil eller kommersiell natur träder i kraft den 31 maj 2001. Förordningen, som gäller mellan EU:s medlemsstater med undantag av Danmark, finns publicerad i Europeiska gemenskapernas officiella tidning (EGT L 160, 30.6.2000, s. 37).
