@@ -1,9 +1,0 @@
-## Övergångsbestämmelser
-
-1989:527
-
-1. Denna förordning träder i kraft den 1 juli 1989, då förordningen (1985:1107) om riksprovplatser och auktoriserade provplatser m.m. och förordningen (1980:122) om utseende av riksmätplatser skall upphöra att gälla.
-
-2. I fråga om tidigare auktoriserade provplatser för obligatorisk eller frivillig kontroll tillämpas dock förordningen (1985:1107) om riksprovplatser och auktoriserade provplatser m.m. intill dess statens mät- och provstyrelse har beslutat om ackreditering enligt den nya lagen.
-
-Bilagan är inte med här.
