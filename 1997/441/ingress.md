@@ -1,0 +1,3 @@
+För sådan värderingsenhet som avses i 3 § första stycket b lagen (1984:1052) om statlig fastighetsskatt samt för småhusenhet skall omräkningstalet enligt 16 A kap.
+
+fastighetstaxeringslagen (1979:1152) för år 1998 vara det omräkningstal som gäller för år 1997.
