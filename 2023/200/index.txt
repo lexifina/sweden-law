@@ -260,6 +260,7 @@ kap-8/31.md
 kap-9/1.md
 kap-9/2.md
 kap-9/3.md
+kap-9/3~2.md
 kap-9/4.md
 kap-9/5.md
 kap-9/6.md
