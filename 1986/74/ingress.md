@@ -1,1 +1,0 @@
-Har vid ett kyrkofullmäktigval mer än hälften av det föreskrivna antalet fullmäktige i församlingen inte blivit utsedda, skall valet i församlingen göras om. Det nya valet skall gälla samtliga platser i fullmäktige.
