@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken föreskriver med stöd av 5 kap. 1 § lagen (1988:1385) om Sveriges riksbank att minnesmynt på femtio kronor skall ges ut från och med den 14 november 2002 samt att mynten skall ha följande storlek, beskaffenhet och utseende.
