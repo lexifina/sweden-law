@@ -1,0 +1,1 @@
+Regeringen eller förvaltningsmyndighet som regeringen bestämmer får meddela föreskrifter om auktorisation och godkännande av översättare och tolkar. Därvid får föreskrivas avgift för ansökan.
