@@ -1,0 +1,11 @@
+## Övergångsbestämmelser
+
+1994:1313
+
+Denna förordning träder i kraft den 1 januari 1995 då veterinärtaxeförordningen (1975:539) skall upphöra att gälla.
+
+1995:1011
+
+Denna förordning träder i kraft den 1 augusti 1995.
+
+Särskild djursjukvårdsavgift skall inte betalas vid förrättningar som utförs av en distriktsveterinär efter utgången av juni 1995.
