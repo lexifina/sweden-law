@@ -1,0 +1,1 @@
+Regeringen fastställer medelvärdet enligt 3 § förordningen (1983:944) om statsbidrag till kommunerna för stöd och hjälp i boendet till 179 100 kronor för år 1990.
