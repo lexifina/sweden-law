@@ -1,0 +1,1 @@
+Vid klinisk tandhälsoundersökning, som utförs av tandläkare inom ramen för ett av Örebro och Östergötlands läns landsting under tiden den 15 maj--den 31 december 1992 bedrivet tandhälsoprojekt, lämnas tandvårdsersättning enligt 6 § tandvårdstaxan (1973:638) även om patientavgift inte tas ut.
