@@ -1,0 +1,1 @@
+Regeringen föreskriver att statens utlåningsränta och statens avkastningsränta under budgetåret 1988/89 båda skall vara 11,75 procent.
