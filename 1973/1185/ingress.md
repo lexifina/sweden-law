@@ -1,1 +1,0 @@
-Kungl. Maj:t förordnar att ett mellan Sverige och Danmark den 29 augusti 1973 ingånget tilläggsavtal, vars lydelse framgår av bilaga till denna kungörelse, till avtalet den 27 oktober 1953 mellan samma stater för undvikande av dubbelbeskattning beträffande skatter å kvarlåtenskap skall lända till efterrättelse för Sveriges del.
