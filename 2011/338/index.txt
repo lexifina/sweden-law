@@ -168,6 +168,7 @@ kap-9/22.md
 kap-9/23.md
 kap-9/24.md
 kap-9/25.md
+kap-9/25a.md
 kap-9/26.md
 kap-9/27.md
 kap-9/28.md
