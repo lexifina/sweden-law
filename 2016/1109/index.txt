@@ -6,6 +6,7 @@ kap-1/5.md
 kap-1/6.md
 kap-1/7.md
 kap-2/1.md
+kap-2/1a.md
 kap-2/2.md
 kap-2/3.md
 kap-2/4.md
