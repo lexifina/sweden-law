@@ -1,0 +1,1 @@
+Regeringen föreskriver att den som överträder en föreskrift som har utfärdats med stöd av sjötrafikförordningen (1962:150) eller av författningar som har upphävts genom denna och som fortfarande gäller skall dömas till böter.
