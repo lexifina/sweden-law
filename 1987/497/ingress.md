@@ -1,0 +1,1 @@
+Förordnanden som ledamot eller suppleant i högskolestyrelse, vilka gäller till utgången av juni månad 1987, skall utan hinder av bestämmelserna i högskoleförordningen (1977:263) gälla till utgången av juni månad 1988.
