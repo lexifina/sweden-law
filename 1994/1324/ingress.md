@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken ger till känna att Riksbankens diskonto från och med den 4 oktober 1994 är sju procent.
