@@ -34,6 +34,7 @@ kap-5/7.md
 kap-5/8.md
 kap-5/9.md
 kap-5/10.md
+kap-5/10a.md
 kap-5/11.md
 kap-5/11a.md
 kap-5/12.md
