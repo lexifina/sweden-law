@@ -1,1 +1,0 @@
-/Upphör att gälla U:2030-07-01 genom förordning (2026:545)./ 1 § På begäran av Statens institutionsstyrelse skall socialnämnden lämna de uppgifter som behövs för att den som har dömts till sluten ungdomsvård skall kunna anvisas plats och erhålla lämplig vård.
