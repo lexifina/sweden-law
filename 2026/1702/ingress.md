@@ -1,0 +1,1 @@
+/Träder i kraft I:2027-01-01/ 1 § Denna förordning är meddelad med stöd av 8 kap. 7 § regeringsformen och innehåller bestämmelser om vilka länsstyrelser som ansvarar för vissa uppgifter enligt jordabalken.
