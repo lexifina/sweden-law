@@ -1,1 +1,0 @@
-Regeringen överlåter åt sjöfartsverket att fastställa taxa för Södertälje kanal.
