@@ -1,0 +1,1 @@
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om kommuners och landstingskommuners medverkan i olika former av utbildning utöver vad som följer av skollagen (1985:1100) och andra lagar.
