@@ -1,0 +1,1 @@
+Förordningen (1927:485) om nedsättning av pengar hos myndighet gäller i tillämpliga delar även pengar som har deponerats hos länsstyrelse enligt 8 kap. 12 a § eller 12 kap. 21 § jordabalken. För deposition av sådana medel får samma dagbok, konto och bankräkning användas som för nedsättning enligt lagen (1927:56) om nedsättning av pengar hos myndighet. Förordning (1995:1473).
