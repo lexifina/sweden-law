@@ -1,0 +1,1 @@
+Fullmäktige i riksbanken ger till känna att riksbankens diskonto från och med den 17 januari 1992 är åtta och en halv procent.
