@@ -1,0 +1,1 @@
+Beslut i ärenden om anställning som fattats av myndigheter som enligt förordningen (1996:1515) med instruktion för Regeringskansliet hör till Försvarsdepartementet överklagas hos Överklagandenämnden för totalförsvaret. Överklagandenämndens beslut får inte överklagas. Förordning (1997:207).
