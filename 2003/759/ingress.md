@@ -1,0 +1,1 @@
+Artikel 10 om undvikande av dubbelbeskattning av inkomst som härrör från luftfartyg i internationell trafik i avtalet mellan Sverige och Hong Kong SAR beträffande luftfart som undertecknades den 14 mars 2000 skall gälla som lag här i landet. Avtalet är avfattat på engelska. Den engelska texten samt en svensk översättning framgår av bilaga till denna lag.
