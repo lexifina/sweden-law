@@ -19,7 +19,6 @@ kap-1/13.md
 kap-1/14.md
 kap-1/15.md
 kap-1/16.md
-kap-1/16~2.md
 kap-1/17.md
 kap-1/18.md
 kap-1/19.md
