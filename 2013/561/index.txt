@@ -223,7 +223,6 @@ kap-12/17.md
 kap-12/18.md
 kap-12/19.md
 kap-13/1.md
-kap-13/2.md
 kap-13/3.md
 kap-13/4.md
 kap-13/5.md
