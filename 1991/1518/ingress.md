@@ -1,0 +1,1 @@
+Regeringen fastställer basbeloppet enligt lagen (1962:381) om allmän försäkring till 33 700 kronor för år 1992.
