@@ -1,1 +1,0 @@
-/Upphör att gälla U:2027-08-01 genom förordning (2026:1138)./ 1 § I denna förordning finns föreskrifter om utlämnande av personuppgifter som avses i 15 a § lagen (1993:387) om stöd och service till vissa funktionshindrade.
