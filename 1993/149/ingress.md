@@ -1,0 +1,1 @@
+Vid klinisk tandhälsoundersökning, som utförs av tandläkare inom ramen för ett tandhälsoprojekt som bedrivs vid Odontologiska fakulteten vid Universitetet i Göteborg längst till och med den 31 december 1993, lämnas tandvårdsersättning enligt 6 § tandvårdstaxan (1973:638) även om patientavgift inte tas ut.
