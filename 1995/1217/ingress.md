@@ -1,0 +1,1 @@
+Regeringen fastställer basbeloppet enligt lagen (1962:381) om allmän försäkring till 36 200 kronor år 19961.
