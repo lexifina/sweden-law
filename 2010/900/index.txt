@@ -326,9 +326,7 @@ kap-9/68.md
 kap-9/69.md
 kap-9/70.md
 kap-9/71.md
-kap-9/71a.md
 kap-9/72.md
-kap-9/72a.md
 kap-9/73.md
 kap-9/74.md
 kap-9/75.md
