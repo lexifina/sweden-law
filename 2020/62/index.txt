@@ -15,7 +15,6 @@
 7b.md
 8.md
 8a.md
-8b.md
 9.md
 10.md
 10a.md
