@@ -1,0 +1,1 @@
+Regeringen bemyndigar riksskatteverket att meddela anvisningar för hur redovisningsskyldigheten enligt jordbruksbokföringslagen (1979:141) skall fullgöras.
