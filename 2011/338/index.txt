@@ -15,6 +15,8 @@ kap-1/8.md
 kap-1/9.md
 kap-1/10.md
 kap-1/11.md
+kap-1/11~2.md
+kap-1/12.md
 kap-2/1.md
 kap-2/2.md
 kap-2/2a.md
@@ -36,6 +38,8 @@ kap-3/1.md
 kap-3/2.md
 kap-3/3.md
 kap-3/4.md
+kap-3/4a.md
+kap-3/4b.md
 kap-3/5.md
 kap-3/5a.md
 kap-3/5b.md
@@ -53,6 +57,8 @@ kap-3/15.md
 kap-3/16.md
 kap-3/17.md
 kap-3/18.md
+kap-3/18a.md
+kap-3/18b.md
 kap-3/19.md
 kap-3/19a.md
 kap-3/19b.md
@@ -60,9 +66,7 @@ kap-3/20.md
 kap-3/20a.md
 kap-3/20b.md
 kap-3/20c.md
-kap-3/21.md
 kap-3/22.md
-kap-3/23.md
 kap-3/24.md
 kap-3/25.md
 kap-3/26.md
@@ -112,7 +116,6 @@ kap-6/3.md
 kap-6/4.md
 kap-6/5.md
 kap-6/6.md
-kap-7/1.md
 kap-7/2.md
 kap-7/3.md
 kap-7/4.md
