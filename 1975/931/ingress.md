@@ -1,0 +1,3 @@
+Regeringen föreskriver att Luleå, Sundsvall, Stockholms, Kalmar, Malmö, Göteborgs och Värmlands tingsrätter skall vara sjörättsdomstolar enligt 21 kap. 1 § sjölagen (1994:1009).
+
+Förordning (2004:1218).
