@@ -1,1 +1,0 @@
-Den som enligt kungörelsen (1974:963) om personalföreträdare i allmän försäkringskassas styrelse har utsetts att i försäkringskassas styrelse vara personalföreträdare eller suppleant för sådan skall erhålla arvode enligt de grunder som gäller för arvode åt annan ledamot eller suppleant i försäkringskassas styrelse.
