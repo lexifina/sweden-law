@@ -1,0 +1,1 @@
+Regeringen föreskriver att vad regeringen i författning eller särskilt beslut föreskrivit om statens energiverk, statens industriverk eller styrelsen för teknisk utveckling i stället skall avse närings- och teknikutvecklingsverket.
