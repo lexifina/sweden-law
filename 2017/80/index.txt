@@ -31,6 +31,9 @@ kap-5/13.md
 kap-5/14.md
 kap-5/14a.md
 kap-5/15.md
+kap-5a/1.md
+kap-5a/2.md
+kap-5a/3.md
 kap-6/1.md
 kap-6/2.md
 kap-6/3.md
