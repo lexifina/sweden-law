@@ -1,0 +1,1 @@
+Med stöd av kungörelsen (1965:500) om bestämmelser angående storleken av nätmaskor i fiskeredskap och minimimått på fisk m.m. samt förordningen (1977:1138) om utlännings fiskerätt, föreskriver fiskeristyrelsen följande.
