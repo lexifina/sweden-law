@@ -51,7 +51,6 @@
 26.md
 27.md
 28.md
-28a.md
 29.md
 29a.md
 30.md
