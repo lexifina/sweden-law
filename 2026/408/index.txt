@@ -115,7 +115,6 @@ kap-13/11.md
 kap-13/12.md
 kap-14/1.md
 kap-14/2.md
-kap-14/3.md
 kap-14/4.md
 kap-14/5.md
 kap-15/1.md
