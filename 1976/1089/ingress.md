@@ -1,1 +1,0 @@
-Regeringen föreskriver att allmän arbetsgivaravgift, som har tagits upp på av riksförsäkringsverket utfärdad räkning och som inflyter efter indrivning, skall redovisas av länsstyrelsen till verket gemensamt med avgiftsbelopp som avses i 29 § lagen (1959:552) om uppbörd av vissa avgifter enligt lagen om allmän försäkring, m. m.
