@@ -112,7 +112,6 @@ kap-5/16.md
 kap-5/17.md
 kap-6/1.md
 kap-6/2.md
-kap-6/3.md
 kap-6/4.md
 kap-6/5.md
 kap-6/6.md
