@@ -1,3 +1,0 @@
-Uppkommer brist i statens förråd av proviant och fodervaror, må central statsmyndighet och, i den utsträckning myndigheten finner skäligt medgiva, jämväl underlydande förvaltning, utan hinder av gällande bestämmelser rörande behandling av extra ordinarie avskrivningsfrågor och anmärkningsmål, förordna om dess avskrivning. I dylikt ärende skall myndigheten eller den underlydande förvaltningen företaga av omständigheterna påkallad utredning i syfte att utröna, huruvida någon är ansvarig för bristen. Förordnande om avskrivning må ej innefatta efterskänkande av fordran mot någon för bristen ansvarig person.
-
-Vad nu sagts skall ej gälla i fall, där kungörelsen den 19 november 1948 (nr 691) angående den militära rättsvården är tillämplig.
