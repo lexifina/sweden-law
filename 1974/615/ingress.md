@@ -1,0 +1,1 @@
+Vad i lag eller annan författning eller särskilt beslut föreskrives om krigsmakten skall i stället avse försvarsmakten.
