@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken föreskriver med stöd av 5 § lagen (1988:1385) om Sveriges riksbank, att ett mynt på fem kronor med anledning av FN:s 50-årsjubileum skall ges ut från och med den 19 oktober 1995 samt att myntet skall ha följande storlek, beskaffenhet och utseende.
