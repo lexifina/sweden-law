@@ -1,0 +1,1 @@
+Fullmäktige i riksbanken föreskriver med stöd av 9 kap. 13 § regeringsformen att minnesmynt på ettusen och tvåhundra kronor skall ges ut i anledning av 200-årsminnet av Gustav III:s död och att mynten skall ha följande storlek, beskaffenhet och utseende.
