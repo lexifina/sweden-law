@@ -1,1 +1,0 @@
-Vid beräkning av inkomst av näringsverksamhet enligt lagen (1947:576) om statlig inkomstskatt får avdrag göras för bidrag som Sveriges allmänna hypoteksbank lämnar till landshypoteksförening. Mottagaren ska ll ta upp bidraget som intäkt av näringsverksamhet. Lag (1992:706).
