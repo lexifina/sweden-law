@@ -1,1 +1,0 @@
-Vid tillämpning av lagen (1990:685) om upphävande av lagen (1979:610) om allmän investeringsreserv gäller följande. Återförs allmän investeringsreserv till beskattning enligt 11 § första stycket a--e eller 12 § andra stycket den upphävda lagen skall särskilt tillägg enligt 13 § första stycket sagda lag inte tas upp som skattepliktig intäkt.
