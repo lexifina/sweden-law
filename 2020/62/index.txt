@@ -9,15 +9,15 @@
 6.md
 6a.md
 6b.md
+6b~2.md
 6c.md
 7.md
-7a.md
 7b.md
 8.md
 8a.md
 9.md
 10.md
-10a.md
+10b.md
 11.md
 11a.md
 12.md
