@@ -11,8 +11,6 @@ kap-1/10.md
 kap-1/10a.md
 kap-1/11.md
 kap-1/12.md
-kap-1/13.md
-kap-1/14.md
 kap-2/1.md
 kap-2/2.md
 kap-2/3.md
@@ -32,11 +30,6 @@ kap-4/1.md
 kap-4/2.md
 kap-4/3.md
 kap-4/4.md
-kap-5/1.md
-kap-5/2.md
-kap-5/3.md
-kap-5/4.md
-kap-5/5.md
 kap-5a/1.md
 kap-5a/2.md
 kap-5a/3.md
@@ -122,7 +115,6 @@ kap-9/15b.md
 kap-9/16.md
 kap-9/17.md
 kap-9/18.md
-kap-9/18a.md
 kap-9/19.md
 kap-9/20.md
 kap-10/1.md
