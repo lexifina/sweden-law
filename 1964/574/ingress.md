@@ -1,0 +1,1 @@
+Kungl. Maj:t har funnit gott förordna, att vad Kungl. Maj:t i gällande författningar eller särskilda beslut stadgat rörande statsstipendienämnd i stället skall avse vederbörande studiemedelsnämnd.
