@@ -1,0 +1,1 @@
+Ved eller annat virke, som någon tillhandlat sig, må, ändå att virket är kvar i säljarens vård, ej tagas i anspråk för betalning av dennes gäld, om virket i fråga blivit tydligt märkt för köparens räkning och det vid köp av sådant virke är brukligt att genom märkning angiva vad som tillkommer köparen.
