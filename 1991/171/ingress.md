@@ -1,0 +1,1 @@
+Lagen (1990:226) om handräckning i skatteärenden mellan de nordiska länderna skall träda i kraft den 1 maj 1991 och tillämpas på ärenden som från annan avtalsslutande stat kommit in till Skatteverket efter den 8 maj 1991. Förordning (2003:950).
