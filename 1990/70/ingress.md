@@ -1,0 +1,1 @@
+Vid klinisk tandhälsoundersökning, som utförs av tandläkare inom ramen för ett av Norrbottens och Västerbottens läns landsting under tiden april--december 1990 bedrivet tandhälsoprojekt, lämnas tandvårdsersättning enligt 6 § tandvårdstaxan (1973:638) även om patientavgift inte tas ut. Förordning (1990:243).
