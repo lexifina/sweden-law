@@ -1,0 +1,1 @@
+Formulär till handlingar och blanketter som avses i 4 kap. 3 § distans- och hemförsäljningslagen (2005:59) fastställs av Konsumentverket. Förordning (2005:140).
