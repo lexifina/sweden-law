@@ -1,1 +1,0 @@
-Beslutande myndigheter m. m.
