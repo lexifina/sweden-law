@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken ger till känna att Riksbankens diskonto från och med den 2 juli 1996 är fyra och en halv procent.
