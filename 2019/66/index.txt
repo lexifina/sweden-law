@@ -97,6 +97,8 @@ kap-8/12.md
 kap-8/12a.md
 kap-8/12b.md
 kap-8/13.md
+kap-8/13a.md
+kap-8/13b.md
 kap-8/14.md
 kap-8/15.md
 kap-8/16.md
