@@ -1,1 +1,0 @@
-Ungdomar som av länsarbetsnämnden anvisats praktikplats skall inte anses som arbetstagare när de fullgör sådan praktik som ingår i ungdomsintroduktion.
