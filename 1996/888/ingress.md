@@ -1,5 +1,0 @@
-Riksgäldskontoret föreskriver följande med stöd av 9 § lagen (1983:890) om allemanssparande samt 2 § förordningen (1996:311) med instruktion för Riksgäldskontoret.
-
-På de medel som satts in på ett allemanssparkonto utgår från och med den 16 september 1996 och tills vidare årlig ränta med 4,25 procent.
-
-Räntan skall dock utgå med lägst den procentsats som motsvarar det av Riksbanken fastställda vid varje tid gällande diskontot minskat med tre procentenheter.
