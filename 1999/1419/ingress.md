@@ -1,0 +1,1 @@
+Regeringen fastställer inkomstindexet enligt 1 kap. 5 § lagen (1998:674) om inkomstgrundad ålderspension till 101,73 för år 2000.
