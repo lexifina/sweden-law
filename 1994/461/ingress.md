@@ -1,0 +1,1 @@
+Regeringen föreskriver att bidrag enligt förordningen (1987:316) om bidrag till konstnärlig utsmyckning i bostadsområden till och med utgången av juni 1995 kan lämnas till ägare av hyres- och bostadsrättshus även om den konstnärliga utsmyckningen inte vidtas i samband med ny- eller ombyggnad eller förbättring av huset.
