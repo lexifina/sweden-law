@@ -1,0 +1,1 @@
+Enligt riksdagens beslut föreskrivs att bestämmelser i lag eller annan författning om Statens lantmäteriverk eller Centralnämnden för fastighetsdata efter utgången av år 1995 skall avse Lantmäteriverket.
