@@ -1,0 +1,1 @@
+Regeringen bemyndigar riksskatteverket att fastställa inflationstal och omräkningstal enligt bestämmelserna i 7 § lagen (1983:1086) om vinstdelningsskatt.
