@@ -1,0 +1,1 @@
+Transportnämnden förordnar med stöd av Kungl. Maj:ts bemyndigande den 15 december 1967 att meddela sådana bestämmelser angående beteckningsmärke på bil som avses i 26 § förordningen (1940:910) angående yrkesmässig automobiltrafik m.m. följande.
