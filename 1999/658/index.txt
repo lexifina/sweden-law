@@ -14,6 +14,7 @@
 8c.md
 8d.md
 8e.md
+8f.md
 9.md
 9a.md
 9b.md
