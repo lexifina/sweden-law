@@ -1,0 +1,11 @@
+## Övergångsbestämmelser
+
+1989:1069
+
+Denna lag träder i kraft den 1 januari 1990 och tillämpas första gången i fråga om studiemedel som beräknas för år 1990 med ledning av basbeloppet för samma år.
+
+1990:705
+
+Enligt riksdagens beslut föreskrivs att lagen (1989:1069) om tilläggsbelopp till basbeloppet vid beräkning av studiemedel skall upphöra att gälla vid utgången av år 1990.
+
+Den upphävda lagen skall dock tillämpas vid beräkning av studiemedel som avser tid före upphörandet.
