@@ -1,0 +1,1 @@
+De som av länsarbetsnämnden anvisats praktikplatser för invandrare skall inte anses som arbetstagare när de fullgör praktiken.
