@@ -1,0 +1,1 @@
+Kungl. Maj:t har, i anledning av en av riksdagen sedermera godkänd, den 5 november 1962 avslutad, härvid i bilaga fogad överenskommelse mellan Sverige och Finland angående gränstullsamarbete samt med stöd av 1 och 14 §§ lagen den 18 december 1959 (nr 590) om gränstullsamarbete med annan stat, funnit gott förordna som följer.
