@@ -1,0 +1,11 @@
+### Investeringsavgift utgår icke för
+
+kommunalt eller enskilt beredskapsarbete för vilket statsbidrag utgår enligt arbetsmarknadskungörelsen den 3 juni 1966 (nr 368),
+
+byggnadsarbete för vilket ersättning utgår enligt kungörelsen den 10 april 1964 (nr 99) om ersättning av statmedel för kostnader till följd av övergången till högertrafik,
+
+byggnadsarbete som är föranlett av skada för vilken ersättning utgår enligt försäkringsavtal,
+
+byggnadsarbete för vilket byggnadskostnaden icke överstiger 50 000 kronor eller, om arbetet utgör del av byggnadsföretag eller eljest har samband med annant byggnadsarbete, de3n sammanlagda byggndaskostnaden icke överstiger 50 000 kronor,
+
+annat byggnadsarbete i Värmlands, Kopparbergs, Gävleborgs, Västernorrlands, Jämtlands, Västerbottens eller Norrbottens län, om byggnadskostnaden icke uppgår till 5 000 000 kronor. Kungörelse (1968:101).
