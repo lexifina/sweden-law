@@ -1,0 +1,1 @@
+Enligt riksdagens beslut föreskrivs att bestämmelser i lag eller annan författning om bankinspektionen eller försäkringsinspektionen skall avse finansinspektionen.
