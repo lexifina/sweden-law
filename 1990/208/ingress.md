@@ -1,0 +1,1 @@
+Regeringen bemyndigar riksförsäkringsverket att fastställa förteckning över konvalescenthem enligt 2 kap. 6 § lagen (1962:381) om allmän försäkring.
