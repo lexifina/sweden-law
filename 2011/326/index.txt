@@ -4,7 +4,6 @@ kap-1/3.md
 kap-1/4.md
 kap-1/5.md
 kap-2/1.md
-kap-2/2.md
 kap-2/3.md
 kap-2/3a.md
 kap-2/4.md
@@ -63,7 +62,6 @@ kap-2/33.md
 kap-2/34.md
 kap-2/34a.md
 kap-2/35.md
-kap-2/36.md
 kap-2/37.md
 kap-2/38.md
 kap-2/39.md
@@ -81,6 +79,16 @@ kap-2/50.md
 kap-2/51.md
 kap-2/52.md
 kap-2/53.md
+kap-2/54.md
+kap-2/55.md
+kap-2/56.md
+kap-2/57.md
+kap-2/58.md
+kap-2/59.md
+kap-2/60.md
+kap-2/61.md
+kap-2/62.md
+kap-2/63.md
 kap-3/1.md
 kap-3/2.md
 kap-4/1.md
