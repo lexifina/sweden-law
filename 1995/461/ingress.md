@@ -1,0 +1,1 @@
+Regeringen överlåter åt den centrala valmyndigheten att meddela de närmare föreskrifter som behövs för genomförandet av val enligt lagen (1995:374) om val till Europaparlamentet.
