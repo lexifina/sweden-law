@@ -1,1 +1,0 @@
-Regeringen föreskriver följande.
