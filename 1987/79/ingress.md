@@ -1,0 +1,1 @@
+Regeringen fastställer medelvärdet enligt 3 § första stycket förordningen (1983:944) om statsbidrag till social hemhjälp till 137 400 kronor för år 1986.
