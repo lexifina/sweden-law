@@ -1,1 +1,0 @@
-Kungl. Maj:t har funnit gott att, med ändring av vad förordningen den 8 maj 1874 angående hamnordningar och andra ordningsföreskrifter för allmänna hamnarne i riket innehåller däremot stridande, förordna, att det högsta belopp, som må föreskrivas såsom böter för överträdelse av hamnordning, skall utgöra femhundra kronor. Kungörelse (1925:100).
