@@ -1,1 +1,0 @@
-Uppgifter m. m.
