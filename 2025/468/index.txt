@@ -52,7 +52,6 @@ kap-9/3.md
 kap-9/4.md
 kap-9/5.md
 kap-9/6.md
-kap-9/7.md
 kap-9/8.md
 kap-9/9.md
 kap-9/10.md
@@ -63,7 +62,6 @@ kap-9/14.md
 kap-9/15.md
 kap-9/16.md
 kap-9/17.md
-kap-9/18.md
 kap-9/19.md
 kap-9/20.md
 kap-9/21.md
