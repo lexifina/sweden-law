@@ -1,0 +1,1 @@
+Regeringen föreskriver att myndigheterna under regeringen på begäran skall lämna Allmänna förlaget de uppgifter som behövs för den årliga publikationen Sveriges statskalender.
