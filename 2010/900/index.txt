@@ -221,10 +221,17 @@ kap-7/10.md
 kap-7/11.md
 kap-8/1.md
 kap-8/2.md
+kap-8/2a.md
+kap-8/2b.md
+kap-8/2c.md
 kap-8/3.md
 kap-8/4.md
 kap-8/4a.md
 kap-8/5.md
+kap-8/5a.md
+kap-8/5b.md
+kap-8/5c.md
+kap-8/5d.md
 kap-8/6.md
 kap-8/7.md
 kap-8/8.md
