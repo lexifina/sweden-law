@@ -1,0 +1,1 @@
+Regeringen överlåter åt statens vattenfallsverk att efter samråd med sjöfartsverket fastställa taxa för Trollhätte kanal.
