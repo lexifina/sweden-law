@@ -27,6 +27,7 @@ kap-3/11a.md
 kap-3/11b.md
 kap-3/11c.md
 kap-3/12.md
+kap-3/13.md
 kap-4/1.md
 kap-4/2.md
 kap-4/3.md
@@ -134,6 +135,7 @@ kap-8/11.md
 kap-8/12.md
 kap-8/12a.md
 kap-8/12b.md
+kap-8/12c.md
 kap-8/13.md
 kap-8/14.md
 kap-8/15.md
@@ -266,6 +268,7 @@ kap-12/19.md
 kap-12/20.md
 kap-12/21.md
 kap-12/22.md
+kap-12/22a.md
 kap-12/23.md
 kap-12/24.md
 kap-12/24a.md
@@ -359,6 +362,7 @@ kap-13/17.md
 kap-13/18.md
 kap-13/19.md
 kap-13/20.md
+kap-13/20a.md
 kap-13/21.md
 kap-13/22.md
 kap-13/23.md
