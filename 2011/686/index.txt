@@ -8,6 +8,7 @@
 5.md
 6.md
 7.md
+7a.md
 8.md
 8a.md
 9.md
