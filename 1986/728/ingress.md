@@ -1,0 +1,1 @@
+Regeringen föreskriver med stöd av 12 § lagen (1970:940) om kyrkliga kostnader att den allmänna kyrkoavgiften för år 1987 skall utgöra 16 öre per skattekrona.
