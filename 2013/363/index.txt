@@ -6,6 +6,8 @@
 5.md
 6.md
 7.md
+7d.md
+7e.md
 8.md
 9.md
 10.md
