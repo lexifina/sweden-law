@@ -1,0 +1,1 @@
+Domstol, som meddelar dom i mål om ansvar för brott mot narkotikastrafflagen eller eljest för brottsligt förfarande med narkotika, skall så snart det kan ske sända avskrift av domen till socialstyrelsen.
