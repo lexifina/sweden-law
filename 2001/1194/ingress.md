@@ -1,1 +1,0 @@
-/Upphör att gälla U:2027-01-01 genom förordning (2025:1459)./ 1 § Denna förordning innehåller föreskrifter om statsbidrag till kooperativa utvecklingscentrum och syftar till att säkerställa kooperativa utvecklingscentrums verksamhet i hela landet. Förordning (2005:876).
