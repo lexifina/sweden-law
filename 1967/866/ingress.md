@@ -1,0 +1,1 @@
+Vad i lag eller annan författning föreskrives om medicinalstyrelsen eller medicinalstyrelsens sjukvårdsberedskapsnämnd skall i stället avse socialstyrelsen.
