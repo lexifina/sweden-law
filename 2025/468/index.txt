@@ -114,6 +114,7 @@ kap-18/2.md
 kap-18/3.md
 kap-18/4.md
 kap-18/5.md
+kap-18/5a.md
 kap-18/6.md
 kap-18/7.md
 kap-18/8.md
