@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken föreskriver med stöd av 5 § lagen (1988:1385) om Sveriges riksbank, att minnesmynt på ett tusen och två hundra kronor skall ges ut från och med den 6 februari 1995 samt att mynten skall ha följande storlek, beskaffenhet och utseende.
