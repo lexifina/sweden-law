@@ -190,6 +190,7 @@ kap-11/10.md
 kap-11/11.md
 kap-11/12.md
 kap-11/12a.md
+kap-11/12b.md
 kap-11/12c.md
 kap-11/13.md
 kap-11/14.md
@@ -320,6 +321,14 @@ kap-17/3.md
 kap-17/4.md
 kap-17/5.md
 kap-17/6.md
+kap-18/1.md
+kap-18/2.md
+kap-18/3.md
+kap-18/4.md
+kap-18/5.md
+kap-18/6.md
+kap-18/7.md
+kap-18/8.md
 kap-19/1.md
 kap-19/2.md
 kap-19/3.md
