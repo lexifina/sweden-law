@@ -1,0 +1,1 @@
+Lagen (1988:593) om dubbelbeskattningsavtal mellan Sverige samt Storbritannien och Nordirland beträffande skatter på kvarlåtenskap, arv och gåva skall träda i kraft den 14 juli 1989. Lagen tillämpas beträffande arvsskatt på kvarlåtenskap efter person som avlider efter den 17 mars 1986 och beträffande gåvoskatt på gåva för vilken skattskyldighet uppkommer efter den 17 mars 1986.
