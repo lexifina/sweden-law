@@ -33,7 +33,6 @@
 20h.md
 20i.md
 20j.md
-20j~2.md
 21.md
 22.md
 22a.md
