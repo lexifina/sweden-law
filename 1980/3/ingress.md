@@ -1,0 +1,1 @@
+Regeringen bemyndigar bankinspektionen att meddela föreskrifter om hur finansbolags räkenskaper skall föras och hur värdehandlingar skall förvaras och inventeras.
