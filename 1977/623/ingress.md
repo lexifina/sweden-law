@@ -1,1 +1,0 @@
-Regeringen föreskriver att ersättning enligt lagen (1977:266) om statlig ersättning vid ideell skada skall betalas ut av riksförsäkringsverket.
