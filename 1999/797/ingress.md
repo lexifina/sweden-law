@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken föreskriver med stöd av 5 kap. 1 § lagen (1988:1385) om Sveriges riksbank, att minnesmynt på tvåtusen och tvåhundra kronor skall ges ut samt att mynten skall ha följande storlek, beskaffenhet och utseende.
