@@ -1,0 +1,1 @@
+Regeringen föreskriver att lagen (1996:1510) om dubbelbeskattningsavtal mellan Sverige och Luxemburg skall träda i kraft den 31 december 1998.
