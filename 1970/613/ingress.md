@@ -1,0 +1,1 @@
+Vad Kungl. Maj:t föreskrivit i författning eller särskilt beslut om statligt bidrag till landstingskommun skall avse även Gotlands kommun.
