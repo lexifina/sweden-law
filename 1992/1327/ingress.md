@@ -1,0 +1,1 @@
+Lagens tillämpningsområde m. m.
