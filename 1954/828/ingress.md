@@ -1,0 +1,1 @@
+Regeringen föreskriver att kungörelsen (1954:828) med vissa bestämmelser angående kupongskatt för skattskyldiga, bosatta i vissa brittiska territorier, skall upphöra att gälla i förhållandet mellan Sverige och Aden. Förordning (1984:340).
