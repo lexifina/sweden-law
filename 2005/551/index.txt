@@ -204,6 +204,7 @@ kap-7/56c.md
 kap-7/57.md
 kap-7/58.md
 kap-7/59.md
+kap-7/59a.md
 kap-7/60.md
 kap-7/61.md
 kap-7/62.md
