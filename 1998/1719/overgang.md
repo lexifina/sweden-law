@@ -1,0 +1,5 @@
+## Övergångsbestämmelser
+
+1998:1719
+
+Denna lag träder i kraft den 1 januari 1999. Lagen upphör att gälla när Riksdagens arvodesnämnd enligt 3 kap. 1 § lagen (1994:1065) om ekonomiska villkor för riksdagens ledamöter beslutar om ändrat arvode.
