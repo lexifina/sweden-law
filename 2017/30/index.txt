@@ -56,6 +56,8 @@ kap-8/7.md
 kap-8/8.md
 kap-8/9.md
 kap-8/10.md
+kap-8/10~2.md
+kap-8/11.md
 kap-9/1.md
 kap-9/2.md
 kap-9/3.md
@@ -79,6 +81,7 @@ kap-12/3a.md
 kap-12/4.md
 kap-12/5.md
 kap-12/6.md
+kap-12/7.md
 kap-13/1.md
 kap-13/2.md
 kap-13a/1.md
