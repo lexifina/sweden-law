@@ -1,3 +1,0 @@
-Med anledning av artikel 20 i det mellan Sverige och Belgien den 1 april 1953 ingångna avtalet för undvikande av dubbelbeskattning och för reglering av vissa andra frågor beträffande skatter å inkomst och förmögenhet ävensom en den 14 maj och den 11 juni 1958 undertecknad överenskommelse jämlikt artikel 21 av avtalet -- samt med stöd av lagen den 15 juni 1935 (nr 315) angående uttagande i vissa fall av ogulden utländsk utskyld eller allmän avgift och lagen samma dag (nr 316) om införsel i avlöning, pension eller livränta för uttagande av oguldna utländska utskylder eller allmänna avgifter -- har Kungl.
-
-Maj:t funnit gott utfärda följande särskilda föreskrifter angående handräckning åt belgisk myndighet i beskattningsärenden.
