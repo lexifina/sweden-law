@@ -1,0 +1,1 @@
+Andel i böter, vite eller skadestånd eller i förbruten egendom, dess värde eller dylikt, som enligt lag eller författning skall tillfalla åklagare, beslagare, angivare eller upptäckare av förseelse, må ej utgå med högre belopp än, böter och annat sammanlagt, femhundra kronor, ändå att sådan begränsning eljest icke finnes stadgad. Lag (1949:402).
