@@ -9,6 +9,7 @@ kap-1/7.md
 kap-1/7a.md
 kap-1/7b.md
 kap-1/8.md
+kap-1/8a.md
 kap-1/9.md
 kap-1/10.md
 kap-1/11.md
@@ -28,6 +29,7 @@ kap-1/24.md
 kap-1/25.md
 kap-1/26.md
 kap-1/27.md
+kap-1/27a.md
 kap-1/28.md
 kap-1/29.md
 kap-1/30.md
