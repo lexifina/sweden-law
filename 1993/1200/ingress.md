@@ -1,0 +1,1 @@
+Regeringen fastställer enligt lagen (1992:1485) om beräkning av statlig inkomstskatt på förvärvsinkomst vid 1994 och 1995 års taxeringar skiktgränsen för statlig inkomstskatt till 198 700 kronor vid 1995 års taxering.
