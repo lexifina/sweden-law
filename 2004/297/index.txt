@@ -33,9 +33,6 @@ kap-3/9.md
 kap-4/1.md
 kap-4/2.md
 kap-4/3.md
-kap-4/4.md
-kap-4/5.md
-kap-4/6.md
 kap-4/7.md
 kap-5/1.md
 kap-5/2.md
@@ -312,7 +309,6 @@ kap-15/14.md
 kap-15/15.md
 kap-15/15a.md
 kap-15/16.md
-kap-15/17.md
 kap-15/18.md
 kap-15/19.md
 kap-15/20.md
