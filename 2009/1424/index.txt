@@ -12,6 +12,8 @@
 9.md
 10.md
 10a.md
+10b.md
+10c.md
 11.md
 12.md
 13.md
