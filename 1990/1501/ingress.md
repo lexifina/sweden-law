@@ -1,0 +1,1 @@
+Vad som i en lag eller någon annan författning har föreskrivits om en länsvägnämnd eller lantbruksnämnd skall i stället avse länsstyrelsen.
