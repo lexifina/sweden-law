@@ -269,7 +269,6 @@ kap-14/22.md
 kap-14/23.md
 kap-14/24.md
 kap-15/1.md
-kap-15/2.md
 kap-15/3.md
 kap-16/1.md
 kap-16/2.md
