@@ -1,1 +1,0 @@
-Den som enligt kungörelsen (1974:224) om personalföreträdare i statlig myndighets styrelse m.m. har utsetts att i myndighet med lekmannastyrelse vara personalföreträdare eller ersättare för sådan skall erhålla arvode enligt de grunder som gäller för arvode åt sådan ledamot eller ersättare i myndighetens styrelse som ej är anställd hos myndigheten.
