@@ -1,0 +1,3 @@
+Regeringskansliet (Utrikesdepartementet) får utfärda intyg om att en tjänsteman eller någon annan, vars befogenhet är angiven i föreskrifter eller på något liknande sätt, har undertecknat en viss handling samt att han eller hon vid tiden för undertecknandet hade en sådan befattning som gav rätt att utfärda handlingen (legalisering).
+
+För varje legalisering tas en avgift ut. Om internationell hänsyn eller sedvänja kräver det, får Regeringskansliet (Utrikesdepartementet) dock besluta att staten skall stå för kostnaden. För avgiftens storlek m.m. gäller bestämmelserna i 20-24 §§ avgiftsförordningen (1992:191), varvid avgiftsklass A tillämpas. Förordning (2004:995).
