@@ -1,0 +1,1 @@
+Riksbanken ger till känna att Riksbankens diskonto från och med den 6 april 1999 är 1,00 procent.2
