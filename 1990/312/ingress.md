@@ -1,0 +1,1 @@
+Regeringen föreskriver att statens utlåningsränta och statens avkastningsränta under budgetåret 1990/91 båda skall vara 11,50 procent.
