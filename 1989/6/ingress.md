@@ -1,1 +1,0 @@
-Uppgifter, sammansättning m. m.
