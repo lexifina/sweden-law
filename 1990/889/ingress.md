@@ -1,1 +1,0 @@
-Regeringen föreskriver att bestämmelserna i förordningen (1987:1119) om en konvention om ett gemensamt transiteringsförfarande skall tillämpas på motsvarande sätt i fråga om transiteringar mellan Sverige och Tyska Demokratiska Republiken.
