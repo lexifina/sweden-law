@@ -1,0 +1,1 @@
+Enligt riksdagens beslut1 föreskrivs att bestämmelser i lag eller annan författning om fastighetsbildningsmyndighet, fastighetsregistermyndighet eller överlantmätarmyndighet efter utgången av år 1995 skall avse lantmäterimyndighet.
