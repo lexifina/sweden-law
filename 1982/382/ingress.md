@@ -1,0 +1,1 @@
+Riksarkivet och landsarkiven får ta betalt för sina svar på skriftliga forskarförfrågningar enligt grunder som beslutas av riksarkivet efter samråd med riksrevisionsverket.
