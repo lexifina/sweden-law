@@ -1,0 +1,1 @@
+Kungörelse i ortstidning enligt 16 kap. 3 § äktenskapsbalken skall ske i tidning på ort, där någon av makarna är folkbokförd. Avser kungörelsen gåva och är makarna folkbokförda på olika orter, skall kungörelse ske i tidning på den ort där givaren är folkbokförd. Förordning (1991:792).
