@@ -1,0 +1,1 @@
+Riksbanken ger till känna att Riksbankens diskonto från och med den 2 juli 1998 är två procent.
