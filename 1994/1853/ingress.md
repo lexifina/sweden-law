@@ -1,0 +1,3 @@
+Vid beräkning av inkomst enligt kommunalskattelagen (1928:370) och lagen (1947:576) om statlig inkomstskatt behandlas en europeisk ekonomisk intressegruppering (EEIG) samt medlemmar och andelar i sådan gruppering på samma sätt som ett handelsbolag samt delägare och andelar i handelsbolag. Detsamma gäller beträffande uppbörd samt i fråga om skyldighet att lämna och bevara uppgifter till ledning för taxering.
+
+Lagen (1993:1536) om räntefördelning vid beskattning samt lagen (1993:1537) om expansionsmedel tillämpas inte i fråga om verksamhet som bedrivs av en europeisk ekonomisk intressegruppering.
