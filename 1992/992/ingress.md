@@ -1,0 +1,3 @@
+Investeringsbidrag enligt förordningen (1990:1369) om statligt investeringsbidrag för ny- och ombyggnad av bostäder, till den del bidraget avser sådana byggnads- och anläggningsarbeten för vilka skattskyldighet till mervärdesskatt inträder efter utgången av år 1992, skall lämnas med 7,3 procent av det mot dessa arbeten svarande bidragsunderlaget eller, om ansökan om bidrag kommit in till kommunen efter utgången av juni 1991, med 6,9 procent av underlaget. Ansökan om utbetalning av investeringsbidrag skall ha kommit in till länsstyrelsen och projektet vara färdigställt senast den 31 oktober 1997.
+
+Förordning (1997:430).
