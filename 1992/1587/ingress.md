@@ -1,0 +1,1 @@
+Utan hinder av lagen (1992:672) om begränsning av kommuners rätt att ta ut skatt för år 1993 får skattesatsen för år 1993 för Fröskogs pastorat i Älvsborgs län fastställas till högst 1,25 kr per skattekrona.
