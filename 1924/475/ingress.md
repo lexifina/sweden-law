@@ -1,1 +1,0 @@
-Om en domstol förklarat att någon skall anses för död, skall uppgift om beslutet skyndsamt sändas till Skatteverket. Har beslutet ändrats av högre rätt, skall uppgift om detta skyndsamt sändas till verket. Förordning (2003:895).
