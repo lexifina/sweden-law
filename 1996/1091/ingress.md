@@ -1,0 +1,1 @@
+Med avvikelse från vad som föreskrivs i 5 § förordningen (1991:1395) om försäkring mot kostnader för sjuklön enligt 17 § lagen (1991:1047) om sjuklön får försäkring beviljas att gälla från och med januari 1997 även om ansökan kommer in till försäkringskassan i december 1996.
