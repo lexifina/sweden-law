@@ -1,1 +1,0 @@
-Avdrag för kostnad för resa med egen bil till och från arbetsplatsen enligt punkt 4 av anvisningarna till 33 § kommunalskattelagen (1928:370) skall vid 1995-1997 års taxeringar medges, i stället för enligt schablon som anges i andra stycket nämnda anvisningspunkt, med 1 krona och 30 öre per kilometer. Lag (1995:1523).
