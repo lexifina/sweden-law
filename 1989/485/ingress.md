@@ -1,0 +1,1 @@
+Regeringen bemyndigar riksförsäkringsverket att fastställa de procentsatser som skall tillämpas vid beräkning av arbetsmiljöavgift för sjömän enligt 2 § andra stycket lagen (1989:484) om arbetsmiljöavgift.
