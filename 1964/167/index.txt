@@ -47,11 +47,6 @@
 36c.md
 36d.md
 36e.md
-36f.md
-36g.md
-36h.md
-36i.md
-36j.md
 36k.md
 36l.md
 36m.md
