@@ -353,7 +353,6 @@ kap-19/17.md
 kap-19/17a.md
 kap-19/18.md
 kap-19/18a.md
-kap-19/19.md
 kap-19/20.md
 kap-20/1.md
 kap-20/2.md
