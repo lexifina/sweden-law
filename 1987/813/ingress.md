@@ -1,0 +1,53 @@
+Om två personer bor tillsammans i ett homosexuellt förhållande, skall vad som gäller i fråga om sambor enligt följande lagar och bestämmelser tillämpas även på de homosexuella samborna:
+
+1. lagen (1987:232) om sambors gemensamma hem,
+
+2. ärvdabalken,
+
+3. jordabalken,
+
+4. 10 kap. 9 § rättegångsbalken,
+
+5. 4 kap. 19 § första stycket utsökningsbalken,
+
+6. inkomstskattelagen (1999:1229),
+
+7. lagen (1941:416) om arvsskatt och gåvoskatt,
+
+8. bostadsrättslagen (1991:614),
+
+9. lagen (1981:131) om kallelse på okända borgenärer,
+
+10. 5 kap. 18 § tredje stycket fastighetsbildningslagen (1970:988),
+
+11. 5 och 12 §§ lagen (2000:1087) om anmälningsskyldighet för vissa innehav av finansiella instrument,
+
+12. 14 kap. 3 §, 4 § tredje stycket och 8 § tredje stycket vallagen (1997:157),
+
+13. Har upphävts genom lag (2002:63).
+
+14. 4 § lagen (1997:159) om brevröstning i vissa fall,
+
+15. 6 kap. 10 a §, 10 kap. 18 §, 11 kap. 2, 15 och 16 §§, 12 kap. 7 och 8 §§ samt 16 kap. 7 och 9 §§ föräldrabalken,
+
+16. säkerhetsskyddslagen (1996:627),
+
+17. lagen (1996:1231) om skattereduktion för fastighetsskatt i vissa fall vid 1997-2001 års taxeringar,
+
+18. lagen (1993:737) om bostadsbidrag,
+
+19. 8 kap. 6 § och 7 § andra stycket socialtjänstlagen (2001:453),
+
+20. 26 § tredje stycket hälso- och sjukvårdslagen (1982:763),
+
+21. utlänningslagen (1989:529),
+
+22. 12 § första stycket 2 lagen (2001:82) om svenskt medborgarskap,
+
+23. lagen (1990:272) om internationella frågor rörande makars och sambors förmögenhetsförhållanden,
+
+24. 4 kap. 2 § andra stycket a) lagen (1962:381) om allmän försäkring.
+
+Förutsätter dessa lagar eller bestämmelser att samborna skall vara ogifta, gäller det också de homosexuella samborna.
+
+Lag (2002:1114).
