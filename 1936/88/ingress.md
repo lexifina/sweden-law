@@ -1,0 +1,5 @@
+Vad i lag är stadgat om rätt för den som har lös pant i händer att därur njuta betalning skall gälla även där lös egendom, vari panträtt är utfäst, innehaves av tredje man, och denne om utfästelsen underrättats av pantsättaren, eller ock panthavaren hos tredje mannen företett skriftlig handling som visar att panträtt blivit utfäst.
+
+Avser pantutfästelsen ett pantbrev och har panthavaren underrättat tredje mannen om utfästelsen skriftligen eller på annat från bevissynpunkt likvärdigt sätt är dock panthavarens rätt skyddad, även om han inte har företett handling som visar att panträtt utfästs.
+
+Lag (1985:173).
