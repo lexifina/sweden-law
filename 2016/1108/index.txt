@@ -181,6 +181,7 @@ kap-13/10.md
 kap-13/11.md
 kap-13/12.md
 kap-13/13.md
+kap-13/13a.md
 kap-13/14.md
 kap-13/15.md
 kap-13/16.md
