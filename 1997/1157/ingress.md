@@ -1,0 +1,1 @@
+Vid tillämpningen av lagen (1990:226) om handräckning i skatteärenden mellan de nordiska länderna skall de överenskommelser, som träffats med stöd av artikel 20 i avtalet mellan de nordiska länderna om handräckning i skatteärenden, i de för Sverige avfattade originaltexternas lydelse gälla som förordning här i landet. Texterna är intagna i bilagorna 1 och 2 till denna förordning.
