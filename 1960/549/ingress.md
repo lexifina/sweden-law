@@ -1,5 +1,0 @@
-Sedan avtal, av den lydelse härvid fogad /k/ (bilaga 1) /-k/ utvisar, den 17 april 1959 slutits mellan Sverige och Förbundsrepubliken Tyskland för undvikande av dubbelbeskattning beträffande skatter å inkomst och förmögenhet ävensom beträffande vissa andra skatter, har Kungl. Maj:t - med stöd av 72 § 3 mom. kommunalskattelagen den 28 september 1928 (nr 370), 20 § 3 mom. lagen den 26 juli 1947 (nr 576) om statlig inkomstskatt samt 20 § 3 mom lagen sistnämnda dag (nr 577) om statlig förmögenhetsskatt - funnit gott
-
-/k/ dels /-k/ förordna, att ifrågavarande avtal skall för Sveriges del lända till efterrättelse och att vid tillämpningen av avtalet skola iakttagas härvid såsom bilaga /k/ (bilaga 2) /-k/ fogade anvisningar;
-
-/k/ dels ock /-k/ föreskriva, att det skall åligga skattskyldig att, utan hänsyn till att enligt avtalet allenast viss del av hans inkomst eller förmögenhet skall taxeras här i riket, likväl avgiva alla de uppgifter till ledning för taxeringen, vilka han varit skyldig lämna, därest lindring i skattskyldigheten ej skolat äga rum. (Jämför 1974:770 ö.b. och 1974:859 ö.b.)
