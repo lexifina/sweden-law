@@ -79,6 +79,7 @@ kap-5/15.md
 kap-5/16.md
 kap-5/17.md
 kap-5/18.md
+kap-5/18a.md
 kap-5/19.md
 kap-5/20.md
 kap-5/21.md
