@@ -1,0 +1,3 @@
+Vi Oscar, med Guds nåde, Sveriges, Norges, Götes och Vendes Konung, göre veterligt: att sedan den 15 sistlidne Oktober utfärdats nådig förordning, innefattande särskilda föreskrifter angående lagfart, inteckning och utmätning af jernväg, så ock i fråga om förvaltning af jernväg under konkurs, hafve Vi funnit godt förordna att rörande de vid Stockholms rådstufvurätt samt rådstufvurätterna i Jönköping och Kristianstad förda fastighetsböcker, så vidt de afse lagfarts- eller inteckningsärenden angående jernväg, hvarå berörda förordning eger tillämpning, skola, jemte hvad Kongl.
+
+kungörelsen den 14 September 1875 innehåller, som icke strider mot denna författning, tillämpas följande särskilda föreskrifter:
