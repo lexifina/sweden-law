@@ -1,0 +1,19 @@
+Vid beräkning av tröskelvärden m. m. enligt lagen (1992:1528) om offentlig upphandling skall en ecu motsvara 8,00169 svenska kronor.
+
+De tröskelvärden, exklusive mervärdesskatt, som anges i ecu i 2--5 kap. lagen om offentlig upphandling skall motsvaras av följande avrundade belopp i svenska kronor.
+
+ecu kronor
+
+200 000 1 600 000
+
+400 000 3 200 000
+
+600 000 4 800 000
+
+750 000 6 000 000
+
+5 000 000 40 000 000
+
+För de upphandlande enheter som omfattas av GATT-överenskommelsen om statlig upphandling fastställs det värde som avses i 2 kap. 1 § andra meningen lagen om offentlig upphandling till 1 030 000 kr, exklusive mervärdesskatt.
+
+De belopp som beräknas med hjälp av det värde som anges i första stycket får avrundas nedåt till närmaste tusental kronor.
