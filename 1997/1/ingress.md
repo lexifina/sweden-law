@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken ger till känna att Riksbankens diskonto från och med den 3 januari 1997 är två och en halv procent.
