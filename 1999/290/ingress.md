@@ -1,0 +1,1 @@
+De särskilda rättssubjekt som avses i 10 § första stycket lagen (1998:1592) om införande av lagen (1998:1591) om Svenska kyrkan skall vid 2001-2010 års taxeringar vara frikallade från skattskyldighet för inkomst och förmögenhet.
