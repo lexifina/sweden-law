@@ -7,8 +7,13 @@
 7.md
 8.md
 9.md
+9a.md
 10.md
 11.md
+11a.md
+11b.md
+11c.md
+11d.md
 12.md
 13.md
 14.md
@@ -19,8 +24,12 @@
 19.md
 20.md
 21.md
+21a.md
 22.md
+22a.md
+22b.md
 23.md
+23a.md
 24.md
 25.md
 26.md
