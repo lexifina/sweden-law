@@ -1,0 +1,7 @@
+Kungl. Maj:t utfärdar följande
+
+REGLEMENTE
+
+för allmänna barnhuset.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
