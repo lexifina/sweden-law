@@ -53,6 +53,7 @@ kap-8/1c.md
 kap-8/2.md
 kap-8/3.md
 kap-8/4.md
+kap-8/4a.md
 kap-8/5.md
 kap-8/6.md
 kap-8/6a.md
