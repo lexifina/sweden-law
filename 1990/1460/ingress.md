@@ -1,1 +1,0 @@
-I stället för vad som därom föreskrivs i 3 § första stycket b) lagen (1984:1052) om statlig fastighetsskatt, skall procentsatsen för beräkningen av fastighetsskatten vid 1992 och 1993 års taxeringar uppgå till 3,5 i fråga om hyreshusenhet som huvudsakligen består av lokaler.
