@@ -1,3 +1,0 @@
-Ett dubbelbeskattningsavtals bestämmelser om hemvist, definitioner, uppdelning i olika typer av inkomster respektive förmögenhetstillgångar och övriga bestämmelser som rör beskattningsanspråk mot en fysisk eller juridisk person skall användas endast vid tillämpningen av avtalets regler om i vilken utsträckning var och en av de avtalsslutande staterna får beskatta inkomst respektive förmögenhetstillgångar, om hur internationell dubbelbeskattning skall undanröjas och om förbud mot diskriminering.
-
-Om bestämmelserna i ett dubbelbeskattningsavtal inte hindrar att en viss inkomst eller förmögenhetstillgång helt eller delvis beskattas i Sverige, skall beskattning i den delen ske enligt svensk lag med bortseende från avtalet.
