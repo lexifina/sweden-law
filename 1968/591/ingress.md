@@ -1,3 +1,0 @@
-Mervärdeskatt skall betalas för varor som utförs för försäljning från kiosk eller liknande försäljningsställe ombord på fartyg på linje mellan Sverige och Danmark, Finland eller Norge. Skatt skall dock inte utgå för spritdrycker, vin, starköl, öl, tobaksvaror, parfymer, kosmetiska preparat och toalettmedel samt choklad- och konfektyrvaror. För den ingående skatt som belöper på skattepliktig utförsel föreligger inte avdragsrätt enligt 17 § lagen (1968:430) om mervärdeskatt.
-
-Innebär utförsel enligt första stycket ett skattepliktigt uttag enligt lagen om mervärdeskatt, skall beskattningsvärdet utgöra varans inköpsvärde inräknat skatt. Förordning (1985:119).
