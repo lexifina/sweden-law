@@ -1,0 +1,1 @@
+Konsumentverket får meddela föreskrifter om verkställigheten av lagen (1992:1672) om paketresor.
