@@ -1,0 +1,1 @@
+Vid upphandling får kommuner och landstingskommuner genom bojkott av varor och tjänster med sydafrikanskt ursprung vidta sådana solidaritetsaktioner som riktar sig mot den sydafrikanska apartheidpolitiken.
