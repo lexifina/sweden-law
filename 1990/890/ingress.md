@@ -1,1 +1,0 @@
-Regeringen föreskriver att bestämmelserna i förordningen (1987:1126) om en konvention om förenkling av formaliteterna vid handel med varor skall tillämpas på motsvarande sätt i fråga om handel med varor mellan Sverige och Tyska Demokratiska Republiken.
