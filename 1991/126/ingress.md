@@ -1,0 +1,1 @@
+Fullmäktige i riksbanken ger till känna att riksbankens diskonto från och med den 8 mars 1991 är tio procent.
