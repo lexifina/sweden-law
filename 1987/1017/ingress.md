@@ -1,0 +1,1 @@
+Intyg om att en präst eller annan befattningshavare i ett trossamfund, som regeringen har medgett vigselrätt, är behörig att vara vigselförrättare utfärdas på samfundets begäran av länsstyrelsen i det län där samfundets styrelse har sitt säte.
