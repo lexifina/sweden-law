@@ -21,6 +21,8 @@
 18.md
 18a.md
 18b.md
+18c.md
+18d.md
 19.md
 20.md
 21.md
