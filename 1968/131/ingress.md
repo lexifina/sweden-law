@@ -1,0 +1,1 @@
+Kommun får vidtaga åtgärder för uppförande och drift av turistanläggningar i den mån det är påkallat för att främja turistväsendet inom kommunen.
