@@ -119,7 +119,6 @@ kap-4/5.md
 kap-4/6.md
 kap-4/7.md
 kap-4/7a.md
-kap-4/7b.md
 kap-4/8.md
 kap-4/9.md
 kap-4/10.md
