@@ -1,3 +1,0 @@
-Första afdelningen.
-
-Om kanalfarten.
