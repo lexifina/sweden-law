@@ -1,3 +1,0 @@
-Åtnjuter tjänsteman, på vilken statens allmänna tjänstepensionsreglemente den 28 maj 1959 (nr 287) är tillämpligt och för vilken avlöningsförmånerna fastställas under medverkan av Kungl.
-
-Maj:t eller myndighet som Kungl. Maj:t bestämmer, tjänstledighet med C-avdrag för att vid statlig institution bedriva forskningsarbete med anslag från statligt forskningsråd eller annan statlig myndighet eller från enskild person eller stiftelse, tillgodoräknas tjänstledighetstiden honom för kvalifikationstids- och tjänstårsberäkning enligt reglementet som om tjänstledigheten åtnjutits för offentligt uppdrag.
