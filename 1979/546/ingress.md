@@ -1,0 +1,1 @@
+Regeringen bemyndigar Sveriges exportråd att pröva fråga om stöd till systemleveranser till stora industri- och anläggningsprojekt utomlands (projektexport).
