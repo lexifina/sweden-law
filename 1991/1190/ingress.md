@@ -1,0 +1,1 @@
+Tioöresmynt skall upphöra att vara lagligt betalningsmedel vid utgången av september 1992.
