@@ -15,6 +15,7 @@
 7f.md
 7g.md
 7h.md
+7i.md
 8.md
 9.md
 9a.md
@@ -34,6 +35,8 @@
 13d.md
 13e.md
 13f.md
+13f~2.md
+13g.md
 14.md
 15.md
 16.md
