@@ -1,0 +1,1 @@
+Regeringen föreskriver att lagen (1989:8) om kyrkomusiken i svenska kyrkan skall tillämpas på Karlskrona amiralitetsförsamling.
