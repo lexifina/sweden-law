@@ -1,0 +1,1 @@
+Lagen (1981:49) om begränsning av läkemedelskostnader, m. m. skall tillämpas på läkemedel som har förskrivits av en distriktssköterska som deltar i försöksverksamhet med förskrivning av läkemedel enligt de föreskrifter som socialstyrelsen meddelar. Därvid skall läkemedel som har förskrivits av en distriktssköterska likställas med läkemedel som har förskrivits av en läkare.
