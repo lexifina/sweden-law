@@ -1,0 +1,1 @@
+Föreskrifter med anvisningar för länsstyrelsens prövning av ärenden enligt 40 § första stycket vägtrafikskattelagen (1973:601) meddelas av arbetsmarknadsstyrelsen efter samråd med socialstyrelsen och riksskatteverket.
