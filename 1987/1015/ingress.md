@@ -1,0 +1,1 @@
+Skatteverket fastställer formulär för den försäkran som kvinnan och mannen enligt 3 kap. 3 § äktenskapsbalken skall avge vid hindersprövning. Blanketter för försäkran skall finnas hos Skatteverket och Försäkringskassan. Förordning (2004:950).
