@@ -1,0 +1,1 @@
+Regeringen ger till känna att ridderskapet och adeln har beslutat att riddarhuskapitationsavgiften från och med år 1977 skall vara 75 kronor om året.
