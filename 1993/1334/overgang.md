@@ -1,0 +1,5 @@
+## Övergångsbestämmelser
+
+1993:1334
+
+Denna förordning träder i kraft den 1 januari 1994, då förordningen (1978:843) med bemyndigande för Sjöfartsverket att fastställa taxa för Södertälje kanal och förordningen (1978:847) med bemyndigande för Sjöfartsverket att fastställa vissa taxor skall upphöra att gälla.
