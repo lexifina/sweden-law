@@ -41,7 +41,6 @@ kap-3/4.md
 kap-3/5.md
 kap-3/6.md
 kap-3/7.md
-kap-3/8.md
 kap-3/9.md
 kap-3/10.md
 kap-3/11.md
