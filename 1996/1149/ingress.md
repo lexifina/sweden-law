@@ -1,0 +1,1 @@
+Om indelningen i domkretsar ändras, skall en nämndeman anses vald till nämndeman i den domstol inom vars domkrets han eller hon är folkbokförd.
