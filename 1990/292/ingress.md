@@ -1,0 +1,1 @@
+Regeringen föreskriver att all medgiven tjänstebrevsrätt och frankeringsfrihet skall upphöra vid utgången av juni 1990.
