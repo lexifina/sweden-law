@@ -1,0 +1,1 @@
+Regeringen föreskriver att statens utlåningsränta och statens avkastningsränta under budgetåret 2002 skall vara 5,0 procent.
