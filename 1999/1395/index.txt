@@ -73,6 +73,7 @@ kap-4/10.md
 kap-4/11.md
 kap-4/12.md
 kap-4/13.md
+kap-4/13a.md
 kap-4/14.md
 kap-4/15.md
 kap-4/16.md
@@ -85,6 +86,7 @@ kap-4/22.md
 kap-4/23.md
 kap-4/24.md
 kap-4/25.md
+kap-4/25a.md
 kap-4/26.md
 kap-4/27.md
 kap-4/27a.md
