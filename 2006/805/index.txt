@@ -21,6 +21,8 @@
 19.md
 20.md
 20a.md
+20b.md
+20c.md
 21.md
 22.md
 23.md
