@@ -1,0 +1,1 @@
+Kommuner och landstingskommuner får lämna ekonomiskt stöd till ungdomsorganisationer. Ett sådant stöd får också omfatta politisk verksamhet.
