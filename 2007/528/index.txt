@@ -269,7 +269,10 @@ kap-11/1b.md
 kap-11/2.md
 kap-11/2a.md
 kap-11/2b.md
+kap-11/2b~2.md
 kap-11/2c.md
+kap-11/2c~2.md
+kap-11/2d.md
 kap-11/3.md
 kap-11/3a.md
 kap-11/4.md
@@ -288,6 +291,11 @@ kap-11/13.md
 kap-11/13a.md
 kap-11/14.md
 kap-11/15.md
+kap-11/16.md
+kap-11a/1.md
+kap-11a/2.md
+kap-11a/3.md
+kap-11a/4.md
 kap-12/1.md
 kap-12/2.md
 kap-12/3.md
@@ -321,8 +329,10 @@ kap-13/1k.md
 kap-13/1l.md
 kap-13/2.md
 kap-13/2a.md
+kap-13/2b.md
 kap-13/3.md
 kap-13/4.md
+kap-13/4~2.md
 kap-13/5.md
 kap-13/6.md
 kap-13/6a.md
