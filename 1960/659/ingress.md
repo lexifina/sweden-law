@@ -1,0 +1,1 @@
+Vid taxering till statlig och kommunal inkomstskatt skall ränta å svenska statens sparobligationer, ändå att obligationerna icke inlösts under beskattningsåret, upptagas med belopp varmed obligationernas inlösningsvärde ökat för den skattskyldige under beskattningsåret.
