@@ -1,0 +1,1 @@
+Med avvikelse från vad som föreskrivs i 6 § förordningen (1991:1395) om försäkring mot kostnader för sjuklön enligt 17 § lagen (1991:1047) om sjuklön får under tiden mars-maj 1998 försäkringstagaren säga upp försäkringen med verkan från närmast följande månadsskifte.
