@@ -1,1 +1,0 @@
-Tillämpningsområde m. m.
