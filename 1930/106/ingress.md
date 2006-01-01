@@ -1,0 +1,1 @@
+Det som sägs i 9 kap. 2 § ärvdabalken om förordnande genom testamente till den som inte är född eller avlad vid testators död gäller också för förordnande genom annan rättshandling till förmån för den som inte är född eller avlad vid tiden för förordnandet. Lag (2005:109).
