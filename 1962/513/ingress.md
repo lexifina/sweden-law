@@ -1,0 +1,1 @@
+Kungl. Maj:t har, med avseende å verkställighet jämlikt lagen den 21 september 1962 om indrivning i Sverige av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge, ävensom redovisning av influtet belopp, funnit gott förordna som följer.
