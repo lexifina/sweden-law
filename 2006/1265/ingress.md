@@ -1,0 +1,1 @@
+Regeringen fastställer balanstalet enligt 1 kap. 5 a § lagen (1998:674) om inkomstgrundad ålderspension till 1,0044 för år 2007.
