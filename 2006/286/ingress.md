@@ -1,0 +1,1 @@
+Enligt riksdagens beslut föreskrivs att konventionen den 13 mars 1995 mellan Konungariket Sverige och Republiken Chile om social trygghet, med de anpassningar och ändringar som har gjorts genom avtalet den 12 december 2005 mellan de båda staterna, skall gälla som lag här i landet. Konventionens innehåll framgår av en bilaga till denna lag.
