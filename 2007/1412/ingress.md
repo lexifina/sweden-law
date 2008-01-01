@@ -1,0 +1,1 @@
+Fastighetstaxering av småhusenheter år 2009 ska, i stället för vad som följer av 1 kap. 7 § fastighetstaxeringslagen (1979:1152), ske som förenklad fastighetstaxering.
