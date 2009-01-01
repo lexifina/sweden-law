@@ -1,0 +1,1 @@
+Föreskrifter för verkställighet av 3 § lagen (1984:318) om kontrollavgift vid olovlig parkering får meddelas av Transportstyrelsen. Förordning (2008:1115).
