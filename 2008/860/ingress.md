@@ -1,0 +1,1 @@
+Fullmäktige i Riksbanken föreskriver med stöd av 5 kap. 1 § lagen (1988:1385) om Sveriges riksbank att ett mynt på en krona med specialprägling med anledning av 200-årsminnet av freden 1809 då Finland skiljdes från Sverige ska ges ut samt att myntet ska ha följande storlek, beskaffenhet och utseende.
