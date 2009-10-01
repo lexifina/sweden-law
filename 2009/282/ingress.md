@@ -1,0 +1,1 @@
+Femtioöresmyntet ska upphöra att vara lagligt betalningsmedel den 30 september 2010.
