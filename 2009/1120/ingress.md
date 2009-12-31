@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Konungariket Sverige och Jersey undertecknade den 28 oktober 2008 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
