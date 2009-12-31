@@ -1,0 +1,1 @@
+Det avtal om upplysningar i skatteärenden som Konungariket Sveriges regering och Caymanöarnas regering undertecknade den 1 april 2009 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
