@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar avseende skatter som Konungariket Sverige och Bermuda undertecknade den 16 april 2009 ska, tillsammans med det protokoll som är fogat till avtalet och som utgör en del av detta, gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
