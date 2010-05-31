@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar avseende skatter som Konungariket Sveriges regering och Brittiska Jungfruöarnas regering undertecknade den 18 maj 2009 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
