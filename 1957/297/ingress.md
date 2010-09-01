@@ -1,3 +1,0 @@
-# FÖRSTA AVDELNINGEN
-
-Civil luftfart
