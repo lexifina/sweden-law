@@ -1,3 +1,0 @@
-ingress.md
-kap-4/22a.md
-kap-6/35.md
