@@ -1,1 +1,0 @@
-Kungl. Maj:t har funnit gott förordna, att den i bilaga B till gränsälvsöverenskommelsen den 16 september 1971 mellan Sverige och Finland intagna stadgan för fisket inom Torne älvs fiskeområde skall äga tillämpning fr.o.m. den 1 januari 1972 och så länge gränsälvs överenskommelsen är i kraft. Stadgan har den lydelse som härvid fogad bilaga utvisar.
