@@ -1,0 +1,1 @@
+Regeringen fastställer enligt 65 kap. 5 § inkomstskattelagen (1999:1229) den nedre skiktgränsen till 383 000 kronor och den övre skiktgränsen till 548 300 kronor vid 2012 års taxering.
