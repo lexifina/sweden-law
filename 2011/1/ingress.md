@@ -1,0 +1,1 @@
+Riksbanken ger till känna att Riksbankens referensränta för perioden den 1 januari - 30 juni 2011 är 1,5 procent.
