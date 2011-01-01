@@ -1,0 +1,5 @@
+Periodisk avgift som är bestämd i särskild vara eller tjänstbarhet och som har utgått i pengar enligt markegång, ska bestämmas med hänsyn till förändringar i prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken.
+
+Till grund för beräkningen läggs den med tillämpning av 1982 års markegångstaxa bestämda avgiften. Avgift som skulle ha bestämts på grundval av markegångstaxa för ett visst senare år utgörs av nyssnämnda avgift multiplicerad med det tal som anger förhållandet mellan prisbasbeloppet för närmast följande år och basbeloppet enligt den upphävda lagen (1962:381) om allmän försäkring för år 1983.
+
+Den sålunda beräknade avgiften avrundas nedåt till helt krontal. Lag (2010:1233).
