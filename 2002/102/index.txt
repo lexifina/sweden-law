@@ -1,7 +1,0 @@
-kap-1/1.md
-kap-1/2.md
-kap-1/3.md
-kap-1/4.md
-kap-1/5.md
-kap-1/6.md
-kap-1/7.md
