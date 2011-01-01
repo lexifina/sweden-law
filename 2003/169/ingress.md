@@ -1,0 +1,3 @@
+Regeringen får på begäran av Förenta nationerna eller enligt beslut som fattats av Organisationen för säkerhet och samarbete i Europa ställa en väpnad styrka till förfogande för fredsbevarande verksamhet utomlands. Högst tretusen personer anställda i Försvarsmakten får samtidigt tjänstgöra i väpnad tjänst utomlands i internationella militära insatser.
+
+Lag (2010:450).
