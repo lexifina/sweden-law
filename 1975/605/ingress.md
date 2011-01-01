@@ -1,0 +1,7 @@
+Den som har beställt båt och lämnat eller utfäst sig att lämna tillverkaren förskott av pengar eller byggnadsämnen får låta registrera ett därom upprättat skriftligt avtal hos Transportstyrelsen och får därmed förmånsrätt enligt 4 § förmånsrättslagen (1970:979) i byggnadsämnena och vad som för beställarens räkning tillverkats med förskottet.
+
+Regeringen meddelar föreskrifter om registrering enligt denna lag.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om avgifter för registrering enligt denna lag.
+
+Vid överklagande av beslut enligt denna lag tillämpas bestämmelserna i 14 och 14 a §§ lagen (1979:377) om registrering av båtar för yrkesmässig sjöfart m.m. Lag (2010:1552).
