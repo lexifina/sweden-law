@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Konungariket Sveriges regering och Furstendömet Andorras regering undertecknade den 24 februari 2010 ska gälla som lag här i landet. Avtalet är avfattat på svenska, katalanska och engelska. Den svenska och engelska texten framgår av bilaga till denna lag.
