@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Anguillas regering undertecknade den 14 december 2009 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
