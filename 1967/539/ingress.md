@@ -1,0 +1,1 @@
+Vad som sägs i 5 § andra stycket första punkten lagen (1967:531) om tryggande av pensionsutfästelse m.m. ska tillämpas även på Svenska bostadskreditkassan och bostadskreditförening. Förordning (2011:464).
