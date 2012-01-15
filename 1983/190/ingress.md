@@ -1,0 +1,9 @@
+Som inkomst av anställning enligt 59 kap. 13 § 13 socialförsäkringsbalken ska anses
+
+1. konstnärsbidrag enligt 8 § första stycket och långtidsstipendium enligt 16 § förordningen (1976:528) om bidrag till konstnärer samt arbetsstipendium enligt 10 § och långtidsstipendium enligt 11 § förordningen (2019:1269) om statsbidrag till konstnärer, under förutsättning att bidraget eller stipendiet lämnas under en tid av minst tre år,
+
+2. ersättning enligt 3 och 4 §§ förordningen (1982:600) om Sveriges bildkonstnärsfond, under förutsättning att ersättningen lämnas under en tid av minst tre år och inte är av pensionskaraktär,
+
+3. arbetsstipendium från Sveriges författarfond, under förutsättning att stipendiet lämnas under en tid av minst tre år och inte är av pensionskaraktär.
+
+Förordning (2019:1271).
