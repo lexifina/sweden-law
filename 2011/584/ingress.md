@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Konungariket Sveriges regering och Furstendömet Liechtensteins regering undertecknade den 17 december 2010 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
