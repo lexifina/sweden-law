@@ -1,0 +1,1 @@
+Allmänna bestämmelser om häradsallmänningar.
