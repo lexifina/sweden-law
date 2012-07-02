@@ -1,0 +1,1 @@
+Riksbanken ger till känna att Riksbankens referensränta för perioden den 1 juli - 31 december 2012 är 1,5 procent.
