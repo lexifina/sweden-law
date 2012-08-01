@@ -1,0 +1,1 @@
+Enligt riksdagens beslut föreskrivs att konventionen den 30 juni 1978 mellan Sverige och Turkiet om social trygghet, i den lydelse som följer av tilläggsöverenskommelsen den 3 juni 1997 och tilläggskonventionen den 26 augusti 2004 mellan de båda staterna, skall gälla som lag här i landet. Konventionens innehåll framgår av en bilaga till denna lag.
