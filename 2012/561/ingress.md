@@ -1,0 +1,1 @@
+Regeringen fastställer balansindexet enligt 58 kap. 22-24 §§ socialförsäkringsbalken till 148,53 för år 2013.
