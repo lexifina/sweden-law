@@ -1,0 +1,1 @@
+Regeringen fastställer inkomstindexet enligt 58 kap. 10-12 §§ socialförsäkringsbalken till 155,61 för år 2014.
