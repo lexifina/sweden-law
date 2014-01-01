@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Konungariket Sveriges regering och Republiken Panamas regering undertecknade den 12 november 2012 ska gälla som lag här i landet. Avtalet är avfattat på svenska, spanska och engelska. Den svenska och engelska texten framgår av bilaga till denna lag.
