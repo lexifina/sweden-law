@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Konungariket Sveriges regering och Konungariket Bahrains regering undertecknade den 14 oktober 2011 ska gälla som lag här i landet. Avtalet är avfattat på svenska, arabiska och engelska. Den svenska och engelska texten framgår av bilaga till denna lag.
