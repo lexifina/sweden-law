@@ -1,0 +1,13 @@
+## Övergångsbestämmelser
+
+1999:1166
+
+Denna förordning träder i kraft den 1 januari 2000. Genom förordningen upphävs förordningen (1981:112) om prövning av vissa ärenden enligt lagen (1980:1103) om årsredovisning m.m. i vissa företag. Förordningen skall dock fortfarande tillämpas i fråga om räkenskapsår som har inletts före den 1 januari 2000.
+
+I fråga om juridiska personer som avses i 2 kap. 2 § första stycket bokföringslagen (1999:1078) skall förordningen tillämpas även för räkenskapsår som inleds före utgången av år 2000.
+
+2004:359
+
+1. Denna förordning träder i kraft den 1 juli 2004.
+
+2. Tillståndsärenden som avses i 11 och 15 §§ revisionslagen (1999:1079) som har kommit in till Patent- och registreringsverket men i vilka verket inte har fattat beslut före ikraftträdandet skall överlämnas till Bolagsverket för fortsatt handläggning.
