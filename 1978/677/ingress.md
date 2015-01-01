@@ -1,1 +1,0 @@
-' Undantag från myndighetsförordningen
