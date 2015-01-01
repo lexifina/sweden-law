@@ -1,0 +1,1 @@
+Polismyndigheten får meddela närmare föreskrifter om verkställighet av lagen (1976:511) om omhändertagande av berusade personer m.m. Myndigheten ska samråda med Socialstyrelsen när det gäller föreskrifter som rör sociala och medicinska frågor. Förordning (2014:1123).
