@@ -1,0 +1,1 @@
+Har upphävts genom lag (2024:401). 1 § Ersättning för kostnader för sjuklön enligt 17 eller 17 d § lagen (1991:1047) om sjuklön ska tillgodoföras arbetsgivaren genom kreditering på sådant skattekonto som avses i 61 kap. 1 § skatteförfarandelagen (2011:1244).
