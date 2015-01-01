@@ -1,0 +1,1 @@
+Polismyndigheten får meddela föreskrifter enligt 2 § tredje stycket lagen (1979:357) om yrkesmässig försäljning av dyrkverktyg och de ytterligare föreskrifter som behövs för verkställigheten av lagen. Förordning (2014:1129).
