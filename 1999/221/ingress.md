@@ -1,0 +1,1 @@
+Polismyndigheten får meddela föreskrifter om verkställighet av lagen (1999:216) om ögonundersökning vid misstanke om vissa brott i trafiken. Föreskrifter som rör Tullverket eller Kustbevakningen får meddelas efter att respektive myndighet har hörts. Förordning (2014:1157).
