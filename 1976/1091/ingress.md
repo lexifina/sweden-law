@@ -1,0 +1,1 @@
+Polismyndigheten får meddela föreskrifter om verkställighet av lagen (1976:1090) om alkoholutandningsprov. Föreskrifter som rör Tullverket eller Kustbevakningen får meddelas efter att respektive myndighet har hörts. Förordning (2014:1125).
