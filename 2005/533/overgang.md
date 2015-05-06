@@ -1,3 +1,0 @@
-## Övergångsbestämmelser
-
-Detta tillkännagivande, som ersätter tillkännagivandet (2001:727) med anledning av Sveriges tillträde till Haagkonventionen om slopande av kravet på legalisering av utländska allmänna handlingar, är föranlett av att Regeringskansliet (Utrikesdepartementet) från och med den 1 januari 2005 inte längre är behörig myndighet för utfärdande av intyg enligt konventionen samt att Albanien, Azerbajdzjan, Bulgarien, Colombia, Cooköarna, Dominica, Ecuador, Estland, Grenada, Honduras, Island, Kazakstan, Kina såvitt avser Macau, Monaco, Namibia, Nya Zeeland, Puerto Rico, Rumänien, Saint Lucia, Saint Vincent och Grenadinerna, Serbien och Montenegro, Slovakien och Ukraina har anslutit sig till konventionen.
