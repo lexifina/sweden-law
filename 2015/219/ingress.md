@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Marshallöarnas regering undertecknade den 28 september 2010 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilagan till denna lag.
