@@ -1,0 +1,1 @@
+Regeringen föreskriver att den ränta som enligt 19 kap. 47 § socialförsäkringsbalken ska betalas på skuld som avser betalningsskyldighet för underhållsstöd enligt samma balk ska vara 0,6 procent för år 2016.
