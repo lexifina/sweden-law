@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Costa Ricas regering undertecknade den 29 juni 2011 ska, tillsammans med det protokoll som är fogat till avtalet och som utgör en del av detta, gälla som lag här i landet. Avtalet är avfattat på svenska, spanska och engelska. Den svenska och engelska texten framgår av bilagan till denna lag.
