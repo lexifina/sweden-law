@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Montserrats regering undertecknade den 22 november 2010 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilaga till denna lag.
