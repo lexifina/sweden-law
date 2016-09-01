@@ -1,1 +1,0 @@
-Regeringen föreskriver i fråga om övertagande av sådana lån som anges i en till denna förordning fogad förteckning (*/k/ bilaga */-k/), att ansökan av ny fastighetsägare eller ny ägare av huset att få överta lånet skall göras hos länsbostadsnämnden inom tre månader från dagen för förvärvet. Ansökan om övertagande som görs senare skall avslås, om inte särskilda skäl talar mot det.
