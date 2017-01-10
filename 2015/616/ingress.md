@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Bruneis regering undertecknade den 27 juni 2012 ska gälla som lag här i landet. Avtalet är avfattat på svenska, malajiska och engelska. Den svenska och engelska texten framgår av bilagan till denna lag.
