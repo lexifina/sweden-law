@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Vanuatus regering undertecknade den 13 oktober 2010 ska gälla som lag här i landet. Avtalet är avfattat på engelska och framgår av bilagan till denna lag.
