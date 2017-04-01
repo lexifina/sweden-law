@@ -1,0 +1,1 @@
+Det avtal om utbyte av upplysningar i skatteärenden som Sveriges regering och Förenade Arabemiratens regering undertecknade den 5 november 2015 ska gälla som lag här i landet. Avtalet är avfattat på svenska, arabiska och engelska. Den svenska och engelska texten framgår av bilagan till denna lag.
