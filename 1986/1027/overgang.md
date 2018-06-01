@@ -1,0 +1,25 @@
+## Övergångsbestämmelser
+
+1995:1342
+
+1. Denna lag träder i kraft den 1 januari 1996 och tillämpas på inkomst som förvärvas den 1 januari 1996 eller senare.
+
+2. Genom lagen upphävs förordningen (1986:1083) om dubbelbeskattningsavtal mellan Sverige och Folkrepubliken Kina dock att vad som i förordningen sägs om ikraftträdande av lagen fortfarande skall gälla.
+
+2000:211
+
+1. Denna lag träder i kraft den dag regeringen bestämmer.
+
+2. Denna lag skall tillämpas
+
+a) när det gäller källskatter: på belopp som betalats eller tillgodoräknats den 1 januari 1997 eller senare,
+
+b) när det gäller andra skatter på inkomst: på beskattningsår som börjar den 1 januari det kalenderår som följer närmast efter den dag då lagen träder i kraft eller senare, såvida inte annat särskilt föreskrivs i avtalet. Vid tillämpning av artikel 23 punkt 2 a i avtalets äldre lydelse skall dock bestämmelsen i artikel 23 punkt 4 i avtalets nya lydelse tillämpas på ränta och royalty som förvärvats fr.o.m. 1 januari 1997.
+
+2017:1282
+
+1. Denna lag träder i kraft den dag regeringen bestämmer.
+
+2. Lagen tillämpas från dagen för ikraftträdandet.
+
+## Bilaga /inte med här. Senast ändrad genom lag (2017:1282)./
