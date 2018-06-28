@@ -1,0 +1,1 @@
+Enligt riksdagens beslut föreskrivs att Statens energimyndighets föreskrifter (STEMFS 2005:8) om information om energi- och annan resursförbrukning hos elektriska diskmaskiner för hushållsbruk ska upphöra att gälla vid utgången av juli 2018.
