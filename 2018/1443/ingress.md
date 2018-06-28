@@ -1,0 +1,1 @@
+Enligt riksdagens beslut föreskrivs att Statens energimyndighets föreskrifter (STEMFS 2005:13) om energieffektivitetskrav för elektriska kylskåp och frysar för hushållsbruk ska upphöra att gälla vid utgången av juli 2018.
