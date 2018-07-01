@@ -1,0 +1,1 @@
+Kungl. Maj:t har, med stöd av 1 kap. 3 § första stycket lagen den 8 juli 1904 (nr 26 s.1) om vissa internationella rättsförhållanden rörande äktenskap, förmynderskap och adoption, funnit gott förordna som följer.
