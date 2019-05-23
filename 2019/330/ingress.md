@@ -1,0 +1,1 @@
+Regeringen föreskriver att Konsumentverkets föreskrifter (KOVFS 2005:3) om formulär vid hemförsäljning ska upphöra att gälla vid utgången av juni 2019.
