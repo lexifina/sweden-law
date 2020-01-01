@@ -1,0 +1,1 @@
+Har upphävts genom lag (2024:782). 1 § Denna lag reglerar förfarandet vid prövning av fråga om förverkande av egendom till det allmänna eller om annan särskild rättsverkan av brott, när frågan inte rör någon som är tilltalad för brott. Lagen gäller, om inte annat följer av särskilda bestämmelser i lag eller annan författning. Lag (1989:137).
