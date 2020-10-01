@@ -1,0 +1,3 @@
+Ekonomiskt stöd för anställning till en arbetsgivare som har beslutats av Arbetsförmedlingen, och sjöfartsstöd som har beslutats av Trafikverket, får tillgodoföras arbetsgivaren genom kreditering på ett sådant skattekonto som avses i 61 kap. 1 § skatteförfarandelagen (2011:1244).
+
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om de stöd som får krediteras skattekontot. Lag (2020:479).
