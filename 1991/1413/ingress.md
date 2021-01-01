@@ -1,0 +1,1 @@
+Upptagningsområden m. m.
