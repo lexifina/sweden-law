@@ -1,0 +1,27 @@
+Grundförordningar som zoonoslagen kompletterar i de delar de innehåller bestämmelser som faller inom lagens tillämpningsområde
+
+1. Europaparlamentets och rådets förordning (EU) 2017/625 av den 15 mars 2017 om offentlig kontroll och annan offentlig verksamhet för att säkerställa tillämpningen av livsmedels- och foderlagstiftningen och av bestämmelser om djurs hälsa och djurskydd, växtskydd och växtskyddsmedel samt om ändring av Europaparlamentets och rådets förordningar (EG) nr 999/2001, (EG) nr 396/2005, (EG) nr 1069/2009, (EG) nr 1107/2009, (EU) nr 1151/2012, (EU) nr 652/2014, (EU) 2016/429 och (EU) 2016/2031, rådets förordningar (EG) nr 1/2005 och (EG) nr 1099/2009 och rådets direktiv 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG och 2008/120/EG och om upphävande av Europaparlamentets och rådets förordningar (EG) nr 854/2004 och (EG) nr 882/2004, rådets direktiv 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG och 97/78/EG samt rådets beslut 92/438/EEG (förordningen om offentlig kontroll).
+
+2. Europaparlamentets och rådets förordning (EU) 2016/429 av den 9 mars 2016 om överförbara djursjukdomar och om ändring och upphävande av vissa akter med avseende på djurhälsa ("djurhälsolag").
+
+Grundförordningar som zoonoslagen kompletterar i de delar som anges i det följande
+
+3. Europaparlamentets och rådets förordning (EG) nr 2160/2003 av den 17 november 2003 om bekämpning av salmonella och vissa andra livsmedelsburna zoonotiska smittämnen, när det gäller
+
+- artikel 3.2, i de delar som gäller kontrollprogram och kontroll i primärproduktionen av djur,
+
+- artiklarna 8-10, och
+
+- artikel 12, i den del bestämmelsen gäller laboratorier som deltar i kontrollprogram enligt artikel 5 i primärproduktionen av djur.
+
+4. Europaparlamentets och rådets förordning (EG) nr 852/2004 av den 29 april 2004 om livsmedelshygien
+
+- del A, punkt 4 h i bilaga I, när det gäller sjukdomar som faller inom tillämpningsområdet för zoonoslagen, och
+
+- del A, punkt 7 i bilaga I, när det gäller sådana uppgifter som faller inom tillämpningsområdet för zoonoslagen.
+
+5. Europaparlamentets och rådets förordning (EG) nr 853/2004 av den 29 april 2004 om fastställande av särskilda hygienregler för livsmedel av animaliskt ursprung
+
+- avsnitt I, kapitel I, punkt 2 i bilaga III, när det gäller sjukdomar som faller inom tillämpningsområdet för zoonoslagen, och
+
+- avsnitt II, kapitel I, punkt 2 i bilaga III, när det gäller sådana uppgifter som faller inom tillämpningsområdet för zoonoslagen.
