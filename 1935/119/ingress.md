@@ -1,7 +1,0 @@
-Kungl. Maj:t har, sedan till hugfästande av riksdagens femhundraårsminne mynt- och justeringsverket bemyndigats att verkställa utmyntning av högst 500,000 stycken silvermynt å fem kronor, velat härmed kungöra, att ett minnesmynt av silver å fem kronor, utgörande lagligt betalningsmedel under de villkor, som stadgas i lagen om rikets mynt, inom kort kommer att i rörelsen utsläppas och genom mynt- och justeringsverkets försorg fördelas till spridning över riket ävensom att det nya myntets prägel blivit fastställd sålunda:
-
-/k/ På myntets framsida: /-k/ Hans Maj:t Konungens bild, profil, vänster sida. Omskrift över bilden: "GUSTAF V SVERIGES KONUNG" och under bilden: "MED FOLKET FÖR FOSTERLANDET". Mellan orden "GUSTAF" och "MED" samt mellan orden "KONUNG" och "FOSTERLANDET" en rosett. Under bilden Stockholms stads märke, myntdirektörens märke (G) samt gravörens signatur (EL i monogram).
-
-/k/ På frånsidan: /-k/ I mittfältet en på ett kors lagd sköld med riksvapnet, tre kronor. Omskrift: "1435 SVERIGES RIKSDAG 1935". Under skölden: "5 KRONOR". Vid vardera ändan av korsets tre övre armar samt mellan årtalen och valörbeteckningen rosetter, lika dem på framsidan.
-
-Myntets /k/ diameter: /-k/ 36 millimeter. /k/ Randen /-k/ räfflad.
