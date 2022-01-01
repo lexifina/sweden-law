@@ -48,5 +48,4 @@ kap-12/1.md
 kap-12/2.md
 kap-13/1.md
 kap-13/2.md
-kap-13/3.md
 overgang.md
