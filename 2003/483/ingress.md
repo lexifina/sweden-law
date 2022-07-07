@@ -1,1 +1,0 @@
-Rådets förordning (EG) nr 1206/2001 om samarbete mellan medlemsstaternas domstolar i fråga om bevisupptagning i mål och ärenden av civil eller kommersiell natur trädde i kraft den 1 juli 2001. Förordningen, som gäller mellan EU:s medlemsstater med undantag av Danmark, finns publicerad i Europeiska gemenskapernas officiella tidning (EGT L 174, 27.6.2001, s. 1).
