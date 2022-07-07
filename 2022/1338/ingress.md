@@ -1,0 +1,1 @@
+Regeringen tillkännager att tillkännagivandet (2003:483) om EG:s förordning om bevisupptagning i mål och ärenden av civil eller kommersiell natur ska utgå.
