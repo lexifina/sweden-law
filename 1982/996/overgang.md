@@ -1,0 +1,683 @@
+## Övergångsbestämmelser
+
+1997:1111
+
+Denna förordning träder i kraft den 1 januari 1998. Äldre föreskrifter gäller fortfarande i fråga om mål eller ärenden som har anhängiggjorts före ikraftträdandet.
+
+2001:1303
+
+1) Denna förordning träder i kraft
+
+a) den 28 januari 2002 i fråga om Luleå tingsrätt och Gällivare tingsrätt,
+
+b) den 25 februari 2002 i fråga om Ångermanlands tingsrätt,
+
+c) den 15 april 2002 i fråga om Lunds tingsrätt.
+
+2) Lunds tingsrätt får till och med den 31 december 2003 även ha kansli i Eslöv.
+
+2004:113
+
+Denna förordning träder i kraft den 7 februari 2005.
+
+Värmlands tingsrätt får t.o.m. den 31 mars 2007 även ha kanslier i Arvika, Kristinehamn och Sunne.
+
+Förordning (2006:1164).
+
+2005:65
+
+Denna förordning träder i kraft den 26 september 2005.
+
+Jönköpings tingsrätt får t.o.m. den 31 augusti 2006 även ha kansli i Värnamo.
+
+2007:77
+
+1. Denna förordning träder i kraft den 1 april 2007.
+
+2. Har upphävts genom förordning (2007:1370).
+
+3. Har upphävts genom förordning (2007:1370).
+
+4. Har upphävts genom förordning (2007:1370).
+
+2008:674
+
+1. Denna förordning träder i kraft den 12 januari 2009.
+
+2. Skaraborgs tingsrätt får t.o.m. den 1 april 2011 även ha kansli i Lidköping och Mariestad.
+
+2008:675
+
+1. Denna förordning träder i kraft den 27 april 2009.
+
+2. Nyköpings tingsrätt får t.o.m. den 1 oktober 2010 även ha kansli i Katrineholm. Förordning (2010:226).
+
+### Bilaga
+
+Tingsrätt Kommun(er) Kansliorter Ytterligare
+
+som ingår i med tings- tingsställe
+
+domkretsen ställe
+
+Under Svea hovrätt
+
+Attunda Danderyd Sollentuna
+
+Järfälla
+
+Sigtuna
+
+Sollentuna
+
+Täby
+
+Upplands-Bro
+
+Upplands Väsby
+
+Vallentuna
+
+Vaxholm
+
+Österåker
+
+Nacka Nacka Nacka
+
+Tyresö
+
+Värmdö
+
+Norrtälje Norrtälje Norrtälje
+
+Solna Ekerö Solna
+
+Solna
+
+Stockholm,
+
+del av
+
+(distrikten
+
+Bromma,
+
+Västerled,
+
+Vällingby,
+
+Hässelby,
+
+Kista och
+
+Spånga)
+
+Sundbyberg
+
+Stockholm Lidingö Stockholm
+
+Stockholm,
+
+del av
+
+(distrikten
+
+Stockholms
+
+domkyrko-
+
+distrikt,
+
+Stockholms
+
+Sankt Johannes,
+
+Stockholms
+
+Adolf Fredrik,
+
+Stockholms
+
+Gustav Vasa,
+
+Stockholms
+
+Sankt Matteus,
+
+Stockholms
+
+Engelbrekt,
+
+Stockholms
+
+Hedvig
+
+Eleonora,
+
+Stockholms
+
+Oscar,
+
+Stockholms
+
+Maria
+
+Magdalena,
+
+Högalid,
+
+Stockholms
+
+Katarina,
+
+Stockholms
+
+Sofia,
+
+Essinge,
+
+Kungsholmen
+
+och
+
+Stockholms
+
+Sankt Göran)
+
+Södertälje Nykvarn Södertälje
+
+Salem
+
+Södertälje
+
+Södertörns Botkyrka Huddinge
+
+Haninge
+
+Huddinge
+
+Nynäshamn
+
+Stockholm,
+
+del av
+
+(distrikten
+
+Brännkyrka,
+
+Vantör,
+
+Farsta,
+
+Enskede,
+
+Skarpnäck,
+
+Hägersten
+
+och
+
+Skärholmen)
+
+Uppsala Enköping Uppsala
+
+Heby
+
+Håbo
+
+Knivsta
+
+Tierp
+
+Uppsala
+
+Älvkarleby
+
+Östhammar
+
+Eskilstuna Eskilstuna Eskilstuna Strängnäs
+
+Strängnäs
+
+Nyköpings Flen Nyköping Malmköping
+
+Gnesta
+
+Katrineholm
+
+Nyköping
+
+Oxelösund
+
+Trosa
+
+Vingåker
+
+Gotlands Gotland Visby
+
+Västmanlands Samtliga Västerås Fagersta
+
+kommuner i
+
+Västmanlands
+
+län
+
+Falu Avesta Falun
+
+Borlänge
+
+Falun
+
+Gagnef
+
+Hedemora
+
+Ludvika
+
+Smedjebacken
+
+Säter
+
+Mora Leksand Mora
+
+Malung-Sälen
+
+Mora
+
+Orsa
+
+Rättvik
+
+Vansbro
+
+Älvdalen
+
+Under Göta hovrätt
+
+Linköpings Boxholm Linköping
+
+Kinda
+
+Linköping
+
+Mjölby
+
+Motala
+
+Vadstena
+
+Ydre
+
+Åtvidaberg
+
+Ödeshög
+
+Norrköpings Finspång Norrköping
+
+Norrköping
+
+Söderköping
+
+Valdemarsvik
+
+Eksjö Aneby Eksjö
+
+Eksjö
+
+Nässjö
+
+Sävsjö
+
+Tranås
+
+Vetlanda
+
+Jönköpings Gislaved Jönköping
+
+Gnosjö
+
+Habo
+
+Jönköping
+
+Mullsjö
+
+Vaggeryd
+
+Värnamo
+
+Växjö Alvesta Växjö
+
+Lessebo
+
+Ljungby
+
+Markaryd
+
+Tingsryd
+
+Uppvidinge
+
+Växjö
+
+Älmhult
+
+Kalmar Samtliga Kalmar Oskarshamn
+
+kommuner i Vimmerby
+
+Kalmar län Västervik
+
+Skaraborgs Essunga Skövde
+
+Falköping
+
+Grästorp
+
+Gullspång
+
+Götene
+
+Hjo
+
+Karlsborg
+
+Lidköping
+
+Mariestad
+
+Skara
+
+Skövde
+
+Tibro
+
+Tidaholm
+
+Töreboda
+
+Vara
+
+Örebro Samtliga Örebro Hällefors
+
+kommuner i
+
+Örebro län
+
+Under Hovrätten över Skåne och Blekinge
+
+Blekinge Samtliga Karlshamn
+
+kommuner i Karlskrona
+
+Blekinge län
+
+Hässleholms Hässleholm Hässleholm
+
+Osby
+
+Kristianstads Bromölla Kristianstad
+
+Kristianstad
+
+Östra Göinge
+
+Helsingborgs Bjuv Helsingborg
+
+Båstad
+
+Helsingborg
+
+Höganäs
+
+Klippan
+
+Perstorp
+
+Åstorp
+
+Ängelholm
+
+Örkelljunga
+
+Lunds Eslöv Landskrona
+
+Hörby Lund
+
+Höör
+
+Kävlinge
+
+Landskrona
+
+Lomma
+
+Lund
+
+Staffanstorp
+
+Svalöv
+
+Malmö Burlöv Malmö
+
+Malmö
+
+Vellinge
+
+Ystads Simrishamn Ystad
+
+Sjöbo
+
+Skurup
+
+Svedala
+
+Tomelilla
+
+Trelleborg
+
+Ystad
+
+Under Hovrätten för Västra Sverige
+
+Halmstads Halmstad Halmstad Laholm
+
+Hylte
+
+Laholm
+
+Varbergs Falkenberg Varberg Kungsbacka
+
+Kungsbacka
+
+Varberg
+
+Göteborgs Göteborg Göteborg
+
+Härryda
+
+Kungälv
+
+Mölndal
+
+Partille
+
+Öckerö
+
+Uddevalla Lysekil Uddevalla Strömstad
+
+Munkedal
+
+Orust
+
+Sotenäs
+
+Stenungsund
+
+Strömstad
+
+Tanum
+
+Tjörn
+
+Uddevalla
+
+Alingsås Ale Alingsås
+
+Alingsås
+
+Herrljunga
+
+Lerum
+
+Vårgårda
+
+Borås Bollebygd Borås
+
+Borås
+
+Mark
+
+Svenljunga
+
+Tranemo
+
+Ulricehamn
+
+Vänersborgs Bengtsfors Vänersborg
+
+Dals-Ed
+
+Färgelanda
+
+Lilla Edet
+
+Mellerud
+
+Trollhättan
+
+Vänersborg
+
+Åmål
+
+Värmlands Samtliga Karlstad Arvika
+
+kommuner i Sunne
+
+Värmlands län
+
+Under Hovrätten för Nedre Norrland
+
+Gävle Gävle Gävle
+
+Hofors
+
+Ockelbo
+
+Sandviken
+
+Hälsinglands Bollnäs Hudiksvall Söderhamn
+
+Hudiksvall
+
+Ljusdal
+
+Nordanstig
+
+Ovanåker
+
+Söderhamn
+
+Sundsvalls Sundsvall Sundsvall
+
+Timrå
+
+Ånge
+
+Ångermanlands Härnösand Härnösand Örnsköldsvik
+
+Kramfors
+
+Sollefteå
+
+Örnsköldsvik
+
+Östersunds Berg Östersund
+
+Bräcke
+
+Härjedalen
+
+Krokom
+
+Ragunda
+
+Strömsund
+
+Åre
+
+Östersund
+
+Under Hovrätten för Övre Norrland
+
+Lycksele Dorotea Lycksele
+
+Lycksele
+
+Sorsele
+
+Storuman
+
+Vilhelmina
+
+Åsele
+
+Skellefteå Malå Skellefteå
+
+Norsjö
+
+Skellefteå
+
+Umeå Bjurholm Umeå
+
+Nordmaling
+
+Robertsfors
+
+Umeå
+
+Vindeln
+
+Vännäs
+
+Gällivare Gällivare Gällivare Kiruna
+
+Jokkmokk
+
+Kiruna
+
+Haparanda Haparanda Haparanda Kalix
+
+Kalix
+
+Pajala
+
+Överkalix
+
+Övertorneå
+
+Luleå Arjeplog Luleå Piteå
+
+Arvidsjaur
+
+Boden
+
+Luleå
+
+Piteå
+
+Älvsbyn
+
+Förordning (2022:1357).
