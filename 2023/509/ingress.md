@@ -1,0 +1,1 @@
+Riksbanken ger till känna att Riksbankens referensränta för perioden den 1 juli-31 december 2023 är 3,50 procent.
