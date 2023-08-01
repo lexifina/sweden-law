@@ -1,0 +1,9 @@
+Skydd som avses i 17 kap. 5 § första stycket brottsbalken ska tillkomma
+
+1. befattningshavare som handhar säkerhets- eller ordningstjänst vid kanal- eller slussverk eller järnvägsanläggning eller flygplats,
+
+2. den som för försvaret fullgör bevaknings- eller ordningsuppgift och bär uniform eller märke som tydligt utvisar denna uppgift,
+
+3. trafiktjänsteman som enligt 4 kap. 2 § ordningslagen (1993:1617) omfattas av bestämmelserna i det kapitlet.
+
+Lag (2023:497).
