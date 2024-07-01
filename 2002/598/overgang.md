@@ -1,0 +1,5 @@
+## Övergångsbestämmelser
+
+2002:598
+
+Denna lag träder i kraft den 1 juli 2002. I artikel 9 i förordningen finns bestämmelser om när förordningen blir tillämplig på gränsöverskridande betalningar som utförs i svensk valuta och om när utvidgningen får verkan.
