@@ -1,1 +1,0 @@
-Har upphävts genom lag (2024:782). 1 § Denna lag innehåller bestämmelser om förfarandet vid prövning av en fråga om sådant förverkande som avses i 36 kap. 1 b § brottsbalken, när frågan inte rör någon som är tilltalad för brott.
