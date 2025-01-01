@@ -1,0 +1,271 @@
+## Övergångsbestämmelser
+
+1984:1052
+
+Denna lag träder i kraft den 1 januari 1985 och tillämpas första gången vid 1986 års taxering. Ingår fastighet i förvärvskälla för vilken beskattningsåret har börjat före ikraftträdandet skall skatten vid 1986 års taxering påföras med så stor del som svarar mot förhållandet mellan den del av beskattningsåret som infaller efter ikraftträdandet och hela beskattningsåret.
+
+I stället för vad som därom föreskrivs i 3 § första stycket b, f, g, i och k skall procenttalet vid 1986 års taxering utgöra 0,7 och vid 1987 års taxering 1,4. I stället för vad som därom föreskrivs i 3 § första stycket c och e skall procenttalet vid 1986 års taxering utgöra 0,5 och vid 1987 års taxering 1. Lag (1984:1078).
+
+1986:1246
+
+1. Denna lag träder i kraft den 1 januari 1987.
+
+2. De nya bestämmelserna i 3 § första stycket tillämpas första gången vid 1988 års taxering. Äldre bestämmelser i 3 § första stycket gäller i fråga om fastighetsskatt för beskattningsår som har påbörjats före ikraftträdandet.
+
+1987:565
+
+1. Denna lag träder i kraft den 1 januari 1988 och tillämpas första gången vid 1989 års taxering.
+
+2. I fråga om fastighetsskatt för beskattningsår som har påbörjats före ikraftträdandet skall underlaget för beräkningen av fastighetsskatten för hyreshusenheter utgöra hela det taxeringsvärde som åsatts för år 1987. Om taxeringsvärdet sänkts vid 1988 års allmänna fastighetstaxering skall för nämnda bekattningsår underlaget för beräkningen av fastighetsskatten för hyreshusenheter utgöra hela det nya taxeringsvärdet. Lag (1987:1157).
+
+1989:1019
+
+Denna lag träder i kraft den 1 januari 1990 och tillämpas första gången vid 1991 års taxering. Äldre bestämmelser gäller i fråga om fastighetsskatt för beskattningsår som påbörjats före ikraftträdandet.
+
+1990:394
+
+Denna lag träder i kraft den 30 juni 1990 och tillämpas första gången vid 1991 års taxering.
+
+1990:652
+
+1. Denna lag träder i kraft den 1 juli 1990 och tillämpas första gången vid 1992 års taxering. Bestämmelserna i 3 § andra stycket tillämpas dock först vid 1993 års taxering.
+
+2. Äldre bestämmelser i 3 § första stycket gäller i fråga om fastighetsskatt för beskattningsår som har påbörjats före utgången av år 1990.
+
+3. I stället för det procenttal som föreskrivs i 3 § första stycket skall, i fråga om småhusenhet samt småhus och tomtmark för småhus på lantbruksenhet med beräknat värdeår före år 1991, procenttalet vid 1992 och 1993 års taxeringar utgöra 1,2.
+
+4. I stället för vad som följer av 3 § första stycket och punkt 3 skall vid följande års taxeringar endast halv fastighetsskatt utgå i fråga om fastig- heter, bebyggda med byggnader med nedan angivna värdeår, om fastigheterna utgör småhusenhet eller småhus och tomtmark för småhus på lantbruksenhet.
+
+Detta gäller dock inte i fråga om sådant småhus som är inrättat till bostad åt minst tre och högst tio familjer och som ingår i lantbruksenhet. Vid beräkningen enligt denna punkt skall vad som anges i 3 § femte stycket ha motsvarande tillämpning:
+
+Taxeringsår Värdeår
+
+1992 1986--1990
+
+1993 1987--1990
+
+1994 1988--1990
+
+1995 1989--1990
+
+1996 1990
+
+5. I stället för vad som följer av 3 § första stycket skall vid följande års taxeringar fastighetsskatt inte utgå eller endast halv fastighetsskatt utgå för fastigheter, bebyggda med byggnader vilka innehåller bostäder och har nedan angivna värdeår, om fastigheterna utgör hyreshusenhet. Vid denna beräkning skall vad som anges i 3 § femte stycket ha motsvarande tillämpning. Detsamma gäller i fråga om sådant småhus som är inrättat till bostad åt minst tre och högst tio familjer och som ingår i lantbruksenhet:
+
+Taxeringsår Halv fastighetsskatt Ingen fastighetsskatt
+
+Värdeår Värdeår
+
+1992 1973--1976 1977--1990
+
+1993 1975--1978 1979--1990
+
+1994 1977--1980 1981--1990
+
+1995 1979--1982 1983--1990
+
+1996 1981--1984 1985--1990
+
+1997 1983--1986 1987--1990
+
+1998 1985--1988 1989--1990
+
+1999 1987--1990
+
+2000 1989--1990
+
+Lag (1992:1593).
+
+6. I stället för vad som följer av 3 § första stycket skall det vid 1998 års taxering inte tas ut fastighetsskatt på bostadsdelen för fastigheter bebyggda med byggnader vilka innehåller bostäder och har värdeår 1991. Om fastighetsskatt skall beräknas enligt olika grunder för skilda delar av fastigheten skall 3 § femte stycket tillämpas.
+
+Lag (1996:432).
+
+1990:1383
+
+Denna lag träder i kraft den 1 januari 1991 och tillämpas första gången vid 1992 års taxering. Vid 1992 års taxering skall dock vad som gäller för småhus enligt 3 § första stycket a och punkt 3 av övergångsbestämmelserna till lagen (1990:652) om ändring i lagen om statlig fastighetsskatt också gälla för hyreshus som är inrättat till bostad åt högst tio familjer och som ingår i lantbruksenhet. För annat hyreshus på lantbruksenhet skall vid 1992 års taxering tillämpas vad som gäller för hyreshus enligt 3 § första stycket b och punkt 5 av nämnda övergångsbestämmelser.
+
+1991:1914
+
+Denna lag träder i kraft den 1 januari 1992 och tillämpas från och med 1992 års taxering.
+
+1992:842
+
+Denna lag träder i kraft den 1 januari 1993 och tillämpas första gången vid 1994 års taxering. För sådan hyreshusenhet som huvudsakligen består av lokaler och för vars förvärvskälla beskattningsåret har börjat före ikraftträdandet skall skatt vid 1994 års taxering påföras enligt äldre bestämmelser med så stor del som svarar mot förhållandet mellan den del av beskattningsåret som infaller före ikraftträdandet och hela beskattningsåret.
+
+1992:1593
+
+1. Denna lag träder i kraft den 1 januari 1993 och tillämpas första gången vid 1995 års taxering.
+
+2. Vid 1994 års taxering skall, såvitt avser hyreshusenhet, skatteuttaget enligt 3 § första stycket b) i dess äldre lydelse göras på den del av taxeringsvärdet som inte belöper på lokaler med tillhörande tomtmark.
+
+Nedsättning av skatteuttaget enligt den äldre lydelsen av 3 § andra stycket och punkt 5 övergångsbestämmelserna skall vid nämnda taxeringsår endast göras på den del av taxeringsvärdet som belöper på hyreshus som avser bostäder med tillhörande tomtmark, om tomtmarken och hyreshuset ingår i samma taxeringsenhet.
+
+3. För hyreshusenhet som innehåller lokaler och för vars förvärvskälla beskattningsåret har börjat före den 1 januari 1993 skall skatt som avser lokaler med tillhörande tomtmark vid 1994 års taxering påföras enligt äldre bestämmelser med så stor del som svarar mot förhållandet mellan den del av beskattningsåret som infaller före den 1 januari 1993 och hela beskattningsåret.
+
+1993:1525
+
+1. Denna lag träder i kraft den 1 januari 1994 och tillämpas första gången vid 1995 års taxering. Endast kostnader för om- eller tillbyggnad som nedlagts i fastigheter efter 1992 års utgång beaktas vid tillämpningen av denna lag.
+
+2. I stället för vad som följer av punkt 5 av övergångsbestämmelserna till lagen (1990:652) om ändring i lagen (1984:1052) om statlig fastighetsskatt skall, om ett reduceringsbelopp enligt 3 a § har bestämts för hyreshusenhet, skatten beräknas på sätt som följer av 3 och 3 a §§ om en sådan beräkning leder till lägre fastighetsskatt. Om fastighetsskatt skall beräknas enligt punkt 5 av övergångsbestämmelserna till lagen (1990:652) om ändring i lagen (1984:1052) om statlig fastighetsskatt skall ett reduceringsbelopp inte beaktas.
+
+Lag (1994:1910).
+
+1993:1560
+
+Denna lag träder i kraft den 1 januari 1994 och tillämpas första gången vid 1995 års taxering.
+
+1994:51
+
+Denna lag träder i kraft dagen efter den dag då lagen enligt uppgift på den utkom från trycket i Svensk författningssamling och tillämpas första gången vid 1995 års taxering.
+
+1994:1872
+
+1. Denna lag träder i kraft den 1 januari 1995 och tillämpas första gången vid 1997 års taxering.
+
+2. Äldre bestämmelser i 3 § första stycket gäller i fråga om fastighetsskatt för beskattningsår som har påbörjats före utgången av år 1994.
+
+1994:1910
+
+1. Denna lag träder i kraft den 1 januari 1995 och tillämpas första gången vid 1996 års taxering.
+
+2. Äldre föreskrifter i 2 § andra stycket tillämpas för beskattningsår som har påbörjats före ikraftträdandet.
+
+3. Bestämmelserna i 2 § sjätte stycket skall gälla vid 1996 års taxering endast om den skattskyldige yrkar det.
+
+4. Bestämmelserna i 2 § sjätte stycket skall inte gälla fastigheter som avses i punkterna 4 och 5 av övergångsbestämmelserna till lagen (1990:652) om ändring i lagen (1984:1052) om statlig fastighetsskatt vid tillämpning av nämnda punkter i dessa övergångsbestämmelser.
+
+1994:1911
+
+1. Denna lag träder i kraft den 1 januari 1995 och tillämpas första gången i fråga om 3 § första stycket vid 1997 års taxering och i övrigt vid 1996 års taxering.
+
+2. I stället för procenttalet 1,7 som föreskrivs i 3 § första stycket skall, i fråga om fastighetsskatt för beskattningsår som har påbörjats före utgången av år 1994, procenttalet utgöra 1,5.
+
+3. Till den del fastighetsskatt skall beräknas på grundval av taxeringsvärde som bestämts vid fastighetstaxering år 1995 eller tidigare tillämpas inte de nya bestämmelserna om underlaget för fastighetsskatt i 3 § första stycket.
+
+1995:918
+
+1. Denna lag träder i kraft den 1 juli 1995 och tillämpas första gången vid 1997 års taxering.
+
+2. Äldre bestämmelser i 3 § första stycket gäller i fråga om fastighetsskatt för beskattningsår som har påbörjats före utgången av juni 1995.
+
+1996:1173
+
+1. Denna lag träder i kraft den 1 januari 1997 och tillämpas första gången vid 1998 års taxering.
+
+2. Har beskattningsåret påbörjats före ikraftträdandet tillämpas äldre regler för den delen av beskattningsåret som infaller före ikraftträdandet. Lag (1996:1173).
+
+1996:1402
+
+Denna lag träder i kraft den 1 januari 1997 och tillämpas första gången vid 1998 års taxering. Äldre bestämmelser tillämpas dock för räkenskapsår hos handelsbolaget eller den europeiska ekonomiska intressegrupperingen som har påbörjats före ikraftträdandet.
+
+1997:442
+
+1. Denna lag träder i kraft den 1 januari 1998 och tillämpas första gången vid 1999 års taxering.
+
+2. Har beskattningsåret påbörjats före ikraftträdandet tillämpas äldre regler för den del av beskattningsåret som infaller före ikraftträdandet.
+
+1998:526
+
+1. Denna lag träder i kraft, såvitt avser bestämmelserna i 3 § första stycket punkten a och punkten b, den 1 augusti 1998, och i övrigt den 1 januari 1999.
+
+2. Bestämmelserna i 3 § första stycket punkten a och punkten b tillämpas första gången vid 1999 års taxering. Har beskattningsåret påbörjats före den 1 januari 1998 tillämpas äldre regler för den del av beskattningsåret som infaller före denna tidpunkt.
+
+3. Bestämmelserna i övrigt tillämpas första gången vid 2000 års taxering. Har beskattningsåret påbörjats före ikraftträdandet tillämpas äldre regler för den del av beskattningsåret som infaller före ikraftträdandet.
+
+4. I stället för det procenttal som föreskrivs i 3 § första stycket punkten b skall procenttalet vid 2000 års taxering utgöra 1,3. Har beskattningsåret påbörjats före den 1 januari 1999 tillämpas äldre regler för den del av beskattningsåret som infaller före denna tidpunkt. Lag (1998:1478).
+
+5. I stället för det procenttal som föreskrivs i 3 § första stycket b skall procenttalet vid 2001 års taxering utgöra 1,2.
+
+På bostadsdelen för fastighet som utgör hyreshusenhet och som har värdeår 1989 eller 1990 skall endast halv fastighetsskatt utgå vid 2001 års taxering. Om fastighetsskatt skall beräknas enligt olika grunder för skilda delar av fastigheten skall 3 § femte stycket tillämpas. Lag (1999:995).
+
+1999:632
+
+Denna lag träder i kraft den 1 juli 1999 och tillämpas första gången vid 2001 års taxering. Äldre bestämmelser gäller för den del av beskattningsåret som infaller före utgången av år 1999.
+
+1999:1254
+
+Denna lag träder i kraft den 1 januari 2000 och tillämpas första gången vid 2002 års taxering.
+
+2000:950
+
+Denna lag träder i kraft den 1 januari 2001 och tillämpas första gången vid 2002 års taxering. För den del av beskattningsåret som infaller före utgången av år 2000 tillämpas de procenttal som gäller vid 2001 års taxering.
+
+2001:835
+
+Denna lag träder i kraft den 31 december 2001 och tillämpas första gången vid 2002 års taxering. För den del av beskattningsåret som infaller före utgången av år 2000 tillämpas de procenttal som gäller vid 2001 års taxering.
+
+2001:1219
+
+Denna lag träder i kraft den 1 januari 2002 och tillämpas första gången vid 2006 års taxering. Till den del fastighetsskatt skall beräknas på grundval av taxeringsvärde som bestämts vid fastighetstaxering år 2004 eller tidigare tillämpas inte den nya lydelsen.
+
+2003:1203
+
+Denna lag träder i kraft den 31 december 2003 och tillämpas första gången vid 2004 års taxering såvitt avser småhusenheter, vid 2005 års taxering såvitt avser hyreshusenheter och vid 2006 års taxering såvitt avser lantbruksenheter.
+
+2006:3
+
+1. Denna lag träder i kraft den 1 januari 2006 och tillämpas första gången vid 2007 års taxering.
+
+2. Har beskattningsåret påbörjats före ikraftträdandet tillämpas äldre regler för den del av beskattningsåret som infaller före ikraftträdandet.
+
+2006:1008
+
+1. Denna lag träder i kraft den 1 januari 2007 och tillämpas första gången vid 2008 års taxering.
+
+2. Har beskattningsåret påbörjats före ikraftträdandet tillämpas äldre regler för den del av beskattningsåret som infaller före ikraftträdandet.
+
+2007:1417
+
+1. Denna lag träder i kraft den 1 januari 2008 och tillämpas första gången vid 2009 års taxering.
+
+2. Äldre bestämmelser tillämpas i fråga om fastighetsskatt som avser tid före ikraftträdandet.
+
+2009:106
+
+Denna lag träder i kraft den 1 maj 2009 och tillämpas första gången vid 2010 års taxering.
+
+2009:1408
+
+Denna lag träder i kraft den 1 januari 2010 och tillämpas första gången vid 2011 års taxering.
+
+2010:773
+
+Denna lag träder i kraft den 1 januari 2011 och tillämpas första gången vid 2012 års taxering.
+
+2011:1320
+
+1. Denna lag träder i kraft den 1 januari 2012.
+
+2. Den nya lydelsen av 1 § tillämpas vid beslut om slutlig skatt för beskattningsår som börjar efter den 31 januari 2012.
+
+Den nya lydelsen tillämpas även vid beslut om slutlig skatt för förlängda räkenskapsår som avslutas efter utgången av 2012 och för förkortade räkenskapsår som både påbörjas och avslutas under 2012.
+
+2017:395
+
+1. Denna lag träder i kraft den 1 juli 2017.
+
+2. Lagen tillämpas första gången på fastighetsskatt för kalenderåret 2017.
+
+2017:396
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Lagen tillämpas första gången på fastighetsskatt för kalenderåret 2018.
+
+2017:397
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. Lagen tillämpas första gången på fastighetsskatt för kalenderåret 2019.
+
+2017:398
+
+1. Denna lag träder i kraft den 1 januari 2020.
+
+2. Lagen tillämpas första gången på fastighetsskatt för kalenderåret 2020.
+
+2025:1372
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången på fastighetsskatt för kalenderåret 2026.
