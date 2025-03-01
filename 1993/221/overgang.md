@@ -1,0 +1,1205 @@
+## Övergångsbestämmelser
+
+1993:221
+
+1. Denna förordning träder i kraft den 1 juli 1993, om inte annat föreskrivs i andra stycket.
+
+3. Om det i en lag eller i en författning som har beslutats av regeringen hänvisas till en föreskrift som har ersatts genom en föreskrift i denna förordning, tillämpas i stället den nya föreskriften.
+
+4. Ärenden vid Lantbruksuniversitetet som inte har avgjorts vid utgången av juni 1993 skall handläggas enligt föreskrifterna i denna förordning, om inte annat är särskilt föreskrivet. Vid behov skall styrelsen meddela närmare föreskrifter om handläggningen av sådana ärenden.
+
+8. De som har påbörjat utbildning på linjer före den 1 juli 1993 skall ges möjlighet att slutföra utbildningen enligt äldre föreskrifter. Möjligheten kvarstår dock längst till och med den 30 september 2000. Förordning (1999:990).
+
+9. De som har påbörjat utbildning före den 1 juli 1993 har, även i de fall det inte är fråga om utbildning på linjer, rätt att få examen enligt äldre föreskrifter till och med den 30 september 2000. Förordning (1999:990).
+
+10. Den som har antagits till en utbildning före den 1 juli 1993 och fått anstånd till tid därefter skall anses vara antagen till motsvarande utbildning enligt de nya bestämmelserna.
+
+13. Äldre föreskrifter gäller fortfarande i fråga om överklagande av beslut eller förslag som har meddelats eller lämnats före den 1 juli 1993. Detta gäller inte beslut eller förslag som har meddelats eller lämnats enligt de nya bestämmelserna.
+
+1995:226
+
+Denna förordning träder i kraft den 1 april 1995. Beslut som har meddelats före ikraftträdandet överklagas enligt äldre bestämmelser.
+
+1997:39
+
+1. Denna förordning träder i kraft den 1 mars 1997.
+
+3. Sökande som uppfyller kraven på allmän behörighet enligt föreskrifter som gällde före den 1 juli 1993 skall intill utgången av år 1999 anses ha grundläggande behörighet.
+
+4. Den som har fullföljt ett nationellt eller ett special- utformat program i gymnasieskolan och som i sitt avgångsbetyg eller slutbetyg helt eller delvis har betyg enligt de bestämmelser som gällde före den 1 juli 1994 skall anses ha grundläggande behörighet. Detsamma gäller den som har fullföljt motsvarande utbildning och har motsvarande betyg från gymnasial vuxenutbildning. Det gäller också den som har avgångsbetyg från fyra-, tre- eller tvåårig linje i gymnasieskolan och den som har motsvarande betyg från statlig eller kommunal vuxenutbild- ning under förutsättning att den sökande uppfyller kraven på allmän behörighet enligt föreskrifter som gällde före den 1 juli 1993. Detsamma gäller slutligen den som före den 1 juli 1998 har fått ett intyg från en folkhögskola om allmän behörighet för högskolestudier.
+
+1998:1020
+
+Denna förordning träder i kraft, i fråga om 1 kap. 4 a, 5 a och 10 §§ den 1 september 1998, i fråga om 6 kap. 3 och 4 §§ den 1 oktober 1998, och i övrigt den 1 januari 1999. Har ett beslut att inte göra undantag från behörighetsvillkoren för antagning till grundläggande högskoleutbildning meddelats före den 1 november 1998 gäller 6 kap. 2 § i sin lydelse före detta datum i fråga om rätten att överklaga. Förordning (1998:1274).
+
+1998:1273
+
+Denna förordning träder i kraft den 1 november 1998. Har ett beslut meddelats före ikraftträdandet gäller äldre bestämmelser i fråga om rätten att överklaga.
+
+1999:990
+
+1. Denna förordning träder i kraft den 1 januari 2000.
+
+2. Äldre föreskrifter gäller fortfarande för överklagande av beslut som har meddelats före ikraftträdandet.
+
+3. Den som före den 1 januari 2000 har fullgjort vad som krävs för att få en generell högskoleexamen med hippologisk inriktning uppnår hippologexamen.
+
+2001:587
+
+1. Denna förordning träder i kraft den 1 augusti 2001.
+
+2. Den som före den 31 december 2000 har påbörjat utbildning till hortonom har rätt att få examen enligt äldre bestämmelser till och med den 30 september 2008.
+
+3. Den som före den 31 december 2000 har påbörjat utbildning till landskapsingenjör har rätt att få examen enligt äldre bestämmelser till och med den 31 januari 2005.
+
+Förordning (2002:115).
+
+2002:83
+
+1. Denna förordning träder i kraft den 1 april 2002.
+
+2. Har ett beslut som avses i 6 kap. 2 § meddelats före den 1 april 2002, gäller äldre bestämmelser i fråga om rätten att överklaga.
+
+2006:1405
+
+1. Denna förordning träder i kraft den 2 januari 2007 i fråga om 2 kap. 3 § och i övrigt den 1 januari 2007. 5 kap. 2 och 3 §§ samt de nya föreskrifterna i bilagan skall dock tillämpas först vid antagning till utbildning som börjar efter utgången av juni 2007 eller vid anställning av doktorand därefter samt, om annat inte framgår av 3 eller 4, i fråga om utbildning som bedrivs efter utgången av juni 2007 eller examina som utfärdas därefter.
+
+2. Äldre föreskrifter skall tillämpas vid antagning till utbildning som börjar före den 1 juli 2007 eller vid anställning av doktorand dessförinnan samt i fråga om utbildning som bedrivs före den 1 juli 2007 eller examina som utfärdas dessförinnan.
+
+3. Äldre föreskrifter skall tillämpas i fråga om kurser eller motsvarande del av utbildning på forskarnivå som börjar före den 1 juli 2007 och fortsätter därefter.
+
+4. Äldre föreskrifter skall tillämpas i fråga om examina som utfärdas efter utgången av juni 2007, om den utbildning som examensbeviset omfattar i sin helhet har slutförts dessförinnan.
+
+5. Den som före den 1 juli 2007 har påbörjat en utbildning till en examen enligt de äldre föreskrifterna i bilagan och den som dessförinnan har antagits till en sådan utbildning men fått anstånd till tid därefter med att påbörja utbildning, har rätt att slutföra sin utbildning för att få en examen enligt de äldre föreskrifterna, dock längst till och med utgången av juni 2015.
+
+6. En poäng som före den 1 juli 2007 angetts för omfattningen av grundläggande högskoleutbildning eller forskarutbildning motsvaras av en och en halv högskolepoäng enligt de nya föreskrifterna.
+
+7. Omfattningen av en examen som enligt 4 och 5 får avläggas efter utgången av juni 2007 enligt de äldre föreskrifterna i bilagan, skall anges i poäng enligt de äldre föreskrifterna. I examensbeviset för en examen som avses i 5 skall också anges examens motsvarande omfattning i högskolepoäng enligt de nya föreskrifterna.
+
+8. Uttrycket utbildning på forskarnivå i de nya föreskrifterna motsvarar vad som i de äldre föreskrifterna benämns forskarutbildning.
+
+9. Om det för en examen på avancerad nivå som utfärdas enligt de nya föreskrifterna ställs krav på tidigare utbildning eller examen på grundnivå, skall även den som har motsvarande utbildning eller examen från grundläggande högskoleutbildning kunna uppfylla kraven för examen.
+
+10. Om det för tillträde till utbildning på avancerad nivå eller forskarnivå ställs krav på tidigare utbildning på grundnivå eller avancerad nivå med viss omfattning eller på examen från sådan utbildning, skall även den som har en motsvarande utbildning eller examen från grundläggande högskoleutbildning vara behörig.
+
+11. Den som före den 1 juli 2007 uppfyller kraven på grundläggande behörighet för tillträde till forskarutbildning, skall även därefter anses ha grundläggande behörighet för tillträde till utbildning på forskarnivå, dock längst till utgången av år 2015.
+
+12. Den som har antagits till grundläggande högskoleutbildning och fått anstånd med att påbörja studierna till efter den 1 juli 2007 skall anses vara antagen till motsvarande utbildning enligt de nya föreskrifterna. Detta gäller dock inte om den som har antagits har valt att utnyttja sin rätt enligt 5.
+
+13. Av punkten 4 i övergångsbestämmelserna till lagen (2006:173) om ändring i högskolelagen (1992:1434) följer att beslut om tillstånd att utfärda examina som regeringen eller Högskoleverket har fattat med stöd av äldre föreskrifter gäller fortfarande.
+
+14. De äldre föreskrifterna i 6 kap. 1 § gäller fortfarande i fråga om överklagande av beslut som har meddelats med tillämpning av äldre föreskrifterna.
+
+2007:632
+
+1. Denna förordning träder i kraft den 15 oktober 2007 i fråga om 5 kap. 2 c § och i övrigt den 1 januari 2010.
+
+Förordning (2009:1071).
+
+2. Bestämmelsen i 5 kap. 2 § i fråga om hänvisningen till 6 kap. 11 b-11 f §§ högskoleförordningen (1993:100) tillämpas i fråga om utbildning som börjar efter utgången av juni 2010.
+
+Förordning (2009:1071).
+
+2009:1070
+
+1. Denna förordning träder i kraft den 1 januari 2010.
+
+2. Bestämmelserna i 5 kap. 1 a § och i 5 kap. 3 § i fråga om hänvisningen till 6 kap. 11 b-11 f §§ högskoleförordningen (1993:100) tillämpas i fråga om utbildning som börjar efter utgången av juni 2010.
+
+2010:1115
+
+1. Denna förordning träder i kraft den 1 januari 2011.
+
+2. I fråga om den som före den 1 januari 2011 har anställts som statsagronom, statshortonom eller statsveterinär gäller de äldre bestämmelserna i 4 kap. 2, 3 och 9 §§ så länge anställningen pågår.
+
+3. Om ett förfarande om anställning som statsagronom, statshortonom eller statsveterinär har påbörjats men inte avslutats före den 1 januari 2011, gäller de äldre bestämmelserna i 4 kap. 1-3 §§, 4 § första-tredje styckena och 5 §. Vid tillämpning av de äldre bestämmelserna ska de uppgifter som en fakultetsnämnd eller motsvarande organ ansvarar för i stället handhas av personer eller den grupp av personer som Lantbruksuniversitetet beslutar.
+
+4. De äldre bestämmelserna i 4 kap. 7 a § gäller i fråga om ärenden om befordran som har inkommit till Lantbruksuniversitetet men som inte har avslutats före den 1 januari 2011.
+
+5. De äldre bestämmelserna i 6 kap. gäller fortfarande i fråga om beslut som har meddelats med tillämpning av äldre bestämmelser.
+
+2017:285
+
+1. Denna förordning träder i kraft den 1 juli 2017.
+
+2. Äldre föreskrifter gäller fortfarande för doktorander med utbildningsbidrag som lämnas senast den 30 juni 2022.
+
+2017:914
+
+1. Denna förordning träder i kraft den 1 december 2017.
+
+2. Förordningen tillämpas första gången i fråga om utbildning som bedrivs och examina som utfärdas efter utgången av december 2017.
+
+3. Äldre bestämmelser gäller fortfarande för djursjukvårdarutbildning som bedrivs och djursjukvårdarexamina som utfärdas före den 1 januari 2018.
+
+4. Trots 2 gäller äldre bestämmelser fortfarande i fråga om djursjukvårdarexamina som utfärdas efter utgången av december 2017, om den utbildning som examensbeviset omfattar i sin helhet har slutförts dessförinnan.
+
+5. Den som före den 1 januari 2018 har påbörjat en utbildning till en djursjukvårdarexamen enligt de äldre bestämmelserna och den som dessförinnan har antagits till en sådan utbildning men fått anstånd med att påbörja utbildningen, har rätt att slutföra sin utbildning för att få en examen enligt de äldre bestämmelserna, dock längst till och med utgången av december 2021.
+
+2018:1132
+
+1. Denna förordning träder i kraft den 1 september 2018.
+
+2. Förordningen tillämpas första gången när ledamöter i styrelsen ska utses för tiden från och med den 1 maj 2020.
+
+2018:1505
+
+1. Denna förordning träder i kraft den 1 januari 2022 i fråga om 5 kap. 2 § och i övrigt den 1 januari 2019.
+
+2. När Universitets- och högskolerådet eller Lantbruksuniversitetet med stöd av de nya 5 kap. 2 b-2 d §§ meddelar föreskrifter ska de föreskriva att bestämmelserna ska tillämpas första gången vid antagning till utbildning som börjar efter utgången av maj 2022.
+
+3. Bestämmelserna i 5 kap. 2 och 2 a §§ i den nya lydelsen ska tillämpas första gången vid antagning till utbildning som börjar efter utgången av maj 2022.
+
+4. Bestämmelsen i 5 kap. 2 § i den nya lydelsen ska, såvitt avser hänvisningen till 7 kap. 21 § högskoleförordningen (1993:100), tillämpas första gången vid prov som genomförs våren 2022.
+
+5. Äldre bestämmelser gäller fortfarande i fråga om antagning till utbildning som börjar före den 1 juni 2022.
+
+2019:642
+
+1. Denna förordning träder i kraft den 25 november 2019.
+
+2. Förordningen tillämpas första gången i fråga om utbildning som bedrivs och examina som utfärdas efter utgången av december 2020.
+
+3. Äldre bestämmelser gäller fortfarande för utbildning som bedrivs och examina som utfärdas före den 1 januari 2021.
+
+4. Äldre bestämmelser gäller fortfarande i fråga om examina som utfärdas efter utgången av december 2020, om den utbildning som examensbeviset omfattar har slutförts i sin helhet dessförinnan.
+
+5. Den som före den 1 januari 2021 har påbörjat en utbildning till en hippologexamen, lantmästarexamen, trädgårdsingenjörsexamen eller agronomexamen enligt de äldre bestämmelserna och den som dessförinnan har antagits till en sådan utbildning men fått anstånd med att påbörja utbildningen, har rätt att slutföra sin utbildning för att få en examen enligt de äldre bestämmelserna, dock längst till och med utgången av december 2025 när det gäller hippologexamen, lantmästarexamen och trädgårdsingenjörsexamen och längst till och med utgången av december 2029 när det gäller agronomexamen.
+
+2024:916
+
+1. Denna förordning träder i kraft den 13 november 2024.
+
+2. Förordningen tillämpas första gången vid antagning till utbildning som påbörjas efter den 30 juni 2025.
+
+3. Äldre bestämmelser gäller fortfarande för betyg som satts på kurser enligt de ämnesplaner som gäller utbildning som påbörjats före utgången av juni 2025.
+
+### Bilaga
+
+### Innehåll
+
+I denna bilaga anges
+
+1. vilka examina som får avläggas på grundnivå, avancerad nivå och forskarnivå vid Sveriges lantbruksuniversitet, och
+
+2. vilka krav som ska uppfyllas för respektive examen (examensbeskrivning).
+
+### Gemensamma bestämmelser
+
+### Examensbenämning
+
+En examensbenämning består av examen enligt vad som anges i denna bilaga och i förekommande fall ett för- eller efterled eller båda, som anger examens inriktning. Lantbruksuniversitetet bestämmer vilka för- eller efterled som ska användas. För vissa examina ska, enligt vad som framgår av examensbeskrivningarna, Lantbruksuniversitetet bestämma en inriktning.
+
+### Översättning
+
+En översättning av examensbenämningen ska återspegla examens omfattning och i förekommande fall inriktning samt på vilken nivå examen avläggs.
+
+Universitets- och högskolerådet får meddela föreskrifter om översättningen av examen till engelska. Lantbruksuniversitetet beslutar om översättningen av examen i examensbeviset till andra språk än engelska, efter samråd med Universitets- och högskolerådet i fråga om den rättsliga status som en översättning av examen kan ha i andra länder.
+
+Lantbruksuniversitetet beslutar om översättning av de för- och efterled som Lantbruksuniversitetet använder. Lantbruksuniversitetet ska till Universitets- och högskolerådet anmäla de för- och efterled på svenska som Lantbruksuniversitetet bestämt ska användas till varje examen samt översättningen av dem till engelska.
+
+Lantbruksuniversitetet får också till Universitets- och högskolerådet anmäla översättningen av examensbenämningar till andra språk än engelska.
+
+### Förteckning över examina
+
+### Examina på grundnivå
+
+### Generella examina
+
+### Högskoleexamen
+
+### Kandidatexamen
+
+### Yrkesexamina
+
+### Djursjukskötarexamen
+
+### Hippologexamen
+
+### Landskapsingenjörsexamen
+
+### Lantmästarexamen
+
+### Skogsmästarexamen
+
+### Skogsteknikerexamen
+
+### Trädgårdsingenjörsexamen
+
+### Examina på avancerad nivå
+
+### Generella examina
+
+### Magisterexamen
+
+### Masterexamen
+
+### Yrkesexamina
+
+### Agronomexamen
+
+### Civilingenjörsexamen
+
+### Hortonomexamen
+
+### Jägmästarexamen
+
+### Landskapsarkitektexamen
+
+### Veterinärexamen
+
+### Examina på forskarnivå
+
+### Licentiatexamen
+
+### Doktorsexamen
+
+### Examensbeskrivningar
+
+### EXAMINA PÅ GRUNDNIVÅ
+
+### GENERELLA EXAMINA
+
+### Högskoleexamen
+
+### Omfattning
+
+Högskoleexamen uppnås efter att studenten fullgjort kursfordringar om 120 högskolepoäng med viss inriktning som Lantbruksuniversitetet bestämmer.
+
+### Mål
+
+### Kunskap och förståelse
+
+För högskoleexamen ska studenten
+
+- visa kunskap och förståelse inom det huvudsakliga området (huvudområdet) för utbildningen, inbegripet kännedom om områdets vetenskapliga grund och kunskap om några tillämpliga metoder inom området.
+
+### Färdighet och förmåga
+
+För högskoleexamen ska studenten
+
+- visa förmåga att söka, samla och kritiskt tolka relevant information för att formulera svar på väldefinierade frågeställningar inom huvudområdet för utbildningen,
+
+- visa förmåga att redogöra för och diskutera sitt kunnande med olika grupper, och
+
+- visa sådan färdighet som fordras för att självständigt arbeta med vissa uppgifter inom det område som utbildningen avser.
+
+### Värderingsförmåga och förhållningssätt
+
+För högskoleexamen ska studenten
+
+- visa kunskap om och ha förutsättningar för att hantera etiska frågeställningar inom huvudområdet för utbildningen.
+
+### Självständigt arbete (examensarbete)
+
+För högskoleexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) inom huvudområdet för utbildningen.
+
+### Övrigt
+
+För högskoleexamen med en viss inriktning ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Kandidatexamen
+
+### Omfattning
+
+Kandidatexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng med viss inriktning som Lantbruksuniversitetet bestämmer, varav minst 90 högskolepoäng med successiv fördjupning inom det huvudsakliga området (huvudområdet) för utbildningen.
+
+### Mål
+
+### Kunskap och förståelse
+
+För kandidatexamen ska studenten
+
+- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet kunskap om områdets vetenskapliga grund, kunskap om tillämpliga metoder inom området, fördjupning inom någon del av området samt orientering om aktuella forskningsfrågor.
+
+### Färdighet och förmåga
+
+För kandidatexamen ska studenten
+
+- visa förmåga att söka, samla, värdera och kritiskt tolka relevant information i en problemställning samt att kritiskt diskutera företeelser, frågeställningar och situationer,
+
+- visa förmåga att självständigt identifiera, formulera och lösa problem samt att genomföra uppgifter inom givna tidsramar,
+
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper, och
+
+- visa sådan färdighet som fordras för att självständigt arbeta inom det område som utbildningen avser.
+
+### Värderingsförmåga och förhållningssätt
+
+För kandidatexamen ska studenten
+
+- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,
+
+- visa insikt om kunskapens roll i samhället och om människors ansvar för hur den används, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För kandidatexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskole-poäng inom huvudområdet för utbildningen.
+
+### Övrigt
+
+För kandidatexamen med en viss inriktning ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### YRKESEXAMINA
+
+### Djursjukskötarexamen
+
+### Omfattning
+
+Djursjukskötarexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng.
+
+### Mål
+
+För djursjukskötarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt kunna arbeta som djursjukskötare.
+
+### Kunskap och förståelse
+
+För djursjukskötarexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga grund och kännedom om aktuellt forsknings- och utvecklingsarbete inom djuromvårdnadsområdet,
+
+- visa kunskap om och förståelse för sambandet mellan vetenskap och beprövad erfarenhet och dess betydelse för djursjukskötaryrket,
+
+- visa kunskap om planering, ledning och samordning av djuromvårdnadsarbetet, och
+
+- visa kunskap om relevanta författningar inom djuromvårdnadsområdet.
+
+### Färdighet och förmåga
+
+För djursjukskötarexamen ska studenten
+
+- visa förmåga att självständigt och i samverkan med annan djurhälsopersonal och med djurägare identifiera vårdbehov samt upprätta omvårdnadsplan,
+
+- visa förmåga att med hänsyn till djurskydd, smittskydd och arbetarskydd ge adekvat vård och behandling,
+
+- visa förmåga att hantera läkemedel på ett adekvat sätt,
+
+- visa förmåga att tillämpa sitt kunnande för att hantera olika situationer, företeelser och frågeställningar utifrån djurs omvårdnadsbehov,
+
+- visa förmåga att informera olika grupper och fungera som handledare,
+
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera åtgärder inom djuromvårdnad med berörda parter samt dokumentera sådana åtgärder i enlighet med relevanta författningar,
+
+- visa förmåga till lagarbete och samverkan med andra yrkesgrupper, och
+
+- visa förmåga att kritiskt granska, bedöma och använda relevant information samt att diskutera nya fakta, företeelser och frågeställningar med olika grupper och därmed bidra till utveckling av yrket och verksamheten.
+
+### Värderingsförmåga och förhållningssätt
+
+För djursjukskötarexamen ska studenten
+
+- visa förmåga att inom djuromvårdnadsområdet göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter,
+
+- visa förmåga till ett professionellt förhållningssätt gentemot djur och djurägare,
+
+- visa förmåga att bedöma sina egna gränser i yrkesutövningen, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För djursjukskötarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng.
+
+### Övrigt
+
+För djursjukskötarexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Hippologexamen
+
+### Omfattning
+
+Hippologexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng.
+
+### Mål
+
+För hippologexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som hippolog.
+
+### Kunskap och förståelse
+
+För hippologexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga grund, beprövade erfarenhet och relevanta metoder,
+
+- visa kännedom om aktuellt forsknings- och utvecklingsarbete, och
+
+- visa kunskap om hippologi, inbegripet förståelse för samspelet mellan häst och människa samt hästens roll i samhället.
+
+### Färdighet och förmåga
+
+För hippologexamen ska studenten
+
+- visa förmåga att inom givna ramar och med adekvata metoder självständigt identifiera, analysera och lösa problem inom hästnäringen,
+
+- visa förmåga att besluta, genomföra och utvärdera relevanta åtgärder som rör hantering av hästar på ett professionellt sätt med beaktande av hästens och människans välbefinnande och utveckling samt djurskydds- och säkerhetsmässiga aspekter,
+
+- visa sådan förmåga som krävs för att arbeta med och ansvara för verksamheter inom hästnäringen och angränsande områden, och
+
+- visa förmåga att kritiskt granska och bedöma relevant information samt redogöra för och diskutera problem och lösningar i dialog med olika grupper.
+
+### Värderingsförmåga och förhållningssätt
+
+För hippologexamen ska studenten
+
+- visa förmåga att göra bedömningar av och hantera frågor om hästhållning, hästsport och företagande med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa insikt om betydelsen av lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För hippologexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng.
+
+### Övrigt
+
+För hippologexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Landskapsingenjörsexamen
+
+### Omfattning
+
+Landskapsingenjörsexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng.
+
+### Mål
+
+För landskapsingenjörsexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som landskapsingenjör.
+
+### Kunskap och förståelse
+
+För landskapsingenjörsexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga grund och kännedom om aktuellt forsknings- och utvecklingsarbete,
+
+- visa kunskap om relevanta metoder inom området, och
+
+- visa förståelse för interaktionen mellan material, projektering och anläggning.
+
+### Färdighet och förmåga
+
+För landskapsingenjörsexamen ska studenten
+
+- visa förmåga att inom givna ramar och med adekvata metoder självständigt identifiera, analysera och lösa problem som rör projektering, anläggande och förvaltning av tätortens utemiljö och det tätortsnära landskapet samt utvärdera lösningar,
+
+- visa förmåga att kritiskt granska, bedöma och använda relevant information för att hantera situationer, företeelser och frågeställningar inom området, och
+
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper.
+
+### Värderingsförmåga och förhållningssätt
+
+För landskapsingenjörsexamen ska studenten
+
+- visa förmåga att göra bedömningar av människans förhållande till och nyttjande av tätortens utemiljö och det tätortsnära landskapet med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För landskapsingenjörsexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng.
+
+### Övrigt
+
+För landskapsingenjörsexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Lantmästarexamen
+
+### Omfattning
+
+Lantmästarexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng.
+
+### Mål
+
+För lantmästarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som lantmästare.
+
+### Kunskap och förståelse
+
+För lantmästarexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga grund, beprövade erfarenhet och relevanta metoder,
+
+- visa kännedom om aktuellt forsknings- och utvecklingsarbete, och
+
+- visa kunskap om och förståelse för den agrara näringen och angränsande verksamheters förutsättningar, funktion och interaktion med miljön och samhället.
+
+### Färdighet och förmåga
+
+För lantmästarexamen ska studenten
+
+- visa förmåga att inom givna ramar och med adekvata metoder självständigt identifiera, analysera och lösa problem som rör den agrara näringen,
+
+- visa förmåga att besluta om, genomföra och utvärdera relevanta åtgärder som rör lantbrukets produktion, marknad, miljö och naturresurshushållning,
+
+- visa förmåga att utforma och ansvara för produktionssystem inom den agrara näringen och angränsande verksamheter med hänsyn till givna förutsättningar och behov, och
+
+- visa förmåga att kritiskt granska och bedöma relevant information samt redogöra för och diskutera problem och lösningar i dialog med olika grupper.
+
+### Värderingsförmåga och förhållningssätt
+
+För lantmästarexamen ska studenten
+
+- visa förmåga att göra bedömningar av och hantera frågor om odling, djurhållning och företagande med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För lantmästarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng.
+
+### Övrigt
+
+För lantmästarexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Skogsmästarexamen
+
+### Omfattning
+
+Skogsmästarexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng.
+
+### Mål
+
+För skogsmästarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som skogsmästare.
+
+### Kunskap och förståelse
+
+För skogsmästarexamen ska studenten
+
+- visa såväl bred kunskap inom området som fördjupade kunskaper inom någon del av området, inbegripet insikt i områdets vetenskapliga grund, samt kännedom om aktuellt forsknings- och utvecklingsarbete, och
+
+- visa förståelse för skogsbrukets förutsättningar, funktion och interaktion med miljön och samhället.
+
+### Färdighet och förmåga
+
+För skogsmästarexamen ska studenten
+
+- visa förmåga att inom givna ramar och med adekvata metoder självständigt identifiera, analysera och lösa problem som rör skogsbrukets produktionsprocesser, marknad, miljö och sociala värden, samt utvärdera lösningar,
+
+- visa förmåga att kritiskt granska, bedöma och använda relevant information för att hantera situationer, företeelser och frågeställningar inom området, och
+
+- visa förmåga att muntligt och skriftligt redogöra för och diskutera information, problem och lösningar i dialog med olika grupper.
+
+### Värderingsförmåga och förhållningssätt
+
+För skogsmästarexamen ska studenten
+
+- visa förmåga att göra bedömningar av människans förhållande till och nyttjandet av skogen för olika ändamål med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För skogsmästarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng.
+
+### Övrigt
+
+För skogsmästarexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Skogsteknikerexamen
+
+### Omfattning
+
+Skogsteknikerexamen uppnås efter att studenten fullgjort kursfordringar om 120 högskolepoäng.
+
+### Mål
+
+För skogsteknikerexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som skogstekniker.
+
+### Kunskap och förståelse
+
+För skogsteknikerexamen ska studenten
+
+- visa kännedom om områdets vetenskapliga grund och aktuellt forsknings- och utvecklingsarbete,
+
+- visa kunskap om några relevanta metoder inom området, och
+
+- visa förståelse för skogsbrukets förutsättningar, funktion och interaktion med miljön och samhället.
+
+### Färdighet och förmåga
+
+För skogsteknikerexamen ska studenten
+
+- visa förmåga att besluta om, genomföra och utvärdera relevanta åtgärder som rör skogsbrukets produktion, marknad, miljö och sociala värden,
+
+- visa förmåga att kritiskt granska och bedöma relevant information samt redogöra för och diskutera problem och lösningar i dialog med olika grupper, och
+
+- visa sådan färdighet och förmåga som krävs för att arbeta med och ansvara för verksamheter inom skogsbruket och angränsande områden.
+
+### Värderingsförmåga och förhållningssätt
+
+För skogsteknikerexamen ska studenten
+
+- visa förmåga att hantera etiska frågor om skogsbruk och företagande,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För skogsteknikerexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete).
+
+Övrigt
+
+För skogsteknikerexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Trädgårdsingenjörsexamen
+
+### Omfattning
+
+Trädgårdsingenjörsexamen uppnås efter att studenten fullgjort kursfordringar om 180 högskolepoäng.
+
+### Mål
+
+För trädgårdsingenjörsexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som trädgårdsingenjör.
+
+### Kunskap och förståelse
+
+För trädgårdsingenjörsexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga grund, beprövade erfarenhet och relevanta metoder,
+
+- visa kännedom om aktuellt forsknings- och utvecklingsarbete, och
+
+- visa kunskap om och förståelse för trädgårdsnäringens och angränsande verksamheters förutsättningar, funktion och interaktion med miljön och samhället.
+
+### Färdighet och förmåga
+
+För trädgårdsingenjörsexamen ska studenten
+
+- visa förmåga att inom givna ramar och med adekvata metoder självständigt identifiera, analysera och lösa problem som rör trädgårdsnäringen,
+
+- visa förmåga att besluta, genomföra och utvärdera relevanta åtgärder som rör trädgårdsnäringens produktion, marknad, design, miljö och upplevelser,
+
+- visa förmåga att utforma och ansvara för produktionssystem inom trädgårdsnäringen och angränsande verksamheter med hänsyn till givna förutsättningar och behov, och
+
+- visa förmåga att kritiskt granska och bedöma relevant information samt redogöra för och diskutera problem och lösningar i dialog med olika grupper.
+
+### Värderingsförmåga och förhållningssätt
+
+För trädgårdsingenjörsexamen ska studenten
+
+- visa förmåga att göra bedömningar av och hantera frågor om odling, design och företagande med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För trädgårdsingenjörsexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng.
+
+### Övrigt
+
+För trädgårdsingenjörsexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### EXAMINA PÅ AVANCERAD NIVÅ
+
+### GENERELLA EXAMINA
+
+### Magisterexamen
+
+### Omfattning
+
+Magisterexamen uppnås efter att studenten fullgjort kursfordringar om 60 högskolepoäng med viss inriktning som Lantbruksuniversitetet bestämmer, varav minst 30 högskolepoäng med fördjupning inom det huvudsakliga området (huvudområdet) för utbildningen. Därtill ställs krav på avlagd kandidatexamen, konstnärlig kandidatexamen, yrkesexamen om minst 180 högskolepoäng eller motsvarande utländsk examen.
+
+Undantag från kravet på en tidigare examen får göras för en student som antagits till utbildningen utan att ha haft grundläggande behörighet i form av en examen. Detta gäller dock inte om det vid antagningen gjorts undantag enligt 7 kap. 28 § andra stycket högskoleförordningen (1993:100) på grund av att examensbevis inte hunnit utfärdas.
+
+### Mål
+
+### Kunskap och förståelse
+
+För magisterexamen ska studenten
+
+- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl överblick över området som fördjupade kunskaper inom vissa delar av området samt insikt i aktuellt forsknings- och utvecklingsarbete, och
+
+- visa fördjupad metodkunskap inom huvudområdet för utbildningen.
+
+Färdighet och förmåga
+
+För magisterexamen ska studenten
+
+- visa förmåga att integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,
+
+- visa förmåga att självständigt identifiera och formulera frågeställningar samt att planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna tidsramar,
+
+- visa förmåga att muntligt och skriftligt klart redogöra för och diskutera sina slutsatser och den kunskap och de argument som ligger till grund för dessa i dialog med olika grupper, och
+
+- visa sådan färdighet som fordras för att delta i forsknings- och utvecklingsarbete eller för att arbeta i annan kvalificerad verksamhet.
+
+### Värderingsförmåga och förhållningssätt
+
+För magisterexamen ska studenten
+
+- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter samt visa medvetenhet om etiska aspekter på forsknings- och utvecklingsarbete,
+
+- visa insikt om vetenskapens möjligheter och begränsningar, dess roll i samhället och människors ansvar för hur den används, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att ta ansvar för sin kunskapsutveckling.
+
+### Självständigt arbete (examensarbete)
+
+För magisterexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 15 högskolepoäng inom huvudområdet för utbildningen.
+
+### Övrigt
+
+För magisterexamen med en viss inriktning ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Masterexamen
+
+### Omfattning
+
+Masterexamen uppnås efter att studenten fullgjort kursfordringar om 120 högskolepoäng med viss inriktning som Lantbruksuniversitetet bestämmer, varav minst 60 högskolepoäng med fördjupning inom det huvudsakliga området (huvudområdet) för utbildningen. Därtill ställs krav på avlagd kandidatexamen, konstnärlig kandidatexamen, yrkesexamen om minst 180 högskolepoäng eller motsvarande utländsk examen.
+
+Undantag från kravet på en tidigare examen får göras för en student som antagits till utbildningen utan att ha haft grundläggande behörighet i form av en examen. Detta gäller dock inte om det vid antagningen gjorts undantag enligt 7 kap. 28 § andra stycket högskoleförordningen (1993:100) på grund av att examensbevis inte hunnit utfärdas.
+
+### Mål
+
+### Kunskap och förståelse
+
+För masterexamen ska studenten
+
+- visa kunskap och förståelse inom huvudområdet för utbildningen, inbegripet såväl brett kunnande inom området som väsentligt fördjupade kunskaper inom vissa delar av området samt fördjupad insikt i aktuellt forsknings- och utvecklingsarbete, och
+
+- visa fördjupad metodkunskap inom huvudområdet för utbildningen.
+
+Färdighet och förmåga
+
+För masterexamen ska studenten
+
+- visa förmåga att kritiskt och systematiskt integrera kunskap och att analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer även med begränsad information,
+
+- visa förmåga att kritiskt, självständigt och kreativt identifiera och formulera frågeställningar, att planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna tidsramar och därigenom bidra till kunskapsutvecklingen samt att utvärdera detta arbete,
+
+- visa förmåga att i såväl nationella som internationella sammanhang muntligt och skriftligt klart redogöra för och diskutera sina slutsatser och den kunskap och de argument som ligger till grund för dessa i dialog med olika grupper, och
+
+- visa sådan färdighet som fordras för att delta i forsknings- och utvecklingsarbete eller för att självständigt arbeta i annan kvalificerad verksamhet.
+
+### Värderingsförmåga och förhållningssätt
+
+För masterexamen ska studenten
+
+- visa förmåga att inom huvudområdet för utbildningen göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter samt visa medvetenhet om etiska aspekter på forsknings- och utvecklingsarbete,
+
+- visa insikt om vetenskapens möjligheter och begränsningar, dess roll i samhället och människors ansvar för hur den används, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att ta ansvar för sin kunskapsutveckling.
+
+### Självständigt arbete (examensarbete)
+
+För masterexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng inom huvudområdet för utbildningen. Det självständiga arbetet får omfatta mindre än 30 högskolepoäng, dock minst 15 högskolepoäng, om studenten redan har fullgjort ett självständigt arbete på avancerad nivå om minst 15 högskolepoäng inom huvudområdet för utbildningen eller motsvarande från utländsk utbildning.
+
+### Övrigt
+
+För masterexamen med en viss inriktning ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### YRKESEXAMINA
+
+### Agronomexamen
+
+### Omfattning
+
+Agronomexamen uppnås efter att studenten fullgjort kursfordringar om 300 högskolepoäng.
+
+### Mål
+
+För agronomexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som agronom.
+
+### Kunskap och förståelse
+
+För agronomexamen ska studenten
+
+- visa såväl bred kunskap inom området som väsentligt fördjupade kunskaper inom vissa delar av området, inbegripet insikt i områdets mångvetenskapliga grund samt insikt i aktuellt forsknings- och utvecklingsarbete, och
+
+- visa fördjupad kunskap om lantbrukssektorns förutsättningar, funktion och interaktion med miljön och samhället, såväl nationellt som internationellt.
+
+### Färdighet och förmåga
+
+För agronomexamen ska studenten
+
+- visa förmåga att självständigt identifiera och formulera kvalificerade problem relaterade till lantbrukssektorns komplexa system av resurser och värdeskapande processer, samt att med adekvata metoder och inom givna ramar analysera, genomföra och kritiskt utvärdera olika lösningar,
+
+- visa förmåga att kritiskt och systematiskt integrera kunskap från relevanta områden samt analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer, särskilt angående lantbrukssektorns hållbara utveckling,
+
+- visa förmåga att, i såväl nationella som internationella sammanhang, muntligt och skriftligt, klart redogöra för och diskutera sina slutsatser samt den kunskap och de argument som ligger till grund för dessa, i dialog med olika grupper, och
+
+- visa sådan färdighet som krävs för att delta i forsknings- och utvecklingsarbete eller självständigt arbeta med andra kvalificerade uppgifter inom lantbrukssektorn och angränsande områden och därmed bidra till utveckling av yrket och verksamheten.
+
+### Värderingsförmåga och förhållningssätt
+
+För agronomexamen ska studenten
+
+- visa förmåga att med helhetssyn göra bedömningar av lantbrukssektorns nyttjande för olika ändamål med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För agronomexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng.
+
+### Övrigt
+
+För agronomexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Civilingenjörsexamen
+
+### Omfattning
+
+Civilingenjörsexamen uppnås efter att studenten fullgjort kursfordringar om 300 högskolepoäng.
+
+### Mål
+
+För civilingenjörsexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som civilingenjör.
+
+### Kunskap och förståelse
+
+För civilingenjörsexamen ska studenten
+
+- visa kunskap om det valda teknikområdets vetenskapliga grund och beprövade erfarenhet samt insikt i aktuellt forsknings- och utvecklingsarbete, och
+
+- visa såväl brett kunnande inom det valda teknikområdet, inbegripet kunskaper i matematik och naturvetenskap, som väsentligt fördjupade kunskaper inom vissa delar av området.
+
+### Färdighet och förmåga
+
+För civilingenjörsexamen ska studenten
+
+- visa förmåga att med helhetssyn kritiskt, självständigt och kreativt identifiera, formulera och hantera komplexa frågeställningar samt att delta i forsknings- och utvecklingsarbete och därigenom bidra till kunskapsutvecklingen,
+
+- visa förmåga att skapa, analysera och kritiskt utvärdera olika tekniska lösningar,
+
+- visa förmåga att planera och med adekvata metoder genomföra kvalificerade uppgifter inom givna ramar,
+
+- visa förmåga att kritiskt och systematiskt integrera kunskap samt visa förmåga att modellera, simulera, förutsäga och utvärdera skeenden även med begränsad information,
+
+- visa förmåga att utveckla och utforma produkter, processer och system med hänsyn till människors förutsättningar och behov och samhällets mål för ekonomiskt, socialt och ekologiskt hållbar utveckling,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att i såväl nationella som internationella sammanhang muntligt och skriftligt i dialog med olika grupper klart redogöra för och diskutera sina slutsatser och den kunskap och de argument som ligger till grund för dessa.
+
+### Värderingsförmåga och förhållningssätt
+
+För civilingenjörsexamen ska studenten
+
+- visa förmåga att göra bedömningar med hänsyn till relevanta vetenskapliga, samhälleliga och etiska aspekter samt visa medvetenhet om etiska aspekter på forsknings- och utvecklingsarbete,
+
+- visa insikt i teknikens möjligheter och begränsningar, dess roll i samhället och människors ansvar för hur den används, inbegripet sociala och ekonomiska aspekter samt miljö- och arbetsmiljöaspekter, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För civilingenjörsexamen ska studenten inom ramen för kursfordringar ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng.
+
+### Övrigt
+
+För civilingenjörsexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Hortonomexamen
+
+### Omfattning
+
+Hortonomexamen uppnås efter att studenten fullgjort kursfordringar om 300 högskolepoäng.
+
+### Mål
+
+För hortonomexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som hortonom.
+
+### Kunskap och förståelse
+
+För hortonomexamen ska studenten
+
+- visa såväl bred kunskap inom området som väsentligt fördjupade kunskaper inom vissa delar av området, inbegripet insikt i områdets mångvetenskapliga grund samt insikt i aktuellt forsknings- och utvecklingsarbete, och
+
+- visa fördjupad kunskap om trädgårdssektorns förutsättningar, funktion och interaktion med miljön och samhället, såväl nationellt som internationellt.
+
+### Färdighet och förmåga
+
+För hortonomexamen ska studenten
+
+- visa förmåga att självständigt identifiera och formulera kvalificerade problem relaterade till trädgårdssektorns komplexa system av resurser och värdeskapande processer, samt att med adekvata metoder och inom givna ramar analysera, genomföra och kritiskt utvärdera olika lösningar,
+
+- visa förmåga att kritiskt och systematiskt integrera kunskap från relevanta områden samt analysera, bedöma och hantera komplexa situationer, företeelser och frågeställningar, särskilt angående trädgårdssektorns hållbara utveckling,
+
+- visa förmåga att, i såväl nationella som internationella sammanhang, muntligt och skriftligt, klart redogöra för och diskutera sina slutsatser samt den kunskap och de argument som ligger till grund för dessa, i dialog med olika grupper, och
+
+- visa sådana färdigheter som krävs för att delta i forsknings- och utvecklingsarbete eller självständigt arbeta med andra kvalificerade uppgifter inom trädgårdssektorn och angränsande områden och därmed bidra till utveckling av yrket och verksamheten.
+
+### Värderingsförmåga och förhållningssätt
+
+För hortonomexamen ska studenten
+
+- visa förmåga att med helhetssyn göra bedömningar av trädgårdssektorns nyttjande för olika ändamål med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter samt kunna göra avvägningar mellan olika aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För hortonomexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng.
+
+### Övrigt
+
+För hortonomexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Jägmästarexamen
+
+### Omfattning
+
+Jägmästarexamen uppnås efter att studenten fullgjort kursfordringar om 300 högskolepoäng.
+
+### Mål
+
+För jägmästarexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som jägmästare.
+
+### Kunskap och förståelse
+
+För jägmästarexamen ska studenten
+
+- visa såväl bred kunskap inom området som väsentligt fördjupade kunskaper inom vissa delar av området, inbegripet insikt i områdets mångvetenskapliga grund samt insikt i aktuellt forsknings- och utvecklingsarbete, och
+
+- visa insikt i skogssektorns förutsättningar, funktion och interaktion med miljön och samhället, såväl nationellt som internationellt.
+
+### Färdighet och förmåga
+
+För jägmästarexamen ska studenten
+
+- visa förmåga att självständigt identifiera och formulera kvalificerade problem relaterade till skogssektorns komplexa system av resurser och värdeskapande processer, samt att med adekvata metoder och inom givna ramar analysera, genomföra och kritiskt utvärdera olika lösningar,
+
+- visa förmåga att kritiskt och systematiskt integrera kunskap från relevanta områden samt analysera, bedöma och hantera komplexa företeelser, frågeställningar och situationer angående skogssektorns hållbara utveckling,
+
+- visa förmåga att, i såväl nationella som internationella sammanhang, muntligt och skriftligt, klart redogöra för och diskutera sina slutsatser samt den kunskap och de argument som ligger till grund för dessa, i dialog med olika grupper, och
+
+- visa sådan färdighet som krävs för att delta i forsknings- och utvecklingsarbete eller självständigt arbeta med andra kvalificerade uppgifter inom skogssektorn och angränsande områden och därmed bidra till utveckling av yrket och verksamheten.
+
+### Värderingsförmåga och förhållningssätt
+
+För jägmästarexamen ska studenten
+
+- visa förmåga att med helhetssyn göra bedömningar av skogssektorns nyttjande för olika ändamål med hänsyn till relevanta vetenskapliga, samhälleliga, ekonomiska, miljömässiga och etiska aspekter,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För jägmästarexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng.
+
+### Övrigt
+
+För jägmästarexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Landskapsarkitektexamen
+
+### Omfattning
+
+Landskapsarkitektexamen uppnås efter att studenten fullgjort kursfordringar om 300 högskolepoäng.
+
+### Mål
+
+För landskapsarkitektexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som landskapsarkitekt.
+
+### Kunskap och förståelse
+
+För landskapsarkitektexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga och konstnärliga grund och insikt i relevant forsknings- och utvecklingsarbete, och
+
+- visa såväl brett kunnande och förståelse av landskapsarkitekturens teori och historia som fördjupad kunskap om olika processer för gestaltning och planering och utveckling av fysiska utemiljöer, yrkesmässiga metoder, tekniker och material samt om relevanta författningar.
+
+### Färdighet och förmåga
+
+För landskapsarkitektexamen ska studenten
+
+- visa förmåga att med helhetssyn och i komplexa sammanhang planera, gestalta, vårda och förnya landskap och fysisk utemiljö, med hänsyn till olika krav, särskilt samhällets mål för hållbar utveckling,
+
+- visa förmåga att med adekvat arkitektonisk metod kritiskt, självständigt och kreativt genomföra och utvärdera kvalificerade och skapande uppgifter inom givna ramar inom landskapsarkitekturens område,
+
+- visa förmåga att kritiskt och systematiskt integrera kunskap från relevanta områden samt analysera, bedöma och hantera komplexa företeelser och frågeställningar särskilt angående landskapets hållbara utveckling, och
+
+- visa förmåga att i såväl nationella som internationella sammanhang i bild och modell, muntligt, skriftligt och på annat sätt klart redogöra för och diskutera sina slutsatser och den kunskap och de argument som ligger till grund för dessa, i dialog med olika grupper och därmed bidra till utveckling av yrket och verksamheten.
+
+### Värderingsförmåga och förhållningssätt
+
+För landskapsarkitektexamen ska studenten
+
+- visa förmåga att väga in relevanta vetenskapliga, samhälleliga, estetiska, miljömässiga och etiska aspekter i sina bedömningar och avvägningar och samtidigt ta hänsyn till människans förhållande till och nyttjande av landskapet och den fysiska utemiljön,
+
+- visa förutsättningar att basera sitt arbete på kravet på långsiktiga och funktionella lösningar av hög kvalitet och med god gestaltning,
+
+- visa förmåga till lagarbete och samverkan i grupper med olika sammansättning, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För landskapsarkitektexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng.
+
+### Övrigt
+
+För landskapsarkitektexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Veterinärexamen
+
+### Omfattning
+
+Veterinärexamen uppnås efter att studenten fullgjort kursfordringar om 330 högskolepoäng.
+
+### Mål
+
+För veterinärexamen ska studenten visa sådan kunskap och förmåga som krävs för att självständigt arbeta som veterinär.
+
+### Kunskap och förståelse
+
+För veterinärexamen ska studenten
+
+- visa kunskap om områdets vetenskapliga grund och insikt i aktuellt forsknings- och utvecklingsarbete samt kunskap om sambandet mellan vetenskap och beprövad erfarenhet och dess betydelse för yrkesutövningen,
+
+- visa såväl bred som fördjupad kunskap inom det veterinärmedicinska området, inbegripet fördjupade kunskaper om djurens sjukdomar och skador,
+
+- visa insikt i djurhållningens förutsättningar, funktion och interaktion med miljön och samhället, såväl nationellt som internationellt, och
+
+- visa kunskap om ekonomi, organisation och författningar som är av betydelse för det veterinära området.
+
+### Färdighet och förmåga
+
+För veterinärexamen ska studenten
+
+- visa förmåga att självständigt diagnostisera sjukdomar och skador hos djur samt besluta om och utföra adekvat medicinsk och kirurgisk behandling inom grundläggande djursjukvård,
+
+- visa förmåga att initiera och genomföra åtgärder inom förebyggande djurhälsovård,
+
+- visa förmåga att identifiera problem och vidta nödvändiga åtgärder avseende samhällets krav på djurskydd, smittskydd och säkra livsmedel,
+
+- visa förmåga att muntligt och skriftligt redogöra för åtgärder och behandlingsresultat med berörda parter samt i enlighet med relevanta författningar dokumentera dessa,
+
+- visa fördjupad förmåga att på vetenskaplig grund diskutera nya fakta, företeelser och frågeställningar inom det veterinära området med olika grupper samt kritiskt granska, bedöma och använda relevant information,
+
+- visa förmåga till lagarbete och samverkan med andra yrkesgrupper, och
+
+- visa sådan färdighet som krävs för att delta i forsknings-, utvecklings- och utvärderingsarbete eller självständigt arbeta med andra kvalificerade uppgifter inom det veterinära området och därmed bidra till utveckling av yrket och verksamheten.
+
+### Värderingsförmåga och förhållningssätt
+
+För veterinärexamen ska studenten
+
+- visa förmåga till helhetssyn i sin yrkesutövning och utifrån ett vetenskapligt synsätt kunna göra bedömningar med beaktande av folk- och djurhälsomässiga, ekonomiska, miljömässiga och etiska aspekter,
+
+- visa förmåga till ett professionellt förhållningssätt gentemot djur och djurägare,
+
+- visa förmåga att bedöma sina egna gränser i yrkesutövningen, och
+
+- visa förmåga att självständigt identifiera sitt behov av ytterligare kunskap och att fortlöpande utveckla sin kompetens.
+
+### Självständigt arbete (examensarbete)
+
+För veterinärexamen ska studenten inom ramen för kursfordringarna ha fullgjort ett självständigt arbete (examensarbete) om minst 30 högskolepoäng.
+
+### Övrigt
+
+För veterinärexamen ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### EXAMINA PÅ FORSKARNIVÅ
+
+### Licentiatexamen
+
+### Omfattning
+
+### Licentiatexamen uppnås
+
+antingen efter att doktoranden fullgjort en utbildning om minst 120 högskolepoäng inom ett ämne för utbildning på forskarnivå,
+
+eller efter att doktoranden fullgjort en del om minst 120 högskolepoäng av en utbildning som ska avslutas med doktorsexamen, om Lantbruksuniversitetet beslutar att en sådan licentiatexamen kan ges vid Lantbruksuniversitetet.
+
+### Mål
+
+### Kunskap och förståelse
+
+För licentiatexamen ska doktoranden
+
+- visa kunskap och förståelse inom forskningsområdet, inbegripet aktuell specialistkunskap inom en avgränsad del av detta samt fördjupad kunskap i vetenskaplig metodik i allmänhet och det specifika forskningsområdets metoder i synnerhet.
+
+### Färdighet och förmåga
+
+För licentiatexamen ska doktoranden
+
+- visa förmåga att kritiskt, självständigt och kreativt och med vetenskaplig noggrannhet identifiera och formulera frågeställningar, att planera och med adekvata metoder genomföra ett begränsat forskningsarbete och andra kvalificerade uppgifter inom givna tidsramar och därigenom bidra till kunskapsutvecklingen samt att utvärdera detta arbete,
+
+- visa förmåga att i såväl nationella som internationella sammanhang muntligt och skriftligt klart presentera och diskutera forskning och forskningsresultat i dialog med vetenskapssamhället och samhället i övrigt, och
+
+- visa sådan färdighet som fordras för att självständigt delta i forsknings- och utvecklingsarbete och för att självständigt arbeta i annan kvalificerad verksamhet.
+
+### Värderingsförmåga och förhållningssätt
+
+För licentiatexamen ska doktoranden
+
+- visa förmåga att göra forskningsetiska bedömningar i sin egen forskning,
+
+- visa insikt om vetenskapens möjligheter och begränsningar, dess roll i samhället och människors ansvar för hur den används, och
+
+- visa förmåga att identifiera sitt behov av ytterligare kunskap och att ta ansvar för sin kunskapsutveckling.
+
+### Vetenskaplig uppsats
+
+För licentiatexamen ska doktoranden ha fått en vetenskaplig uppsats om minst 60 högskolepoäng godkänd.
+
+### Övrigt
+
+För licentiatexamen med en viss inriktning ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning.
+
+### Doktorsexamen
+
+### Omfattning
+
+Doktorsexamen uppnås efter att doktoranden fullgjort en utbildning om 240 högskolepoäng inom ett ämne för utbildning på forskarnivå.
+
+### Mål
+
+### Kunskap och förståelse
+
+För doktorsexamen ska doktoranden
+
+- visa brett kunnande inom och en systematisk förståelse av forskningsområdet samt djup och aktuell specialistkunskap inom en avgränsad del av forskningsområdet, och
+
+- visa förtrogenhet med vetenskaplig metodik i allmänhet och med det specifika forskningsområdets metoder i synnerhet.
+
+### Färdighet och förmåga
+
+För doktorsexamen ska doktoranden
+
+- visa förmåga till vetenskaplig analys och syntes samt till självständig kritisk granskning och bedömning av nya och komplexa företeelser, frågeställningar och situationer,
+
+- visa förmåga att kritiskt, självständigt, kreativt och med vetenskaplig noggrannhet identifiera och formulera frågeställningar samt att planera och med adekvata metoder bedriva forskning och andra kvalificerade uppgifter inom givna tidsramar och att granska och värdera sådant arbete,
+
+- med en avhandling visa sin förmåga att genom egen forskning väsentligt bidra till kunskapsutvecklingen,
+
+- visa förmåga att i såväl nationella som internationella sammanhang muntligt och skriftligt med auktoritet presentera och diskutera forskning och forskningsresultat i dialog med vetenskapssamhället och samhället i övrigt,
+
+- visa förmåga att identifiera behov av ytterligare kunskap, och
+
+- visa förutsättningar för att såväl inom forskning och utbildning som i andra kvalificerade professionella sammanhang bidra till samhällets utveckling och stödja andras lärande.
+
+### Värderingsförmåga och förhållningssätt
+
+För doktorsexamen ska doktoranden
+
+- visa intellektuell självständighet och vetenskaplig redlighet samt förmåga att göra forskningsetiska bedömningar, och
+
+- visa fördjupad insikt om vetenskapens möjligheter och begränsningar, dess roll i samhället och människors ansvar för hur den används.
+
+### Vetenskaplig avhandling (doktorsavhandling)
+
+För doktorsexamen ska doktoranden ha fått en vetenskaplig avhandling (doktorsavhandling) om minst 120 högskolepoäng godkänd.
+
+### Övrigt
+
+För doktorsexamen med en viss inriktning ska också de preciserade krav gälla som Lantbruksuniversitetet bestämmer inom ramen för kraven i denna examensbeskrivning. Förordning (2024:1192).
