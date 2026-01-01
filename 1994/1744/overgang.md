@@ -1,0 +1,101 @@
+## Övergångsbestämmelser
+
+1994:1744
+
+1. Denna lag träder i kraft den 1 januari 1995 och tillämpas på avgiftspliktig inkomst som uppbärs från och med den dagen.
+
+Omfattar beskattningsåret tid såväl före som efter utgången av år 1994, skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1994 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2. Genom lagen upphävs lagen (1992:1745) om allmän sjukförsäkringsavgift. Äldre bestämmelser tillämpas dock i fråga om avgift som avser tiden före den 1 januari 1995.
+
+1994:1956
+
+1. Denna lag träder i kraft den 1 januari 1995 och tillämpas på avgiftspliktig inkomst som uppbärs från och med den dagen. I stället för vad som sägs i 3 § tredje stycket skall vid fastställandet av skattetabeller enligt 4 § uppbördslagen (1953:272) för inkomståret 1995, avgifterna beräknas på summan av inkomsterna till den del summan inte överstiger sju och en halv gånger det vid årets ingång gällande basbeloppet enligt lagen (1962:381) om allmän försäkring.
+
+Omfattar beskattningsåret tid såväl före som efter utgången av år 1994, skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1994 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1995:503
+
+Denna lag träder i kraft den 1 juli 1995 och tillämpas första gången vid 1997 års taxering. Äldre bestämmelser gäller beträffande skattskyldig med inkomst av näringsverksamhet för vilken beskattningsåret har börjat före ikraftträdandet.
+
+1995:1493
+
+Denna lag träder i kraft den 1 januari 1996. De nya bestämmelserna tillämpas på skattepliktig ersättning som uppbärs från och med den dagen. Omfattar beskattningsåret tid såväl före som efter utgången av år 1995 skall därvid, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1995 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1996:1065
+
+1. Denna lag träder i kraft den 1 januari 1997.
+
+2. De nya bestämmelserna tillämpas på avgiftspliktig inkomst som uppbärs från och med den 1 januari 1998. I fråga om avgiftspliktig inkomst som uppbärs under år 1997 är sjukförsäkringsavgiften 4,95 procent.
+
+3. Omfattar beskattningsåret tid såväl före som efter utgången av år 1996 skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1996 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret. En motsvarande fördelning skall göras om beskattningsåret omfattar tid såväl före som efter utgången av år 1997.
+
+1996:1342
+
+Denna lag träder i kraft den 1 januari 1998 och tillämpas första gången vid 1999 års taxering. Lag (1997:937).
+
+1997:544
+
+Denna lag träder i kraft den 1 november 1997 och tillämpas första gången vid 1999 års taxering.
+
+1997:936
+
+1. Denna lag träder i kraft den 1 januari 1998 och tillämpas första gången vid 1999 års taxering.
+
+2. Omfattar beskattningsåret tid såväl före som efter utgången av år 1997 skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1997 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1998:680
+
+1. Denna lag träder i kraft den 1 januari 1999 och tillämpas första gången vid 2000 års taxering.
+
+2. De nya bestämmelserna tillämpas på avgiftspliktig inkomst som uppbärs från och med den 1 januari 1999.
+
+3. Den äldre bestämmelsen i 4 § första stycket gäller fortfarande för avgiftspliktiga som är födda år 1937 eller tidigare.
+
+4. Omfattar beskattningsåret tid såväl före som efter utgången av år 1998 skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1998 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+5. Under åren 1999 och 2000 används avgiften även för finansiering av folkpension i form av ålderspension enligt 6 kap. lagen (1962:381) om allmän försäkring till personer som har rätt till tilläggspension i form av ålderspension enligt 12 kap. samma lag samt kostnader för förvaltning av sådan folkpension.
+
+1999:965
+
+1. Denna lag träder i kraft den 31 december 1999 och tillämpas första gången vid 2001 års taxering.
+
+2. De nya bestämmelserna tillämpas på inkomst som uppbärs från och med den 1 januari 2000.
+
+3. Omfattar beskattningsåret tid såväl före som efter utgången av år 1999 skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1999 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1999:1288
+
+Denna lag träder i kraft den 1 januari 2000 och tillämpas första gången vid 2002 års taxering.
+
+2000:1007
+
+Denna lag träder i kraft den 1 januari 2001 och tillämpas första gången vid 2002 års taxering.
+
+2001:493
+
+1. Denna lag träder i kraft den 1 januari 2002 och tillämpas första gången vid 2004 års taxering.
+
+2. De äldre bestämmelserna i 4 § första stycket gäller vid 2003 års taxering, dock skall avgift inte betalas av den som har sådana inkomster som avses i 3 §, om inkomsterna understiger 29,3 procent av det för året gällande prisbasbeloppet enligt lagen (1962:381) om allmän försäkring. Lag (2001:844).
+
+2001:843
+
+Denna lag träder i kraft den 1 januari 2003 och tillämpas första gången vid 2004 års taxering. Lag (2002:978).
+
+2001:1117
+
+Denna lag träder i kraft den 1 januari 2002 och tillämpas första gången vid 2003 års taxering.
+
+2003:546
+
+1. Denna lag träder i kraft den 1 januari 2004.
+
+2. Äldre bestämmelser tillämpas i de fall 11 § förmånsrättslagen (1970:979), i sin lydelse enligt lagen (1975:1248) om ändring i nämnda lag, tillämpas.
+
+2007:968
+
+Denna lag träder i kraft den 1 januari 2008 och tillämpas första gången vid 2009 års taxering.
+
+2011:1369
+
+Denna lag träder i kraft den 1 januari 2012 och tillämpas på inkomst som uppbärs från och med den 1 januari 2013.
