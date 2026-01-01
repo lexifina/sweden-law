@@ -1,0 +1,245 @@
+## Övergångsbestämmelser
+
+1994:1920
+
+Denna lag träder i kraft den 1 januari 1995 och tillämpas
+
+1. på lön eller annan ersättning som betalas ut efter utgången av år 1994,
+
+2. på inkomst enligt 2 § som tas upp till beskattning vid 1996 års taxering eller senare. Omfattar beskattningsår tid såväl före som efter utgången av år 1994, skall -- om den skattskyldige inte visar annat -- så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1994 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1996:1067
+
+1. Denna lag träder i kraft den 1 januari 1997.
+
+2. Den nya bestämmelsen tillämpas på lön i pengar eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 1998.
+
+På lön i pengar eller annan ersättning som betalas ut under år 1997 skall allmän löneavgift tas ut med 2,60 procent.
+
+3. Den nya bestämmelsen tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 1998. I fråga om inkomster som uppbärs under år 1997 är den allmänna löneavgiften 2,60 procent.
+
+Omfattar beskattningsåret tid såväl före som efter utgången av år 1996 skall, om den skattskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1996 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret. En motsvarande fördelning skall göras om beskattningsåret omfattar tid såväl före som efter utgången av år 1997.
+
+1997:939
+
+1. Denna lag träder i kraft den 1 januari 1998.
+
+2. Den nya bestämmelsen tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 1998.
+
+3. Den nya bestämmelsen tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 1998. Omfattar beskattningsåret tid såväl före som efter utgången av år 1997 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1997 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1998:700
+
+1. Denna lag träder i kraft den 1 januari 1999.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 1999.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 1999. Omfattar beskattningsåret tid såväl före som efter utgången av år 1998 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1998 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+1999:966
+
+1. Denna lag träder i kraft den 1 januari 2000.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 2000.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 2000. Omfattar beskattningsåret tid såväl före som efter utgången av år 1999 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 1999 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2000:995
+
+1. Denna lag träder i kraft den 1 januari 2001.
+
+2. Äldre bestämmelser i 1 och 4 §§ gäller fortfarande i fråga om ersättning som betalas ut före ikraftträdandet.
+
+3. Äldre bestämmelser i 2 och 4 §§ gäller fortfarande i fråga om inkomster som uppbärs före ikraftträdandet. Om beskattningsåret omfattar tid såväl före som efter utgången av år 2000 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 2000 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2000:1005
+
+1. Denna lag träder i kraft den 1 januari 2001.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 2001.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 2001. Omfattar beskattningsåret tid såväl före som efter utgången av år 2000 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 2000 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2002:974
+
+1. Denna lag träder i kraft den 1 januari 2003.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 2003.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 2003. Omfattar beskattningsåret tid såväl före som efter utgången av år 2002 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 2002 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2003:547
+
+1. Denna lag träder i kraft den 1 januari 2004.
+
+2. Äldre bestämmelser tillämpas i de fall 11 § förmånsrättslagen (1970:979), i sin lydelse enligt lagen (1975:1248) om ändring i nämnda lag, tillämpas.
+
+2003:822
+
+1. Denna lag träder i kraft den 1 januari 2004.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 2004.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 2004. Omfattar beskattningsåret tid såväl före som efter utgången av år 2003 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 2003 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2004:1057
+
+1. Denna lag träder i kraft den 1 januari 2005.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 2005.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 2005. Omfattar beskattningsåret tid såväl före som efter utgången av år 2004 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 2004 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2005:828
+
+1. Denna lag träder i kraft den 1 januari 2006.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut från och med den 1 januari 2006.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs från och med den 1 januari 2006. Omfattar beskattningsåret tid såväl före som efter utgången av år 2005 skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av år 2005 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2007:285
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. De nya bestämmelserna i 3 § tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 30 juni 2007. På lön eller annan ersättning som betalas ut under perioden den 1 juli 2007 till och med den 31 december 2007 skall dock procenttalet enligt 3 § andra stycket vara 3,60 i stället för 2,20.
+
+3. De nya bestämmelserna i 3 § tillämpas också på inkomst enligt 2 § som uppbärs efter den 30 juni 2007. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet skall, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 30 juni 2007 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2007:967
+
+1. Denna lag träder i kraft den 1 januari 2008.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 31 december 2007.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs efter den 31 december 2007. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2007 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2008:1267
+
+1. Denna lag träder i kraft den 1 januari 2009.
+
+2. De nya bestämmelserna tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 31 december 2008.
+
+3. De nya bestämmelserna tillämpas också på inkomst enligt 2 § som uppbärs efter den 31 december 2008. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2008 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2009:1159
+
+1. Denna lag träder i kraft den 1 januari 2010.
+
+2. Den nya bestämmelsen tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 31 december 2009.
+
+3. Den nya bestämmelsen tillämpas också på inkomst enligt 2 § som uppbärs efter den 31 december 2009. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2009 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2010:1828
+
+1. Denna lag träder i kraft den 1 januari 2011.
+
+2. Lagen tillämpas på lön eller annan ersättning enligt 1 § som betalats ut efter den 31 december 2010.
+
+3. Lagen tillämpas också på inkomst enligt 2 § som uppbärs efter den 31 december 2010. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2010 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret. Lag (2010:1828).
+
+2011:1281
+
+1. Denna lag träder i kraft den 1 januari 2012.
+
+2. Lagen tillämpas på lön eller annan ersättning enligt 1 § som betalats ut efter den 31 december 2011.
+
+3. Lagen tillämpas också på inkomst enligt 2 § som uppbärs efter den 31 december 2011. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2011 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2012:756
+
+1. Denna lag träder i kraft den 1 januari 2013.
+
+2. Lagen tillämpas på lön eller annan ersättning enligt 1 § som betalats ut efter den 31 december 2012.
+
+3. Lagen tillämpas också på inkomst enligt 2 § som uppbärs efter den 31 december 2012. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2012 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2014:1466
+
+1. Denna lag träder i kraft den 1 januari 2015.
+
+2. Bestämmelserna i 3 § i den äldre lydelsen tillämpas fortfarande på lön eller annan ersättning enligt 1 § som betalas ut före ikraftträdandet.
+
+3. Bestämmelserna i 3 § i den äldre lydelsen tillämpas fortfarande på inkomst enligt 2 § som uppbärs före ikraftträdandet.
+
+Omfattar beskattningsåret tid såväl före som efter utgången av 2014 respektive såväl före som efter utgången av 2015 ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter utgången av 2014 respektive tiden efter utgången av 2015 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under respektive tid och hela beskattningsåret.
+
+2015:178
+
+1. Denna lag träder i kraft den 1 maj 2015.
+
+2. Bestämmelserna i den nya lydelsen tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 30 april 2015.
+
+3. Bestämmelserna i den nya lydelsen tillämpas också på inkomst enligt 2 § som uppbärs efter den 30 april 2015.
+
+Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 30 april 2015 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2015:472
+
+1. Denna lag träder i kraft den 1 augusti 2015.
+
+2. Bestämmelserna i 1 och 3 §§ i den äldre lydelsen tillämpas fortfarande på lön eller annan ersättning enligt 1 § som betalas ut före ikraftträdandet.
+
+Vid tillämpningen av 3 § på lön eller annan ersättning enligt 1 § som betalas ut under perioden 1 augusti 2015-31 maj 2016 ska för dem som vid årets ingång inte har fyllt 25 år, löneavgiften tas ut med arton tjugofemtedelar av procenttalet och anges med två decimaler så att övriga decimaler faller bort. Lag (2015:774).
+
+3. Bestämmelserna i 2 och 3 §§ i den äldre lydelsen tillämpas fortfarande på inkomst enligt 2 § som uppbärs före ikraftträdandet.
+
+Vid tillämpningen av 3 § på inkomst enligt 2 § som uppbärs under perioden 1 augusti 2015-31 maj 2016 ska för dem som vid årets ingång inte har fyllt 25 år, löneavgiften tas ut med arton tjugofemtedelar av procenttalet och anges med två decimaler så att övriga decimaler faller bort.
+
+Omfattar beskattningsåret tid såväl före som efter den 1 augusti 2015 respektive såväl före som efter den 31 maj 2016 ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 1 augusti 2015 respektive tiden efter den 31 maj 2016 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under respektive tid och hela beskattningsåret. Lag (2015:774).
+
+2015:774
+
+1. Denna lag träder i kraft den 1 januari 2016.
+
+2. Bestämmelsen i 3 § i den nya lydelsen tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 31 december 2015.
+
+3. Bestämmelsen i 3 § i den nya lydelsen tillämpas på inkomst enligt 2 § som uppbärs efter den 31 december 2015. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2015 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2016:1054
+
+1. Denna lag träder i kraft den 1 januari 2017.
+
+2. Bestämmelsen i 3 § i den nya lydelsen tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 31 december 2016.
+
+3. Bestämmelsen i 3 § i den nya lydelsen tillämpas på inkomst enligt 2 § som uppbärs efter den 31 december 2016. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2016 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2018:2084
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. Bestämmelsen i 3 § i den nya lydelsen tillämpas på lön eller annan ersättning enligt 1 § som betalas ut efter den 31 december 2018.
+
+3. Bestämmelsen i 3 § i den nya lydelsen tillämpas på inkomst enligt 2 § som uppbärs efter den 31 december 2018. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2018 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+2019:478
+
+1. Denna lag träder i kraft den 1 augusti 2019.
+
+2. Lagen tillämpas på lön eller annan ersättning enligt 1 § som utges efter den 31 juli 2019.
+
+2020:124
+
+1. Denna lag träder i kraft den 1 april 2020.
+
+2. Lagen tillämpas på ersättning som utges efter den 31 mars 2020.
+
+2023:749
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Äldre bestämmelser gäller fortfarande för ersättning som utges före ikraftträdandet.
+
+2023:787
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Äldre bestämmelser gäller fortfarande för ersättning som utges före ikraftträdandet.
+
+2025:1360
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Bestämmelsen i 3 § i den nya lydelsen tillämpas på ersättning enligt 1 § som ges ut efter den 31 december 2025.
+
+3. Bestämmelsen i 3 § i den nya lydelsen tillämpas på inkomst enligt 2 § som uppbärs efter den 31 december 2025. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2025 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
