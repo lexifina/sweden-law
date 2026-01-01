@@ -1,0 +1,357 @@
+## Övergångsbestämmelser
+
+1998:1709
+
+Denna förordning träder i kraft den 1 januari 1999. Motorer som tillverkats före den 31 december 1998 behöver dock inte omfattas av ett typgodkännande för att få registreras eller släppas ut på marknaden före den 1 juli 1999.
+
+2004:680
+
+Denna förordning träder i kraft den 1 september 2004. Ärenden om dispens enligt 12 § och ärenden som till följd av 4 § i dess tidigare lydelse har handlagts av Naturvårdsverket men som inte avgjorts före den 1 september 2004 skall fr.o.m. den 1 september 2004 handläggas av Vägverket enligt bestämmelsernas nya lydelser.
+
+## Bilaga 1
+
+### Avgaskrav enligt 3 § förordningen (1998:1709) om avgaskrav för vissa förbränningsmotordrivna mobila maskiner
+
+1 Tidpunkter för införande av avgasreningskrav
+
+1.1 Mobila maskiner som inte är avsedda att användas för transporter på väg och hjälpmotorer i fordon avsedda för passagerar- eller godstransport på väg
+
+För att villkoren i 3 § ska anses uppfyllda krävs att motorn vid typgodkännande eller i samband med att motorn släpps ut på marknaden uppfyller de angivna kraven i Europaparlamentets och rådets direktiv 97/68/EG. I det följande redovisas de tidpunkter som gäller för olika kravnivåer för de tre typer av förbränningsmotorer som används i de aktuella mobila maskinerna.
+
+1.1.1 Förbränningsmotorer med kompressionständning med en nettoeffekt på minst 19 kilowatt men högst 560 kilowatt och som drivs vid varierande varvtal
+
+Följande datum gäller för dessa motorer.
+
+Kravnivå Motoreffekt Dag för nya Dag för registrering
+
+P (kW) typgodkännandena eller utsläppande på
+
+marknadenb
+
+Steg Ic 130=P=560 30 juni 1998 31 december 1998
+
+75=P<130 30 juni 1998 31 december 1998
+
+37=P<75 30 juni 1998 31 mars 1999
+
+Steg II 130=P=560 31 december 2000 31 december 2001
+
+75=P<130 31 december 2001 31 december 2002
+
+37=P<75 31 december 2002 31 december 2003
+
+18=P<37 31 december 1999 31 december 2000
+
+Steg III A 130<-P<-560 30 juni 2005 31 december 2005
+
+75<-P<130 31 december 2005 31 december 2006
+
+37<-P<75 31 december 2006 31 december 2007
+
+19<-P<37 31 december 2005 31 december 2006
+
+Steg III B 130<-P<-560 31 december 2009 31 december 2010
+
+75<-P<130 31 december 2010 31 december 2011
+
+56<-P<75 31 december 2010 31 december 2011
+
+37<-P<56 31 december 2011 31 december 2012
+
+Steg IV 130<-P<-560 31 december 2012 31 december 2013
+
+56<-P<130 30 september 2013 30 september 2014
+
+Steg III A P>130 30 juni 2005 31 december 2005
+
+i motor- vagnar
+
+Steg III B P>130 31 december 2010 31 december 2011
+
+i motor- vagnar
+
+Steg III A 130<-P<-560 31 december 2005 31 december 2006
+
+i P>560 31 december 2007 31 december 2008
+
+lokomotiv
+
+Steg III B P>130 31 december 2010 31 december 2011
+
+i lokomotiv
+
+a EG-typgodkännande får inte längre meddelas om inte avgaskraven för aktuell kravnivå är uppfyllda.
+
+b Registrering och utsläppande på marknaden av en motor eller en maskin med sådan motor får enbart ske om avgaskraven för den aktuella kravnivån är uppfyllda. För motorer tillverkade före angivet datum ska avgaskraven för den aktuella kravnivån skjutas upp med två år.
+
+c Typgodkännanden enligt rådets direktiv 88/77/EEG av den 31 december 1987 om tillnärmning av medlemsstaternas lagstiftning om åtgärder mot utsläpp av gasformiga föroreningar från dieselmotorer som används i fordon, senast ändrat genom bilaga II till anslutningsakten för Tjeckien m.fl., ska godkännas för steg I. Denna giltighet ska dock upphöra med verkan från det obligatoriska genomförandet av steg II.
+
+1.1.2 Förbränningsmotorer med kompressionständning med en nettoeffekt på minst 19 kilowatt men högst 560 kilowatt och som drivs vid konstant varvtal
+
+För dessa motorer gäller samma gränsvärden som för motorerna under rubrik 1.1.1. Gränsvärdena ska dock tillämpas först från och med den 31 december 2006. För steg III A ska följande datum för typgodkännanden och datum för registrering eller utsläppande på marknaden gälla.
+
+Kravnivå Motoreffekt Dag för nya Dag för registrering
+
+P (kW) typgodkännandena eller utsläppande på
+
+marknadenb
+
+Steg III A 130<-P<560 31 december 2009 31 december 2010
+
+75<-P<130 31 december 2009 31 december 2010
+
+37<-P<75 31 december 2010 31 december 2011
+
+19<-P<37 31 december 2009 31 december 2010
+
+a EG-typgodkännande får inte längre meddelas om inte avgaskraven för aktuell kravnivå är uppfyllda.
+
+b Registrering och utsläppande på marknaden av en motor eller en maskin med sådan motor får enbart ske om avgaskraven för den aktuella kravnivån är uppfyllda. För motorer tillverkade före angivet datum ska avgaskraven för den aktuella kravnivån skjutas upp med två år.
+
+1.1.3 Bensindrivna förbränningsmotorer med gnisttändning med en nettoeffekt på högst 19 kilowatt
+
+Dessa förbränningsmotorer (S) delas in i två kategorier (H och N). Kategori H utgörs av handhållna motorer. Kategori N utgörs av icke handhållna motorer. Motorernas effekt framgår av följande tabell.
+
+Klass/kategori Cylindervolym (cm3)
+
+SH:1 < 20
+
+SH:2 = 20
+
+< 50
+
+SH:3 = 50
+
+SN:1 < 66
+
+SN:2 = 66
+
+< 100
+
+SN:3 = 100
+
+< 225
+
+SN:4 = 225
+
+Följande datum gäller för motorerna i dessa två kategorier.
+
+Kravnivå Motorklass Dag för nya Dag för registrering
+
+typgodkännandena eller utsläppande på
+
+marknadenb
+
+Steg I SH:1, SH:2, 11 augusti 2004 11 februari 2005
+
+SH:3, SN:1,
+
+SN:2, SN:3
+
+och SN:4
+
+Steg II SN:1 och 1 augusti 2004 1 februari 2005
+
+Steg II SN:1 och 1 augusti 2004 1 februari 2005
+
+c,d,e,f,g SN:2
+
+SN:4 1 augusti 2006 1 februari 2007
+
+SH:1, SH:2 1 augusti 2007 1 februari 2008
+
+och SN:3
+
+SH:3 1 augusti 2008 1 februari 2009
+
+a EG-typgodkännande får inte längre meddelas om inte avgaskraven för aktuell kravnivå är uppfyllda.
+
+b Registrering och utsläppande på marknaden av en motor eller en maskin med sådan motor får enbart ske om avgaskraven för den aktuella kravnivån är uppfyllda. Tidpunkten för registrering eller utsläppande på marknaden får skjutas upp med två år för de motorer som tillverkats före angivna datum.
+
+c För små motortillverkare ska kraven på utsläppsgränsvärden skjutas upp med tre år för respektive kategori.
+
+d För handhållna motorsågar, handhållna borrar, handhållna häcksaxar, handhållna häcktrimrar, handhållna skärmaskiner och icke-handhållna motorer av klass SN:3 ska kraven på utsläppsgränsvärden skjutas upp med tre år för respektive kategori.
+
+e För små motorfamiljer tillämpas kraven enligt steg I för upp till och med högst 25 000 enheter förutsatt att de olika berörda motorfamiljerna alla har olika cylindervolymer.
+
+f De motortyper eller motorfamiljer som före de datum som anges i tabellen uppfyller de i direktiv 97/68/EG angivna gränsvärdena får märkas på sätt som visar att maskinerna i fråga uppfyller gränsvärdena före fastställda datum.
+
+g För maskiner med topphandtag för yrkesmässigt bruk, handhållna flerlägeshäcktrimrar samt trädbeskärningsmotorsågar med topphandtag på vilka motorerna i klasserna SH:2 och SH:3 är monterade ska kraven på utsläppsgränsvärden skjutas upp till och med den 31 juli 2013.
+
+1.2 Traktorer
+
+För att kraven i 3 a § ska anses uppfyllda från det datum som anges i tidtabellen krävs att motortypen eller traktortypen vid typgodkännande eller i samband med att motorn tas i bruk för första gången uppfyller de angivna kravnivåerna enligt direktiv 2000/25/EG.
+
+Kravnivå Motoreffekt Dag för nya Dag för registrering
+
+P (kW) typgodkännandena eller utsläppande på
+
+marknadenb
+
+Steg Ic 130<_P<_560 30 juni 2001
+
+75<_P<130 31 december 2000 30 juni 2001
+
+37<_P<75 31 december 2000 30 juni 2001
+
+Steg IId 130<_P<_560 31 december 2000 31 december 2001e
+
+75<_P<130 31 december 2001 31 december 2002f
+
+37<_P<75 31 december 2002 31 december 2003
+
+18<_P<37 31 december 2000 31 december 2001
+
+Steg III A 130<_P?560 31 december 2005 31 december 2005
+
+75<_P<130 31 december 2005 31 december 2006
+
+37<_P<75 31 december 2006 31 december 2007
+
+19<_P<37 31 december 2005 31 december 2006
+
+Steg III Bg 130<_P<_560 31 december 2009 31 december 2010
+
+75<_P<130 31 december 2010 31 december 2011
+
+56<_P<75 31 december 2010 31 december 2011
+
+37<_P<56 31 december 2011 31 december 2012
+
+Steg IVg 130<_P<_560 31 december 2012 31 december 2013
+
+56<_P<130 30 september 2013 30 september 2014
+
+a EG-typgodkännande får inte längre meddelas om inte avgaskraven för aktuell kravnivå är uppfyllda.
+
+b En motor eller traktor får registreras, säljas, tas i bruk och användas endast om avgaskraven för aktuell kravnivå är uppfyllda. För motorer tillverkade före angivet datum ska avgaskraven för den aktuella kravnivån skjutas upp med två år.
+
+c Typgodkännanden enligt direktiv 97/68/EG, enligt direktiv 88/77/EEG eller enligt FN-ECE:s föreskrifter nr 49.02 och nr 96, ska anses som likvärdiga. Denna giltighet ska dock upphöra med verkan från det obligatoriska genomförandet av steg II.
+
+d Typgodkännande enligt direktiv 97/68/EG, steg II, ska anses som likvärdigt.
+
+e För kompletta traktorer är tidpunkten den 30 juni 2002.
+
+f För kompletta traktorer är tidpunkten den 30 juni 2003.
+
+g För traktorer i kategorierna T2, T4.1 och C2, enligt respektive definition i kapitel A punkt A.1 andra strecksatsen, kapitel B tillägg 1 del I punkt 1.1 och kapitel A punkt A.2 i bilaga II till direktiv 2003/37/EG, ska datumen för steg III B och steg IV skjutas upp med tre år. Fram till dessa datum ska de krav som anges i steg III A fortsätta att gälla.
+
+2 Gränsvärden
+
+2.1 Gränsvärden för motorer enligt 1.1.1, 1.1.2 och 1.2
+
+Nedan angivna gränsvärden i gram per kilowattimme gäller vid de tidpunkter som anges under 1.1.1, 1.1.2 och 1.2. Där två värden anges i kolumnen för kolväten och kväveoxider avser det första värdet kolväten och det andra värdet kväveoxider. Där endast ett värde anges i kolumnen avser värdet summan av kolväten och kväveoxider.
+
+Kravnivå Motoreffekt Kolmonoxid Kolväten och Partiklar
+
+P (kW) kväveoxider
+
+Steg I 130<-P<-560 5,0 1,3 9,2 0,54
+
+75<-P<130 5,0 1,3 9,2 0,70
+
+37<-P<75 6,5 1,3 9,2 0,85
+
+Steg II 130<-P<-560 3,5 1,0 6,0 0,2
+
+75<-P<130 5,0 1,0 6,0 0,3
+
+37<-P<75 5,0 1,3 7,0 0,4
+
+18<-P<37 5,5 1,5 8,0 0,8
+
+Steg III A 130<-P<-560 3,5 4,0 0,2
+
+75<-P<130 5,0 4,0 0,3
+
+37<-P<75 5,0 4,7 0,4
+
+19<-P<37 5,5 7,5 0,6
+
+Steg III B 130<-P<-560 3,5 0,19 2,0 0,025
+
+75<-P<130 5,0 0,19 3,3 0,025
+
+56<-P<75 5,0 0,19 3,3 0,025
+
+37<-P<56 5,0 4,7 0,025
+
+Steg IV 130<-P<-560 3,5 0,19 0,4 0,025
+
+56<-P<130 5,0 0,19 0,4 0,025
+
+Steg III A 130<-P<-560 3,5 4,0 0,2
+
+lokomotiv
+
+P>560 3,5 0,5 6,0 0,2
+
+P>2000 och 3,5 0,4 7,4 0,2
+
+slagvolym >
+
+5 l /
+
+cylinder
+
+Steg III A 130<P 3,5 4,0 0,2
+
+motorvagnar
+
+Steg III B 130<P 3,5 4,0 0,025
+
+lokomotiv
+
+Steg III B 130<P 3,5 0,19 2,0 0,025
+
+motorvagnar
+
+2.2 Gränsvärden för motorer enligt 1.1.3
+
+Nedan angivna gränsvärden i gram per kilowattimme gäller vid de tidpunkter som anges under 1.1.3.
+
+Kravnivå Klass Kolmonoxid Kolväten Kväveoxider Summan av
+
+kolväten och kväveoxider
+
+Steg I SH:1 805 295 5,36
+
+SH:2 805 241 5,36
+
+SH:3 603 161 5,36
+
+SN:1 519 50
+
+SN:2 519 40
+
+SN:3 519 16,1
+
+SN:4 519 13,4
+
+Steg IIa SH:1 805 10 50
+
+SH:2 805 10 50
+
+SH:3 603 10 72
+
+SN:1 610 10 50,0
+
+SN:2 610 10 40,0
+
+SN:3 610 10 16,1
+
+SN:4 610 10 12,1
+
+a Utan hinder av definitionen av handhållna motorer i 2 § förordningen (1998:1709) om avgaskrav för vissa förbränningsmotordrivna mobila maskiner behöver tvåtaktsmotorer i snöslungor endast uppfylla kraven för klass SH:1, SH:2 eller SH:3.
+
+3 Provmetod
+
+Proven skall stämma överens med de provförfaranden som fastställts av Europeiska unionen för typgodkännandet.
+
+4 Hållbarhetskrav
+
+Motorn skall uppfylla hållbarhetskrav som stämmer överens med de krav som fastställts i den ordning som sägs i 3.
+
+Förordning (2012:231).
+
+Bilaga 2 Har upphävts genom förordning (2015:930).
