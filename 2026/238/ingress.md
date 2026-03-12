@@ -1,0 +1,1 @@
+Regeringen föreskriver att Ekonomistyrningsverkets föreskrifter (ESV Cirkulär 2002:6) ska upphöra att gälla vid utgången av april 2026.
