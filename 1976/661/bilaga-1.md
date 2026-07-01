@@ -1,0 +1,1491 @@
+Bilaga
+
+------------------------------------------------------------------------
+
+Immunitet och/eller privilegier gäller för följande Tillämplig
+
+--------------------------------------------------- internationell
+
+Internationella organ Fysiska personer överenskommelse
+
+------------------------------------------------------------------------
+
+1 Internationella dom- Domstolens leda- Stadga den 26 juni 1945
+
+stolen möter och perso- för den internationella
+
+nal samt de som domstolen
+
+på annat sätt med-
+
+verkar i förfar-
+
+ande vid dom-
+
+stolen
+
+2 Förenta nationerna Medlemmarnas rep- Konventionen den 13
+
+(FN) resentanter i februari 1946 rörande
+
+Förenta nationerna förenta nationernas
+
+och personer med privilegier och immuni-
+
+tjänst hos eller teter;
+
+uppdrag av or- Avtal den 31 augusti
+
+ganisationen och den 30 september
+
+1985 mellan Sverige
+
+och Förenta Nationer-
+
+nas höge kommissarie
+
+för flyktingar (UNHCR)
+
+om ett regionkontor
+
+för UNHCR;
+
+Avtal den 24 september
+
+1998 om ett samordnings-
+
+kontor för Globala
+
+utvärderingen av inter-
+
+nationella vatten be-
+
+läget i Kalmar i Sverige.
+
+2a Förenta nationerna Deltagare och andra Ramavtal den 19
+
+(FN) personer med uppdrag vid november 2003
+
+möten som arrangeras av mellan Konungariket
+
+Förenta nationerna i Sverige och Förenta
+
+Sverige nationerna om
+
+arrangemang avseende
+
+immunitet och
+
+privilegier samt
+
+vissa andra frågor
+
+med avseende på
+
+Förenta nationernas
+
+möten som hålls i
+
+Sverige
+
+2 b Underkommittén för Medlemmarna i Fakultativt protokoll
+
+förebyggande av tortyr underkommittén den 18 december 2002
+
+och annan grym, till Förenta
+
+omänsklig eller nationernas
+
+förnedrande behandling konvention mot tortyr
+
+eller bestraffning till och annan grym,
+
+Förenta nationernas omänsklig eller
+
+kommitté mot tortyr förnedrande
+
+behandling eller
+
+bestraffning
+
+3 Förenta nationernas Medlemmarnas rep- Konventionen den 21
+
+fackorgan resentanter i november 1947 om pri-
+
+fackorganen och vilegier och immuni-
+
+personer med tet för Förenta na-
+
+tjänst hos eller tionernas fackorgan
+
+uppdrag av så-
+
+dana fackorgan Avtal den 9 februari
+
+samt ledamöterna 1983 mellan Sverige
+
+i styrelsen för och den Internatio-
+
+världssjöfarts- nella sjöfartsorgani-
+
+universitet, sationen (IMO) om
+
+studerande vid världssjöfartsuniver-
+
+universitetet och sitetet
+
+till universi-
+
+tetet särskilt
+
+inbjudna pesoner
+
+4 Europarådet Medlemmarnas rep- Allmän överenskommelse
+
+resentanter i den 2 september 1949
+
+rådet och per- rörande Europarådets
+
+soner i tjänst privilegier och immuni-
+
+eller uppdrag tet jämte tilläggs-
+
+av rådet protokoll den 6 novem-
+
+ber 1952
+
+5 Rådet för samarbete Medlemmarnas rep- Konventionen den 15
+
+på tullområdet resentanter i december 1950 avseende
+
+rådet och personer upprättande av ett råd
+
+med tjänst hos för samarbete på tull-
+
+eller uppdrag av området med därtill
+
+rådet hörande annex angående
+
+rådets rättskapicitet,
+
+privilegier och immuni-
+
+tet
+
+6 - - - Ledamöterna i den Andra tilläggsprotokollet
+
+europeiska kommis- den 15 december 1956
+
+sionen för de till den allmänna över-
+
+mänskliga rättig- enskommelsen rörande
+
+heterna Europarådets privi-
+
+legier och immunitet
+
+7 - - - Ledamöterna i den Protokoll den 20 decem-
+
+domstol som in- ber 1957 rörande den
+
+rättats genom kon- domstol, som upprättats
+
+ventionen om upp- genom konventionen
+
+rättande av säker- samma dag om upp-
+
+hetskontroll på rättande av säkerhets-
+
+atomenergiens om- kontroll på atomener-
+
+råde och de som giens område
+
+på annat sätt med-
+
+verkar i förfarande
+
+vid domstolen
+
+8 Internationella atom- Medlemmarnas rep- Avtal den 1 juli 1959
+
+energiorganet (IAEA) resentanter i om privilegier och
+
+atomenergiorganet immunitet för det in-
+
+och personer med ternationella atom-
+
+tjänst hos eller energiorganet
+
+uppdrag av or-
+
+ganet
+
+9 - - - - - - - - -
+
+10 Organisationen för Medlemmarnas rep- Konventionen den 14 dec-
+
+ekonomiskt samarbete resentanter i or- ember 1960 angående
+
+och utveckling (OECD) ganisationen och Organisationen för eko-
+
+personer med nomiskt samarbete och
+
+tjänst hos eller utveckling med därtill
+
+uppdrag av denna anslutande protokoll
+
+11 Den inom organisationen Ledamöterna i Avtal den 7 april 1975
+
+för ekonomiskt samarbete fondens styrelse om upprättande av en
+
+och utveckling (OECD) och rådgivande finansiell stödfond
+
+upprättade finansiella utskott samt inom organisationen
+
+stödfonden OECD:s tjänste- för ekonomiskt sam-
+
+män då de handlar arbete och utveckling
+
+på fondens vägnar
+
+12. - - - - - - - - -
+
+13 Internationella cen- Medlemmarnas rep- Konventionen den 18
+
+tralorganet för bi- resentanter i or- mars 1965 om biläg-
+
+läggandet av investe- ganet och per- gande av investerings-
+
+ringstvister soner med tjänst tvister mellan stat
+
+hos eller uppdrag och medborgare i annan
+
+av detta samt stat
+
+ledamöterna av
+
+förlikningskom-
+
+misionen, skilje-
+
+domstol eller
+
+kommitté som in-
+
+rättats enligt den
+
+i kol. 3 angivna
+
+konventionen även-
+
+som de personer
+
+som på annat sätt
+
+medverkar i för-
+
+faranden enligt
+
+konventionen
+
+14 Asiatiska utvecklings- Ledamöterna av Överenskommelse den 4
+
+banken bankens styrelse december 1965 om upp-
+
+och personer med rättande av Asiatiska
+
+tjänst hos eller utvecklingsbanken
+
+uppdrag av banken
+
+15 - - - Ledamöterna av den Internationell kon-
+
+kommitté för de ventionen den 19 dec-
+
+mänskliga rättig- cember 1966 om med-
+
+heterna och de borgerliga och
+
+förlikningskom- politiska rättigheter
+
+missioner som in-
+
+rättats enligt
+
+internationella
+
+konventionen om
+
+medborgerliga och
+
+politiska rättig-
+
+heter
+
+16 - - - - - - - - -
+
+17. Internationella Medlemmarnas Överenskommelsen den
+
+telesatellit- representanter i 20 augusti 1971
+
+organisationen ITSO organisationens rörande den
+
+församling, internationella
+
+organisationens telesatellitorganisationen
+
+tjänstemän och Intelsat (ITSO) i
+
+personer som den lydelse som framgår av
+
+medverkar i överenskommelsen om
+
+skiljedomsförfarande ändring den 17 november
+
+jämte ovan nämnda 2000, artikel XIII
+
+personers
+
+familjemedlemmar Protokoll om privilegier,
+
+friheter och immuniteter
+
+för Intelsat den 19 maj
+
+1978
+
+18 Internationella Konventionen den 18
+
+oljeskadefonden, 1992 december 1971 om
+
+års internationella upprättandet av en
+
+oljeskadefond och 2003 internationell fond
+
+års internationella för ersättning av
+
+kompletterande skada orsakad av
+
+oljeskadefond förorening genom
+
+olja, konventionen
+
+den 27 november
+
+1992 om upprättandet
+
+av en internationell
+
+fond för ersättning
+
+av skada orsakad av
+
+förorening genom
+
+olja och protokollet
+
+den 16 maj 2003 till
+
+denna konvention.
+
+19 Afrikanska utveck- Ledamöterna i Överenskommelse den 29
+
+lingsfonden fondens styrelse november 1972 om upp-
+
+och personer med rättande av Afrikanska
+
+tjänst hos eller utvecklingsfonden
+
+uppdrag av fonden
+
+20 Nordiska minister- Personer med an- Avtal den 13 maj 1987
+
+rådets sekretariat ställning vid an- om den rättsliga
+
+och Nordiska rådets givna sekretariat ställningen för Nordiska
+
+presidiesekretariat jämte deras ministerrådets
+
+familjemedlemmar sekretariat och Nordiska
+
+rådets
+
+presidiesekretariat
+
+21 Europeiska centret Medlemmarnas rep- Protokoll fogat till
+
+för medellånga resentanter i konventionen den 11
+
+väderprognoser centret och per- oktober 1973 om upp-
+
+soner med tjänst rättande av ett euro-
+
+hos eller upp- peiskt centrum för
+
+drag av centret medellånga väderprog-
+
+noser, vilket proto-
+
+koll avser immunitet
+
+och privilegier för
+
+centret
+
+22 Europeiska organisa- Medlemmarnas rep- Protkoll den 12 juli
+
+tionen för astronomisk resentanter i or- 1974 om privilegier
+
+forskning rörande södra ganisationen och och immuniteter för
+
+stjärnhimlen personer med den europeiska orga-
+
+tjänst hos eller nisationen för astro-
+
+uppdrag av orga- nomisk forskning rör-
+
+nisationen ande södra stjärn-
+
+himlen
+
+23 Europeiska rymd- Medlemmarnas rep- Bilaga I till konven-
+
+organet (ESA) resentanter i ventionen den 30 maj
+
+rymdorganet och 1975 angående upprät-
+
+personer med rätande av ett euro-
+
+tjänst hos eller peiskt rymdorgan
+
+uppdrag av detta
+
+24 - - - - - - - - -
+
+25. - - - - - - - - -
+
+26 Internationella kaffe- - - - 1983 års internatio-
+
+organisation nella kaffeavtal
+
+27 Europeiska patent- Medlemmarnas rep- Protokoll angående den
+
+organisationen resentanter i or- europeiska patent-
+
+ganisationens för- organisationens
+
+valtningsråd och privilegier och immu-
+
+sådana represen- nitet, vilket utgör
+
+tanters makar del av den europeiska
+
+samt personer med patentkonventionen
+
+tjänst hos det den 5 oktober 1973
+
+europeiska patent-
+
+verket och dessa
+
+personers familjer
+
+ävensom personer
+
+med uppdrag av
+
+organisationen
+
+28. Internationella Medlemmarnas Protokoll om
+
+mobilsatellit- representanter i privilegier och
+
+organisationen organisationen immunitet för
+
+IMSO och personer med INMARSAT (IMSO) den
+
+tjänst hos eller 1 december 1981 i
+
+uppdrag av den lydelse som
+
+organisationen framgår av
+
+jämte ovan nämnda överenskommelsen
+
+personers om ändring den
+
+familjemedlemmar 25 september 1998
+
+29 Afrikanska utveck- Ledamöterna i Överenskommelse den 4
+
+lingsbanken bankens styrelse augusti 1963 om upp-
+
+och personer med rättande av Afrikanska
+
+tjänst hos eller utvecklingsbanken
+
+uppdrag av banken
+
+30 Förenta nationernas Medlemmarnas rep- Stadga den 8 april
+
+organisation för resentanter i or- 1979 för Förenta
+
+industriell utveckling ganisationen och nationernas organisa-
+
+(UNIDO) personer med tion för industriell
+
+tjänst hos eller utveckling
+
+uppdrag av orga-
+
+nisationen
+
+31. Europeiska Parternas Protokoll om privilegier
+
+telesatellit- representanter i och immunitet för
+
+organisationen organisationen, EUTELSAT den 13 februari
+
+EUTELSAT organisationens 1987 i den lydelse som
+
+tjänstemän jämte framgår av
+
+deras överenskommelsen om
+
+familjemedlemmar ändring den 1 maj 2000
+
+samt personer med
+
+uppdrag av
+
+organisationen
+
+32 Interamerikanska Ledamöterna i Avtal den 8 april
+
+utvecklingsbanken bankens styrelse 1959 om upprättande
+
+och personer med av Interamerikanska
+
+tjänst hos eller utvecklingsbanken
+
+uppdrag av banken
+
+33. mellanstatliga medlemsstaternas fördraget om
+
+organisationen för representanter i internationell
+
+internationell organisationen, järnvägstrafik
+
+järnvägstrafik personer med (COTIF) av den
+
+(OTIF) tjänst hos 9 maj 1980 i
+
+organisationen dess lydelse
+
+och sakkunniga enligt ändrings-
+
+utsedda av protokollet av
+
+organisationen den 3 juni 1999
+
+34 Europeiska organisa- Medlemmarnas rep- Protokoll om privilegier
+
+tionen för utnyttjande resentanter i orga- och immunitet för
+
+av meteorologiska nisationen, orga- EUMETSAT den 1 december
+
+satelliter (EUMETSAT) nisationens 1986
+
+tjänstemän jämte
+
+deras familjemedlem-
+
+mar samt personer med
+
+uppdrag av organisa-
+
+tionen
+
+35 Multilaterala Ledamöterna i Konvention den
+
+investeringsorganet organets råd och 11 oktober 1985 om
+
+(MIGA) styrelse samt upprättande av det
+
+personer med tjänst multilaterala
+
+hos organet investeringsorganet
+
+36 - - - Ledamöter och Europeisk konvention
+
+experter i den 26 november 1987
+
+kommittén upprättad till förhindrande av
+
+enligt den av tortyr och omänsklig
+
+europeiska eller förnedrande
+
+konventionen till behandling eller
+
+förhindrande av bestraffning
+
+tortyr m.m.
+
+37 - - - - - - - - -
+
+38 Europeiska banken för Ledamöterna i Överenskommelse den 29
+
+återuppbyggnad och bankens styrelse och maj 1990 om upprättan-
+
+utveckling (EBRD) personer med tjänst de av Europeiska banken
+
+hos eller uppdrag av för återuppbyggnad och
+
+banken utveckling med av Sveri-
+
+ge anmäld reservation
+
+39 Europarådets fond Ledamöterna i fon- Tredjetilläggs-
+
+för bosättning och dens styrelse, admini- protokollet den
+
+regional utveck- strativa råd och 6 mars 1959 till
+
+ling granskningskommitté den allmäna över-
+
+och deras rådgivare, enskommelsen rör-
+
+tekniska experter och ande Europarådets
+
+sekreterare. Personer privilegier och
+
+med tjänst hos fonden immunitet med av
+
+jämte deras familje- Sverige anmäld
+
+medlemmar reservation
+
+40 EFTA:s övervaknings- Medlemmar och personer Protokoll 6 till
+
+myndighet med tjänst hos över- avtalet den 2 maj
+
+vakningsmyndigheten 1992 mellan EFTA-
+
+jämte nämnda personers staterna om upp-
+
+familjemedlemmar samt rättande av en
+
+personer med uppdrag övervaknings-
+
+av övervkaningsmyndig- myndighet och en
+
+heten och företrädare domstol
+
+för Europeiska gemen-
+
+skapernas kommission
+
+och EG:s medlems-
+
+stater
+
+41 EFTA-domtolen Domare, registrator Protokoll 7 till
+
+och personer med tjänst avtalet den 2 maj
+
+vid domstolen jämte 1992 mellan EFTA-
+
+nämnda personers staterna om upp-
+
+familjemedlemmar rättande och en
+
+övervakningsmyn-
+
+dighet och en dom-
+
+stol
+
+42 NORSAD-fonden Medlemmarnas represen- Avtal den 31 januari
+
+och NORSAD-fon- tanter i fondens guver- 1990 om upprättande
+
+dens exekutiv- nörsstyrelse, medlemmar av NORSAD-fonden och
+
+sekretariat av exekutivsekretariat- och NORSAD-fondens
+
+ets styrelse samt per- exekutivsekretariat
+
+soner med tjänst hos med införda ändringar
+
+exekutivsekretariatet januari 1993. Åtagan-
+
+det i 14 § e i NOR-
+
+SAD-fondens resp.
+
+NORSAD-fondens
+
+exekutivsekretariats
+
+stadga skall fullgöras
+
+genom att bestämmel-
+
+serna i konventionen
+
+den 21 november 1947
+
+om privilegier och
+
+immunitet för Förenta
+
+nationernas fackorgan
+
+tillämpas
+
+/Träder i kraft I:den dag regeringen bestämmer/
+
+43 Domstolens förliknings- Konventionen den 15
+
+män, skiljedomare och december 1992 om för-
+
+sekreterare samt parter- likning och skiljedom
+
+nas ombud och juridiska inom ESK
+
+biträden
+
+44 Organisationen för Medlemmarnas represen- Förenta nationernas
+
+förbud mot kemiska tanter i organisationen, konvention den 30
+
+vapen personer med tjänst hos november 1992 om
+
+eller uppdrag av förbud mot utveck-
+
+organisationen och ling, produktion,
+
+observatörer under in- innehav och använd-
+
+spektion ning av kemiska
+
+vapen samt om deras
+
+förstöring
+
+45 Internationella Tribunalens ledamöter, Stadga för Inter-
+
+tribunalen för åklagaren och dennes nationella tri-
+
+i f.d. personal, registratorn bunalen för
+
+Jugoslavien och dennes personal f.d. Jugosla-
+
+samt personer som på vien fastställd
+
+annat sätt medverkar genom FN:s säker-
+
+i tribunalen hetsråds resolu-
+
+tion 827 den
+
+25 maj 1993
+
+/Upphör att gälla U:den dag regeringen bestämmer/
+
+46 Europeiska or- Medlemsstaternas re- Den internationella
+
+ganisationen presentanter i or- Eurocontrolkonven-
+
+för säkrare ganisationen, or- tionen om samarbete
+
+flygtrafiktjänst ganisationens per- för luftfartens
+
+(Eurocontrol) sonal jämte deras säkerhet med i
+
+familjemedelemmar Bryssel 1981 vid-
+
+som ingår i hus- tagna ändringar
+
+hållet samt Organets
+
+generaldirektör
+
+/Träder i kraft I:den dag regeringen bestämmer/
+
+46 Europeiska Medlemsstaternas Den internationella
+
+organisationen representanter i Eurocontrol-
+
+för säkrare organisationen, Konventionen om
+
+flygtrafiktjänst organisationens samarbete för
+
+personal jämte deras luftfartens säkerhet
+
+familjemedlemmar som med i Bryssel 1997
+
+ingår i hushållet vidtagna ändringar
+
+samt det verkställande samt bilagorna I-IV
+
+organets generaldirektör till den reviderade
+
+konventionen
+
+47. Internationella Personer med tjänst Avtal den 14 mars
+
+institutet för hos eller uppdrag av 2012 mellan Sveriges
+
+demokrati och fria organisationen samt regering och
+
+val (International deras familjemedlemmar Internationella
+
+IDEA) institutet för
+
+demokrati och fria
+
+val
+
+48 Internationella Tribunalens ledamöter, Stadga för Inter-
+
+tribunalen för åklagare och dennes nationella tribunalen
+
+Rwanda personal, registratorn för Rwanda faställd
+
+och dennes personal genom FN:s säkerhets-
+
+samt personer som på råds resolution 955
+
+annat sätt medverkar i den 8 november 1994
+
+tribunalen
+
+49. Internationella Företrädare för kon- Förenta nationernas
+
+havsbottenmyndigheten ventionsparter som havsrättskonvention
+
+deltar i möten med av den 10 december
+
+församlingen, rådet 1982, artiklarna
+
+eller med församling- 176-185 och bilaga
+
+ens eller rådets organ IV artikel 13
+
+samt generalsekrete-
+
+raren och myndighetens
+
+personal
+
+50. Internationella Domstolens ledamöter Förenta nationernas
+
+havsrättsdomstolen havsrättskonvention av
+
+den 10 december 1982,
+
+bilaga VI artikel 10
+
+51. Europeiska uni- Företrädare för de för- Konventionen om grun-
+
+versitetsinstitutet dragsslutande staterna dandet av ett euro-
+
+och deras rådgivare, peiskt universitetsin-
+
+företrädare för Euro- stitut av den 19 april
+
+peiska gemenskaperna, 1972
+
+personal vid institutet
+
+inklusive familjemed-
+
+lemmar och andra per-
+
+soner som är knuta till
+
+institutet
+
+52. - - -
+
+53. Europeiska dom- Domstolens ledamöter, Protokoll nr 6 den
+
+stolen för de mänsk- dess kanslichef och 5 mars 1996 till den
+
+liga rättigheterna biträdande kanslichef allmänna överens-
+
+kommelsen om Europa-
+
+rådets privilegier
+
+och immunitet
+
+54. - - - Personer som deltar i Europeisk överens-
+
+rättegång som anhängig- kommelse den 5 mars
+
+görs vid domstolen som 1996 om personer som
+
+part eller parts ombud deltar i rättegång
+
+eller rådgivare samt inför den europeiska
+
+vittnen och sakkunniga domstolen för de
+
+kallade av domstolen, mänskliga rättig-
+
+och andra personer som heterna
+
+av domstolens ord-
+
+förande anmodats att
+
+delta i rättegång
+
+55. Kommissionen för Medlemmar av personalen, Avtalet den 2 februari
+
+skydd av Östersjöns representanter för 1998 om immunitet
+
+marina miljö parterna i Helsingfors- och privilegier
+
+konventionen samt för kommissionen
+
+sakkunniga med upp- för skydd av
+
+drag för kommissionen Östersjöns marina
+
+miljö
+
+56. Nordiska Alla styrelsemedlemmar, Överenskommelse den
+
+investeringsbanken deras suppleanter, 11 februari 2004
+
+bankens anställda samt mellan Danmark,
+
+av banken utsedda Estland, Finland,
+
+experter Island, Lettland,
+
+Litauen, Norge och
+
+Sverige om Nordiska
+
+investeringsbanken
+
+57. Nordiska Alla styrelsemedlemmar, Överenskommelse den 9
+
+utvecklingsfonden deras suppleanter, november 1998 om
+
+fondens anställda samt Nordiska utvecklings-
+
+av fonden utsedda fonden
+
+experter som utför
+
+officiella uppgifter
+
+på uppdrag av fonden
+
+58. Nordiska miljö- Alla styrelsemedlemmar, Överenskommelse den 6
+
+finansieringsbolaget deras suppleanter, november 1998 om
+
+bolagets anställda samt Nordiska miljö-
+
+av bolaget utsedda finansieringsbo-
+
+experter som utför laget
+
+officiella uppgifter
+
+på uppdrag av bolaget
+
+/Träder i kraft I:den dag regeringen bestämmer/
+
+59. Organisationen för Medlemmar i en inspektions- Fördraget den 10 sep-
+
+fördraget om fullstän- grupp och observatörer tember 1996 om full-
+
+digt förbud mot kärn- under inspektion ständigt förbud mot
+
+sprängningar kärnsprängningar
+
+60. - - - Medlemmar i en under- Konventionen den 18
+
+sökningsdelegationen september 1997 om för-
+
+bud mot användning,
+
+lagring, produktion
+
+och överföring av
+
+antipersonella minor
+
+(truppminor) samt om
+
+deras förstöring
+
+61. Sekretariatet för Sekretariatets tjänste- Avtal den 23 oktober
+
+Östersjöstaternas råd män 1998 mellan Sverige
+
+och sekretariatet
+
+för Östersjöstaternas
+
+råd om immunitet
+
+och privilegier för
+
+sekretariatet
+
+62. Interamerikanska Ledamöter i bolagets Avtalet den 19
+
+investeringsbolaget styrelse och personer november 1984 om
+
+(IIC) med tjänst hos bolaget upprättande av
+
+Interameriskanska
+
+investeringsbolaget
+
+(IIC)
+
+63. Europeiska Medlemmar i institutets Beslut av företrädarna
+
+unionens institut organ och institutets för regeringarna i
+
+för säkerhetsstudier personal Europeiska unionens
+
+medlemsstater,
+
+församlade i rådet, den
+
+15 oktober 2001 om
+
+privilegier och
+
+immunitet för Europeiska
+
+unionens institut för
+
+säkerhetsstudier och
+
+Europeiska unionens
+
+satellitcentrum samt för
+
+deras organ och personal
+
+64. Europeiska Medlemmar i centrumets Beslut av företrädarna
+
+unionens organ och centrumets för regeringarna i
+
+satellitcentrum personal Europeiska unionens
+
+medlemsstater,
+
+församlade i rådet, den
+
+15 oktober 2001 om
+
+privilegier och
+
+immunitet för Europeiska
+
+unionens institut för
+
+säkerhetsstudier och
+
+Europeiska unionens
+
+satellitcentrum samt för
+
+deras organ och personal
+
+65. Den administrativa Europeiska ministerrådets
+
+direktören för Eurojust beslut om inrättande
+
+samt personal som är av Eurojust
+
+anställd av Eurojust
+
+66. Internationella Domare, åklagare, biträdande Romstadgan den 17 juli 1998
+
+brottmålsdomstolen åklagare, registrator, för Internationella
+
+biträdande registrator, brottmålsdomstolen och
+
+personal i åklagarens kansli avtalet den 9 september
+
+och registratorskontoret, 2002 om immunitet och
+
+dessa personers privilegier för
+
+familjemedlemmar, personal Internationella
+
+lokalt anställd av domstolen, brottmålsdomstolen
+
+försvarare, personer som
+
+biträder försvaret, vittnen,
+
+brottsoffer, sakkunniga, andra
+
+personer som kallas att närvara
+
+vid domstolens förfaranden,
+
+ombud för stater och
+
+mellanstatliga organisationer
+
+som deltar i församlingens och
+
+dess underordnade organs möten
+
+samt ombud för stater som
+
+deltar i domstolens förfaranden
+
+67.
+
+68. Athena Kurir Beslut av företrädarna
+
+för regeringarna i
+
+Europeiska unionens
+
+medlemsstater, församlade
+
+i rådet, den 28 april
+
+2004 om privilegier och
+
+immunitet för Athena
+
+--------------------------------------------------------------
+
+/Träder i kraft I:den dag regeringen bestämmer/
+
+69. Europeiska Försvarsbyråns Beslut av
+
+försvarsbyrån anställda företrädarna för
+
+regeringarna i
+
+Europeiska unionens
+
+medlemsstater,
+
+församlade i rådet,
+
+av den 10 november
+
+2004 om privilegier
+
+och immunitet för
+
+Europeiska
+
+försvarsbyrån och
+
+dess anställda
+
+70 Nordiska Personer med anställning Avtal av den 29
+
+kulturfonden vid Nordiska kulturfonden oktober 2004 om
+
+och deras familjemedlemmar ändring av avtalet
+
+av den 13 maj 1987
+
+om den rättsliga
+
+ställningen för
+
+Nordiska
+
+ministerrådets
+
+sekretariat och
+
+Nordiska rådets
+
+presidiesekretariat
+
+71. Europeiska Centrumets personal Avtal av den 30
+
+centrumet för och deras juni 2010 mellan
+
+förebyggande och familjemedlemmar Sveriges regering
+
+kontroll av och Europeiska
+
+sjukdomar (The centrumet för
+
+European Centre förebyggande och
+
+for Disease kontroll av
+
+Prevention and sjukdomar
+
+Control)
+
+72. PLO Personer med tjänst Avtal den 28
+
+hos Mission of Palestine juni 2012 mellan
+
+i Stockholm samt deras Sveriges regering
+
+familjemedlemmar och PLO, till
+
+förmån för
+
+Palestinska
+
+myndigheten
+
+73. Sekretariatet Personer med tjänst Avtal den 6
+
+för Nordliga hos eller uppdrag av februari 2013
+
+dimensionens sekretariatet samt mellan Sveriges
+
+partnerskap för deras familjemedlemmar regering och
+
+hälsa och socialt sekretariatet
+
+välbefinnande för Nordliga
+
+(NDPHS) dimensionens
+
+partnerskap
+
+för hälsa och
+
+socialt
+
+välbefinnande
+
+74. Internationella Avvecklingsmekanismens Stadga för
+
+avvecklingsmekanismen ledamöter, åklagaren och Internationella
+
+för dennes personal, avvecklingsmekanismen
+
+brottmålstribunaler registratorn och dennes för
+
+personal, försvarare och brottmålstribunaler
+
+andra personer som på fastställd genom
+
+annat sätt medverkar i FN:s säkerhetsråds
+
+avvecklingsmekanismen resolution 1966 den
+
+22 december 2010
+
+75. European Avtal den 21 oktober
+
+Spallation Source 2015 mellan Sveriges
+
+Eric regering och European
+
+Spallation Source
+
+Eric
+
+76. Ledamöter i expertgruppen Europarådets
+
+GREVIO och andra medlemmar konvention om
+
+av delegationer som gör förebyggande och
+
+landbesök i enlighet med bekämpning av
+
+konventionen våld mot kvinnor
+
+och av våld i
+
+hemmet
+
+77. Asiatiska banken Ledamöterna av bankens Avtal den 29 juni
+
+för infrastruktur- styrelse och personer med 2015 om inrättande
+
+investeringar tjänst eller uppdrag hos av Asiatiska banken
+
+banken för infrastruktur-
+
+investeringar med
+
+av Sverige anmäld
+
+reservation
+
+/Träder i kraft I:den dag som regeringen bestämmer/
+
+78. Den internationella Konventionen den
+
+fonden för farliga och 30 april 2010 om
+
+skadliga ämnen ansvar och
+
+ersättning för skada
+
+i samband med
+
+sjötransport av
+
+farliga och skadliga
+
+ämnen (2010 års
+
+HNS-konvention)
+
+79. Europeiska Medlemmarnas representanter Protokoll av den
+
+organisationen för i organisationen, 18 mars 2004 om
+
+kärnforskning (CERN) organisationens tjänstemän privilegier och
+
+och deras familjemedlemmar immunitet för
+
+samt organisationens Europeiska
+
+generaldirektör organisationen
+
+för kärnforskning
+
+med av Sverige
+
+anmäld reservation
+
+80. Banken för Styrelseledamöter, Avtal undertecknat
+
+internationell verkställande direktör, den 3 februari 2021
+
+betalningsutjämning vice verkställande direktör, och den 5 februari
+
+(BIS) medlemmarnas representanter 2021 mellan Sveriges
+
+i banken, bankens personal regering och Banken
+
+och ovan angivna personers för internationell
+
+familjemedlemmar samt av betalningsutjämning
+
+banken utsedda experter
+
+81.Internationella Direktören, institutets Avtal undertecknat
+
+vaccininstitutet (IVI) personal samt deras den 1 mars 2022
+
+familjemedlemmar och den 3 mars 2022
+
+mellan Sveriges
+
+regering och
+
+Internationella
+
+vaccininstitutet
+
+82. Förenta Chefen, biträdande chefen, Avtal undertecknat
+
+nationernas barnfond kontorets personal samt den 13 april 2022 och
+
+Unicefs deras familjemedlemmar den 18 april 2022 mellan
+
+innovationskontor Sveriges regering och
+
+Förenta nationernas
+
+barnfond Unicef
+
+83. Enhetliga Medlemsstaternas representanter Protokoll av den
+
+patentdomstolen i administrativa kommittén, 29 juni 2016 om
+
+budgetkommittén och rådgivande privilegier och
+
+kommittén. Domare, kanslichef immunitet för den
+
+och biträdande kanslichef samt enhetliga
+
+tjänstemän och övrig personal patentdomstolen
+
+som är anställda av domstolen. med de undantag
+
+för immunitet och
+
+privilegier som
+
+följer av artiklarna
+
+6.3 och 10.3.
+
+84. Nordatlantiska Medlemmarnas representanter Avtal den
+
+fördragsorganisationen i organet och personer med 20 september 1951
+
+tjänst hos eller uppdrag av om status för
+
+detta Nordatlantiska
+
+fördrags-
+
+organisationen,
+
+nationella
+
+representanter och
+
+organisationens
+
+internationella
+
+personal
+
+/Upphör att gälla U:den dag som regeringen bestämmer/
+
+85. Square Kilometre Medlemmarnas representanter Konventionen den 12
+
+Array Observatory i organet, generaldirektören, mars 2019 om upprättande
+
+organets personal och deras av Square Kilometre
+
+familjemedlemmar samt experter Array Observatory
+
+utsedda av organet
+
+/Träder i kraft I:den dag som regeringen bestämmer/
+
+85. Square Kilometre Medlemmarnas representanter Konventionen den 12
+
+Array Observatory i organet, generaldirektören, mars 2019 om upprättande
+
+organets personal och deras av Square Kilometre
+
+familjemedlemmar samt experter Array Observatory
+
+utsedda av organet
+
+86. Den internationella Företrädare för medlemmar Konvention den
+
+skadeståndskommissionen i skadeståndskommissionens 16 december 2025
+
+för Ukraina organ, kommissionsledamöter, om inrättande av
+
+den verkställande direktören, en internationell
+
+sekretariatets övriga skadeståndskommission
+
+medlemmar samt experter för Ukraina
+
+Lag (2026:1223).
