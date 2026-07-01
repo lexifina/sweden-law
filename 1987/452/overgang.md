@@ -1,0 +1,159 @@
+## Övergångsbestämmelser
+
+1987:452
+
+1. Denna förordning träder i kraft den 1 juli 1987 då förordningen (1975:1129) om expeditionsavgift vid centralnämnden för fastighetsdata upphör att gälla.
+
+2. Ansökningsavgifter för mål eller ärenden som har anhängiggjorts före ikraftträdandet skall bestämmas enligt expeditionskungörelsen (1964:618). Förordning (1988:11).
+
+3. Har kungörelse utfärdats efter ikraftträdandet i dessförinnan anhängiggjorda mål eller ärenden som avser annat än konkurs och ackord skall kungörelsekostnader tas ut enligt de äldre reglerna.
+
+4. Har kungörelse utfärdats om konkursbeslut eller ackordsförhandling efter ikraftträdandet i dessförinnan anhängiggjorda ärenden skall kungörandeavgift tas ut enligt denna förordning. Har sådan kungörelse utfärdats före ikraftträdandet, skall kostnaderna för de ytterligare kungörelser som efter ikraftträdandet utfärdas i ärendet stanna på statsverket.
+
+1987:1117
+
+Denna förordning träder i kraft den 1 januari 1988. Äldre bestämmelser gäller dock fortfarande i fråga om angelägenheter som handläggs enligt lagen (1974:8) om rättegången i tvistemål om mindre värden.
+
+1988:11
+
+Denna förordning träder i kraft den 1 februari 1988.
+
+Äldre bestämmelser om kungörandeavgift gäller fortfarande i de konkurser där beslut om konkursen eller ackordsförhandlingen har meddelats före den 1 februari 1988.
+
+1990:437
+
+Denna förordning träder i kraft den 1 juli 1990.
+
+Äldre bestämmelser om kungörandeavgift gäller fortfarande i de ärenden där beslut om konkursen eller ackordsförhandlingen har meddelats före den 1 juli 1990.
+
+1998:939
+
+1. Denna förordning träder i kraft den 1 januari 1999.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om ansökningar som har anhängiggjorts före ikraftträdandet.
+
+2001:428
+
+Denna förordning träder i kraft den 1 juli 2001. Äldre bestämmelser gäller fortfarande för ansökan om anstånd enligt 18 kap. 7 § ärvdabalken som har kommit in till tingsrätten före ikraftträdandet.
+
+2005:159
+
+Denna förordning träder i kraft den 1 maj 2005. Äldre bestämmelser gäller fortfarande för expeditioner som har utfärdats före ikraftträdandet.
+
+2008:173
+
+1. Denna förordning träder i kraft den 1 juni 2008.
+
+2. Vid överklagande av ett beslut som har meddelats före ikraftträdandet ska äldre bestämmelser tillämpas.
+
+2014:256
+
+1. Denna förordning träder i kraft den 1 juli 2014.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om mål och ärenden som har inletts vid allmän domstol eller överlämnats dit före ikraftträdandet.
+
+2022:1329
+
+1. Denna förordning träder i kraft den 1 augusti 2022.
+
+2. Äldre bestämmelser gäller fortfarande för ärenden som har inletts före ikraftträdandet.
+
+### Bilaga
+
+### Avgiftslista
+
+### Ansökningsavgifter
+
+En ansökningsavgift tas ut med nedan angivet belopp när någon inleder något av följande.
+
+Kategori A ............................................ 900 kr
+
+Allmänna domstolsärenden:
+
+- adoption, vårdnad eller umgängesrätt,
+
+- tillfällig åtgärd i fråga om vårdnad, boende, umgänge eller förmynderskap enligt 2 § lagen (2022:948) med kompletterande bestämmelser till Bryssel II-förordningen eller 5 § lagen (2012:318) om 1996 års Haagkonvention,
+
+- namn enligt lagen (2016:1013) om personnamn,
+
+- testamentsvittnesförhör,
+
+- förordnande av boutredningsman, bodelningsförrättare eller skiftesman,
+
+- tillstånd till försäljning m.m. enligt 7 kap. 8 § äktenskapsbalken eller 24 § sambolagen (2003:376),
+
+- beslut om särskild förvaltning enligt 9 kap. 8 § äktenskapsbalken,
+
+- förordnande om rätt att bo kvar i det gemensamma hemmet enligt 18 kap. 2 § äktenskapsbalken eller 28 § sambolagen,
+
+- tillstånd till försäljning av fast egendom eller tomträtt enligt 19 kap. 13 § ärvdabalken,
+
+- förordnande enligt 3 eller 6 § lagen (1904:48 s. 1) om samäganderätt,
+
+- tillstånd till fusion enligt 16 kap. lagen (2018:672) om ekonomiska föreningar,
+
+- likvidation och förordnande av likvidator enligt 17 kap. lagen om ekonomiska föreningar, 25 kap. aktiebolagslagen (2005:551) eller 2 kap. 37 § lagen (1980:1102) om handelsbolag och enkla bolag,
+
+- entledigande av styrelseledamot eller förvaltare enligt 9 kap. 6 § stiftelselagen (1994:1220),
+
+- kraftlöshetsförklaring av fullmakt enligt 17 § lagen (1915:218) om avtal och andra rättshandlingar på förmögenhetsrättens område,
+
+- förordnande enligt lagen (1929:145) om skiljemän,
+
+- förordnande av sammanträdesledare enligt 7 och 20 §§ lagen (1973:1150) om förvaltning av samfälligheter,
+
+- rättsgenetisk undersökning enligt lagen (1958:642) om rättsgenetisk undersökning vid utredning av faderskap,
+
+- sjöförklaring,
+
+- entledigande av någon annan än sökanden från ett uppdrag som angetts ovan,
+
+- informationsföreläggande enligt 53 c § lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk, 35 c § mönsterskyddslagen (1970:485), 9 c § lagen (1992:1685) om skydd för kretsmönster för halvledarprodukter, 9 kap. 5 a § växtförädlarrättslagen (1997:306), 9 kap. 1 § varumärkeslagen (2010:1877), 6 kap. 1 § lagen (2018:1653) om företagsnamn eller 16 kap. 1 § patentlagen (2024:945),
+
+- medling eller förlängd tid för pågående medling enligt lagen (2017:322) om medling i vissa upphovsrättstvister,
+
+- intagande i protokoll för framtida säkerhet, och
+
+- verkställbarhetsförklaring enligt lagen (2011:860) om medling i vissa privaträttsliga tvister.
+
+Mål i en mark- och miljödomstol enligt lagen (2006:412) om allmänna vattentjänster, om värdet av vad som yrkas inte uppenbart överstiger hälften av prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken.
+
+Ärende i en mark- och miljödomstol som det inte tas ut någon avgift för enligt 2 eller 3 kap. förordningen (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken.
+
+Tvistemål där 1 kap. 3 d § första stycket rättegångsbalken ska tillämpas, inklusive tvistemål enligt förordningen (EG) nr 861/2007 av den 11 juli 2007 om inrättande av ett europeiskt småmålsförfarande.
+
+Äktenskapsmål eller mål om underhåll enligt äktenskapsbalken och mål som gäller faderskap, föräldraskap enligt 1 kap. 9 § föräldrabalken, vårdnad om barn, barns boende, umgänge med barn eller underhåll till barn, inklusive mål som inleds genom en gemensam ansökan.
+
+För ett tvistemål där 1 kap. 3 d § första stycket rättegångsbalken tillämpas tas ingen ny avgift ut om målet enligt rättens beslut ska handläggas enligt andra bestämmelser.
+
+Kategori B .......................................... 2 800 kr
+
+Annat tvistemål än sådant som angetts under kategori A.
+
+Ärende som avser säkerhetsåtgärd enligt 15 kap. rättegångsbalken.
+
+Ärende om kvarstad på bankmedel enligt Europaparlamentets och rådets förordning (EU) nr 655/2014 av den 15 maj 2014 om inrättande av ett europeiskt förfarande för kvarstad på bankmedel för att underlätta gränsöverskridande skuldindrivning i mål och ärenden av privaträttslig natur.
+
+Enskilt åtal.
+
+Konkursärende.
+
+Ärende om företagsrekonstruktion.
+
+Annat mål i en mark- och miljödomstol än sådant som angetts under kategori A, med undantag för mål om utdömande av vite efter särskild ansökan av myndighet, mål om utdömande av tilläggsavgift enligt plan- och bygglagen (1987:10) och mål som det tas ut avgift för enligt 2 eller 3 kap. förordningen om avgifter för prövning och tillsyn enligt miljöbalken.
+
+### Tilläggsavgifter
+
+En tilläggsavgift tas ut med nedan angivet belopp när ett mål eller ärende har överlämnats till domstol enligt följande.
+
+Tvistemål där 1 kap. 3 d § första stycket rättegångsbalken ska tillämpas, inklusive tvistemål enligt förordningen (EG) nr 861/2007 om inrättande av ett europeiskt småmålsförfarande, efter överlämnande från Kronofogdemyndigheten enligt 36 eller 54 § lagen (1990:746) om betalningsföreläggande och handräckning eller 10 § lagen (2008:879) om europeiskt betalningsföreläggande .................................600 kr
+
+Annat tvistemål, efter överlämnande från Kronofogdemyndigheten enligt 36 eller 54 § lagen om betalningsföreläggande och handräckning eller enligt 10 § lagen om europeiskt betalningsföreläggande .............................. 2 500 kr
+
+Tvistemål om administrativ hävning av ett registrerat företagsnamn, efter överlämnande av ärende från registreringsmyndighet enligt 3 kap. 12 eller 15 § lagen om företagsnamn ........................................ 2 350 kr
+
+Tvistemål om administrativ hävning av ett registrerat varumärke, efter överlämnande från Patent- och registreringsverket enligt 3 kap. 13 eller 16 § varumärkeslagen ..................................... 2 350 kr
+
+Mål i en mark- och miljödomstol enligt lagen om allmänna vattentjänster, om värdet av vad som yrkas inte uppenbart överstiger hälften av prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, efter överlämnande från Kronofogdemyndigheten enligt 36 eller 54 § lagen om betalningsföreläggande och handräckning eller 10 § lagen om europeiskt betalningsföreläggande ..................... 600 kr
+
+Annat mål i en mark- och miljödomstol enligt lagen om allmänna vattentjänster, efter överlämnande från Kronofogdemyndigheten enligt 36 eller 54 § lagen om betalningsföreläggande och handräckning eller 10 § lagen om europeiskt betalningsföreläggande .............................. 2 500 kr Förordning (2026:327).
