@@ -68,25 +68,80 @@ def html_text_on(html, day):
     body = re.sub(r'<div class="sfstoc">.*?</ul>\s*</div>', '', body, flags=re.S)
     cuts = [x.start() for x in re.finditer(r'<a class="paragraf"|<h[1-6][ >]', body)]
     cuts = [0] + cuts + [len(body)]
-    out = []
+
+    def ok(I, U):
+        return not (I == 'undated' or (I and I > day)) and not (U and U != 'undated' and day >= U)
+
+    def val(kind, d):
+        return (d or 'undated', None) if kind.lower().startswith('tr') else (None, d or 'undated')
+
+    # pieces: [text, segment index, [validities]]; a heading segment splits into its heading and the text after it
+    segs = []
+    pieces = []
     for a, b in zip(cuts, cuts[1:]):
         seg = body[a:b]
-        # a heading segment holds the heading and any text after it up to the next anchor
-        text = htmlmod.unescape(re.sub(r'<[^>]+>', ' ', seg))
-        if seg.startswith('<a class="paragraf"'):
-            mm = MARK.match(text)
+        si = len(segs)
+        hm = re.match(r'<h[1-6][^>]*>(.*?)</h[1-6]>', seg, re.S)
+        name = re.match(r'<h3 name="(K[^"]*)"', seg)
+        segs.append({'chapter_head': bool(name), 'heading': bool(hm), 'par': seg.startswith('<a class="paragraf"'),
+                     'lead': []})
+        if segs[-1]['par']:
+            mm = MARK.match(htmlmod.unescape(re.sub(r'<[^>]+>', ' ', seg)))
             if mm:
-                I = U = None
-                for k, d in ONE.findall(mm.group(1)):
-                    v = d or 'undated'
-                    if k.lower().startswith('upph'):
-                        U = v
-                    else:
-                        I = v
-                ok = not (I == 'undated' or (I and I > day)) and not (U and U != 'undated' and day >= U)
-                if not ok:
-                    continue
-        out.append(text)
+                segs[-1]['lead'] = [val(k2, d) for k2, d in ONE.findall(mm.group(1))]
+        parts = [(seg[:hm.end()], 'head'), (seg[hm.end():], 'rest')] if hm else [(seg, 'rest')]
+        for raw, role in parts:
+            text = htmlmod.unescape(re.sub(r'<[^>]+>', ' ', raw))
+            # cut standalone Rubriken/Kapitlet markers out as pieces of their own
+            pos = 0
+            for mk in re.finditer(r'/\s*(Rubriken|Kapitlet)\s+(upphör att gälla U|träder i kraft I)\s*:\s*'
+                                  r'(\d{4}-\d{2}-\d{2})?[^/\n]*/?', text):
+                pieces.append([text[pos:mk.start()], si, role, []])
+                pieces.append([mk.group(0), si, 'marker', [], mk.group(1), mk.group(2), mk.group(3)])
+                pos = mk.end()
+            pieces.append([text[pos:], si, role, []])
+    seg_val = [[] for _ in segs]
+    for k, p in enumerate(pieces):
+        if p[2] != 'marker':
+            continue
+        scope, kind, d = p[4], p[5], p[6]
+        v = val(kind, d)
+        p[3].append(v)
+        si = p[1]
+        if scope == 'Rubriken':
+            before = ''.join(q[0] for q in pieces[:k] if q[1] == si)
+            if segs[si]['par'] and re.fullmatch(r'\s*\d+(?: ?[a-z])? §\s*', before):
+                # "N § /Rubriken ...": the heading just before this paragraf
+                for q in reversed(pieces[:k]):
+                    if q[2] == 'head':
+                        q[3].append(v)
+                        break
+            else:
+                for q in pieces[k + 1:]:
+                    if q[2] == 'head':
+                        q[3].append(v)
+                        break
+        elif kind.lower().startswith('upph'):
+            j = si
+            while j >= 0:
+                seg_val[j].append(v)
+                if segs[j]['chapter_head']:
+                    break
+                j -= 1
+        else:
+            j = si + 1
+            while j < len(segs) and not segs[j]['chapter_head']:
+                j += 1
+            if j < len(segs):
+                seg_val[j].append(v)
+                j += 1
+                while j < len(segs) and not segs[j]['chapter_head']:
+                    seg_val[j].append(v)
+                    j += 1
+    out = []
+    for text, si, role, vs, *_ in pieces:
+        if all(ok(*v) for v in vs + seg_val[si] + segs[si]['lead']):
+            out.append(text)
     return letters(' '.join(out))
 
 
@@ -204,8 +259,11 @@ def main():
     for b in bad[:25]:
         print('BAD', *b)
     if write:
-        with open(os.path.join(HERE, 'verification.json'), 'w', encoding='utf-8', newline='\n') as f:
-            json.dump(res, f, ensure_ascii=False, indent=1)
+        vp = os.path.join(HERE, 'verification.json')
+        rec = json.load(open(vp, encoding='utf-8')) if os.path.exists(vp) else {}
+        rec.update(res)
+        with open(vp, 'w', encoding='utf-8', newline='\n') as f:
+            json.dump(rec, f, ensure_ascii=False, indent=1, sort_keys=True)
     sys.exit(1 if n_bad or merges or crs or no_inforce or backwards or after or bad_trailers else 0)
 
 
