@@ -1,0 +1,52 @@
+{
+  "corpus": "se/national/acts",
+  "name": "Svensk författningssamling (SFS): Swedish statutes as consolidated in SFST",
+  "label": "Sweden",
+  "language": "sv",
+  "acts": {
+    "in_force": 5304,
+    "repealed": 5812,
+    "future": 37
+  },
+  "history": "current-only",
+  "history_from": "1723-10-16",
+  "record_to": "2026-10-15",
+  "checked_on": "2026-10-28",
+  "built": "2026-10-28",
+  "record_note": "Current-only: the sources keep one consolidation per statute (the text \"t.o.m. SFS ...\"), no earlier versions. Each statute appears on the in-force day of the latest amending act its consolidation includes (SFSR register), so the record of a statute starts there. Real dated changes: provisions the consolidation prints in two dated versions (\"/Upphör att gälla U:date/\", \"/Träder i kraft I:date/\") change on that date, credited to the act named in the new text; repealed statutes are deleted on their repeal day, credited to the repealing act. Checked against the source on 2026-10-28.",
+  "in_force_trailer": "In-force",
+  "baseline_trailer": "Consolidated",
+  "has_future_branch": true,
+  "future_branch": "future",
+  "dates": {
+    "commit": "in-force (see Date-source: sfsr-amendment, sfsr-in-force, issued, marker, upphavd)",
+    "baseline_trailer": "Consolidated",
+    "other_trailers": [
+      "Issued"
+    ],
+    "time": "12:00 Europe/Stockholm (CET +01:00; CEST +02:00 from 1980: 1980 6 Apr-28 Sep, 1981-1995 last Sunday of March-last Sunday of September, from 1996 last Sunday of March-last Sunday of October)",
+    "before_1970": "clamped to 1970-01-01 (seconds apart); the real day is in In-force"
+  },
+  "author": {
+    "consolidated": "Regeringskansliet SFST (via Riksdagen open data)",
+    "enacted": "the statute itself, when the register lists no amendment in force",
+    "amendment": "the amending act, SFS YYYY:NNN",
+    "repeal": "the repealing act, SFS YYYY:NNN",
+    "unexplained": "Regeringskansliet SFST (via Riksdagen open data)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "no scope note found; not a statement that the change reaches every case (transitional provisions are in each statute's overgang.md)",
+    "default_reach": {
+      "rule": "no retroactive criminal law or taxes; otherwise transitional provisions decide",
+      "meaning": "a statute applies from its entry into force; criminal sanctions and taxes may not be imposed retroactively, and for crimes the law at the time of the act applies unless a later law is milder; for other law the act's own övergångsbestämmelser say what happens to earlier facts",
+      "authority": "Regeringsformen (1974:152) 2 kap. 10 §; lagen (1964:163) om införande av brottsbalken 5 §",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "(.+)/([0-9]+[a-z]?)\\.md",
+    "cites": "([^0-9]|^){n} ?§"
+  },
+  "tool": "tools/in_force_on.py"
+}
