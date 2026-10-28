@@ -18,6 +18,8 @@ WS_RE = re.compile(r'[ \t\r\n    ​­]+')
 BLANK_RE = re.compile(r'\n[ \t\r ]*\n')
 # a validity marker as the publisher prints it: /Upphör att gälla U:<when>/ or /Träder i kraft I:<when>/,
 # optionally led by Kapitlet, Rubriken, Lagen ... (the closing slash is sometimes missing)
+PAR_LINE = re.compile(r'^(\d+(?: ?[a-z])?) §(?: |$)')
+CH_LINE = re.compile(r'^(\d+(?: ?[a-z])?) kap\.(?: |$)')
 MARK_RE = re.compile(r'/\s*([A-Za-zÀ-ÿ ]*?)\s*(upphör att gälla U|träder i kraft I)\s*:\s*([^/\n]*?)\s*(?:/|(?=\n)|$)',
                      re.I)
 NOTE_RE = re.compile(r'(?:Lag|Förordning|Kungörelse|Tillkännagivande|Instruktion|Reglemente|Stadga|'
@@ -168,7 +170,7 @@ def parse_body(body):
         units.append(cur)
 
     def flush():
-        nonlocal cur
+        nonlocal cur, chapter
         text = ''.join(buf)
         buf.clear()
         parts = [clean_line(p) for p in BLANK_RE.split(text.replace('\r', ''))]
@@ -177,18 +179,32 @@ def parse_body(body):
             return
         if pending:
             if cur is None:
-                new_unit('ingress' if anchored else 'text', 'ingress' if anchored else 'text')
+                new_unit('ingress', 'ingress')
             else:
                 cur['lines'].extend(pending)
                 pending.clear()
         if cur is None:
-            new_unit('ingress' if anchored else 'text', 'ingress' if anchored else 'text')
-        if cur['kind'] in ('par', 'overgang', 'bilaga') or True:
-            for p in parts:
-                if in_overgang and re.fullmatch(r'Bilaga(?: [0-9]+[a-z]?| [A-Z])?(?: till [^.]{0,80})?', p) and cur['kind'] != 'bilaga':
+            new_unit('ingress', 'ingress')
+        for p in parts:
+            if in_overgang:
+                if re.fullmatch(r'Bilaga(?: [0-9]+[a-z]?| [A-Z])?(?: till [^.]{0,80})?', p) and cur['kind'] != 'bilaga':
                     n = sum(1 for u in units if u['kind'] == 'bilaga') + 1
                     new_unit('bilaga', 'bilaga-%d' % n)
                 cur['lines'].append(p)
+                continue
+            # a paragraf the publisher left without an anchor (or a document with no anchors at all)
+            pm = PAR_LINE.match(p)
+            if pm and cur['kind'] in ('par', 'ingress') and any(not l.startswith('#') for l in cur['lines']):
+                new_unit('par', 'split', para=pm.group(1).replace(' ', ''))
+                cur['chapter'] = chapter
+                cur['split'] = True
+            elif not anchored and CH_LINE.match(p) and '§' not in p and len(p) < 200:
+                chapter = CH_LINE.match(p).group(1).replace(' ', '')
+                pending.append(p)
+                continue
+            elif pm and cur['kind'] == 'ingress' and not any(not l.startswith('#') for l in cur['lines']):
+                cur.update(kind='par', key='split', para=pm.group(1).replace(' ', ''), chapter=chapter, split=True)
+            cur['lines'].append(p)
 
     pos = 0
     for m in TAG_RE.finditer(body):
