@@ -1,0 +1,37 @@
+{
+ "amending_acts": 67679,
+ "amendment_rows": 69678,
+ "built": 11152,
+ "classes": {
+  "as-printed": 59,
+  "dated-versions": 415,
+  "plain": 10678
+ },
+ "commit_kinds": {
+  "amendment": 3,
+  "consolidated": 6669,
+  "enacted": 4446,
+  "repeal": 4415
+ },
+ "documents": 11433,
+ "files_in_force": 108796,
+ "future_commits": 453,
+ "future_kinds": {
+  "amendment": 391,
+  "enacted": 37,
+  "repeal": 17,
+  "unexplained": 8
+ },
+ "future_laws": 37,
+ "history_from": "1723-10-16",
+ "in_force": 5304,
+ "issues": 367,
+ "left_out": 281,
+ "main_commits": 15534,
+ "record_to": "2026-10-15",
+ "repealed": 5811,
+ "requests": 23892,
+ "retrieved": "2026-10-28",
+ "today": "2026-10-28",
+ "undated_markers": 622
+}
