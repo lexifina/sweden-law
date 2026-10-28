@@ -4,10 +4,10 @@
 
 Current-only corpus (the sources keep no past consolidations), with three kinds of real dated change:
 - a statute's text appears on the in-force day of the latest amending act the consolidation includes (SFSR);
-- paragrafs the publisher prints twice, as "/Upphör att gälla U:<date>/" and "/Träder i kraft I:<date>/", change
+- paragrafs the publisher prints twice, as "/Upph\u00f6r att g\u00e4lla U:<date>/" and "/Tr\u00e4der i kraft I:<date>/", change
   on that date (on main if the date is not after --today, otherwise on the never-merged `future` branch),
   credited to the act named in the new text ("Lag (YYYY:NNN)");
-- a repealed statute's files are deleted on its repeal day (Upphävd), credited to the repealing act.
+- a repealed statute's files are deleted on its repeal day (Upph\u00e4vd), credited to the repealing act.
 """
 import argparse
 import os
@@ -87,11 +87,11 @@ def act_email(num):
 
 
 def unit_validity(u):
-    """(I, U) of a unit from markers at the very start of its first text line (after the § label):
+    """(I, U) of a unit from markers at the very start of its first text line (after the \u00a7 label):
     None = no marker, a date, or 'undated'. Returns also whether the unit carries any other marker."""
     lines = [l for l in u['lines'] if not l.startswith('#')]
     first = lines[0] if lines else ''
-    head = re.sub(r'^\d+(?: ?[a-z])? §\s*', '', first)
+    head = re.sub(r'^\d+(?: ?[a-z])? \u00a7\s*', '', first)
     I = U = None
     pos = 0
     while True:
@@ -142,10 +142,10 @@ def assign(units):
     """Validity of every unit, and of single lines inside units, from the publisher's markers.
 
     - a marker right after the paragraf label: the whole paragraf;
-    - a stycke that is only "/Rubriken träder i kraft I:<when>/" (or upphör ... U:): itself and the next heading line;
+    - a stycke that is only "/Rubriken tr\u00e4der i kraft I:<when>/" (or upph\u00f6r ... U:): itself and the next heading line;
       the same marker right after a paragraf label: the heading line(s) at the top of that paragraf;
-    - "/Kapitlet upphör att gälla U:<when>": itself and every unit of the chapter it closes (back to the chapter's
-      first unit); "/Kapitlet träder i kraft I:<when>/": itself and every unit of the next chapter.
+    - "/Kapitlet upph\u00f6r att g\u00e4lla U:<when>": itself and every unit of the chapter it closes (back to the chapter's
+      first unit); "/Kapitlet tr\u00e4der i kraft I:<when>/": itself and every unit of the next chapter.
     Returns (unit validity list, line validity lists, number of markers not understood)."""
     uval = []
     lval = [[(None, None)] * len(u['lines']) for u in units]
@@ -161,7 +161,7 @@ def assign(units):
             if not ms:
                 continue
             if i == first_text:
-                head = re.sub(r'^\d+(?: ?[a-z])? §\s*', '', line)
+                head = re.sub(r'^\d+(?: ?[a-z])? \u00a7\s*', '', line)
                 lead = sfs.MARK_RE.match(head)
                 if lead and not lead.group(1).strip():
                     ms = ms[len([m for m in sfs.MARK_RE.finditer(head[:_lead_end(head)])]):]
@@ -273,11 +273,11 @@ def build_law(doc_meta, today):
     fields, body = sfs.split_header(d['html'])
     up = d['uppgift']
     title = sfs.clean_line(d['titel'] or doc_meta['titel'])
-    out.update(title=title, issued=(up.get('utfardad') or fields.get('Utfärdad') or '')[:10],
-               amended_through=(re.sub(r'^t\.o\.m\.\s*(?:SFS\s*)?', '', up.get('andrattillochmed') or fields.get('Ändrad') or '')),
-               repealed=(up.get('upphavd') or fields.get('Upphävd') or '')[:10],
-               repealed_by=re.sub(r'^SFS\s*', '', up.get('upphnr') or fields.get('Författningen har upphävts genom') or ''),
-               department=d['organ'], other=up.get('text2') or fields.get('Övrig text') or '',
+    out.update(title=title, issued=(up.get('utfardad') or fields.get('Utf\u00e4rdad') or '')[:10],
+               amended_through=(re.sub(r'^t\.o\.m\.\s*(?:SFS\s*)?', '', up.get('andrattillochmed') or fields.get('\u00c4ndrad') or '')),
+               repealed=(up.get('upphavd') or fields.get('Upph\u00e4vd') or '')[:10],
+               repealed_by=re.sub(r'^SFS\s*', '', up.get('upphnr') or fields.get('F\u00f6rfattningen har upph\u00e4vts genom') or ''),
+               department=d['organ'], other=up.get('text2') or fields.get('\u00d6vrig text') or '',
                sfsr=bool(reg), base_in_force='', class_='plain')
     if reg:
         bi = sfs.DATE_RE.findall(reg['fields'].get('Ikraft', ''))
@@ -285,7 +285,7 @@ def build_law(doc_meta, today):
         for e in entries:
             f = e['fields']
             out['amend'].append([bet, e['sfs'], f.get('Rubrik', ''), f.get('Omfattning', ''), f.get('Ikraft', ''),
-                                 f.get('Förarbeten', '')])
+                                 f.get('F\u00f6rarbeten', '')])
     units = sfs.parse_body(body)
     if not any(l for u in units for l in u['lines'] if not l.startswith('#')):
         out['issues'].append([bet, 'no text in the source document'])
@@ -501,8 +501,8 @@ def commit_text(g, laws_by_dir, today):
         tr.append('Date-source: %s' % ev[0]['date_source'])
         if law['class_'] == 'as-printed':
             tr.append('Text: as-printed')
-            body += ('\n\nThe consolidation prints some provisions in two versions with markers ("/Upphör att gälla '
-                     'U:.../", "/Träder i kraft I:.../") that could not be split cleanly by date; both are kept as '
+            body += ('\n\nThe consolidation prints some provisions in two versions with markers ("/Upph\u00f6r att g\u00e4lla '
+                     'U:.../", "/Tr\u00e4der i kraft I:.../") that could not be split cleanly by date; both are kept as '
                      'printed, the second copy in a file named ~2.')
         tr += ['Law: SFS %s' % law['bet'], 'Issued: %s' % law['issued']] if valid_iso(law['issued']) else ['Law: SFS %s' % law['bet']]
         tr.append('Source: https://data.riksdagen.se/dokument/%s.html' % law['dok_id'].replace(' ', '%20'))
@@ -517,7 +517,7 @@ def commit_text(g, laws_by_dir, today):
         paths = sorted(p for e in ev for p in ('%s/%s' % (e['law'], q) for q in e['changes']))
         subject = short('SFS %s in force: %s' % (act, ', '.join(law_label(l) for l in laws)))
         body = ('%s takes effect on %s. The consolidation prints the provisions it changes twice, the old text marked '
-                '"/Upphör att gälla U:%s/" and the new text "/Träder i kraft I:%s/" ending "Lag (%s)."; this commit '
+                '"/Upph\u00f6r att g\u00e4lla U:%s/" and the new text "/Tr\u00e4der i kraft I:%s/" ending "Lag (%s)."; this commit '
                 'replaces one with the other.' % (name, day, day, day, act))
         tr.append('Amending-act: SFS %s' % act)
         tr += ['Affecting: %s' % p for p in paths]
@@ -545,7 +545,7 @@ def commit_text(g, laws_by_dir, today):
         else:
             name, email = PUBLISHER
         subject = short('%s repealed: %s' % (('SFS %s' % act) if act else 'Repeal', ', '.join(law_label(l) for l in laws)))
-        body = ('%s ceases to apply on %s (Upphävd, per Riksdagen open data and the SFSR register)%s. The files are '
+        body = ('%s ceases to apply on %s (Upph\u00e4vd, per Riksdagen open data and the SFSR register)%s. The files are '
                 'removed; the last text stays in history.' % ('; '.join('%s (SFS %s)' % (l['title'], l['bet']) for l in laws),
                                                                 day, (', repealed by %s' % name) if act else
                                                                 '; the source names no repealing act'))

@@ -14,16 +14,16 @@ CACHE = os.path.join(HERE, '.cache')
 SFS_RE = re.compile(r'(\d{4}):(\d+)')
 DATE_RE = re.compile(r'\d{4}-\d{2}-\d{2}')
 TAG_RE = re.compile(r'<(/?)([a-zA-Z0-9]+)((?:[^>"]|"[^"]*")*)>', re.S)
-WS_RE = re.compile(r'[ \t\r\n    ​­]+')
-BLANK_RE = re.compile(r'\n[ \t\r ]*\n')
-# a validity marker as the publisher prints it: /Upphör att gälla U:<when>/ or /Träder i kraft I:<when>/,
+WS_RE = re.compile(r'[ \t\r\n\u00a0\u2002\u2003\u2009\u200b\u00ad]+')
+BLANK_RE = re.compile(r'\n[ \t\r\u00a0]*\n')
+# a validity marker as the publisher prints it: /Upph\u00f6r att g\u00e4lla U:<when>/ or /Tr\u00e4der i kraft I:<when>/,
 # optionally led by Kapitlet, Rubriken, Lagen ... (the closing slash is sometimes missing)
-PAR_LINE = re.compile(r'^(\d+(?: ?[a-z])?) §(?: (?=[A-ZÅÄÖÉ/0-9–-])|$)')
+PAR_LINE = re.compile(r'^(\d+(?: ?[a-z])?) \u00a7(?: (?=[A-Z\u00c5\u00c4\u00d6\u00c9/0-9\u2013-])|$)')
 CH_LINE = re.compile(r'^(\d+(?: ?[a-z])?) kap\.(?: |$)')
-MARK_RE = re.compile(r'/\s*([A-Za-zÀ-ÿ ]*?)\s*(upphör att gälla U|träder i kraft I)\s*:\s*([^/\n]*?)\s*(?:/|(?=\n)|$)',
+MARK_RE = re.compile(r'/\s*([A-Za-z\u00c0-\u00ff ]*?)\s*(upph\u00f6r att g\u00e4lla U|tr\u00e4der i kraft I)\s*:\s*([^/\n]*?)\s*(?:/|(?=\n)|$)',
                      re.I)
-NOTE_RE = re.compile(r'(?:Lag|Förordning|Kungörelse|Tillkännagivande|Instruktion|Reglemente|Stadga|'
-                     r'Beslut|Riksdagsordning|Brådskande lag)\s*\((\d{4}:\d+)\)', re.I)
+NOTE_RE = re.compile(r'(?:Lag|F\u00f6rordning|Kung\u00f6relse|Tillk\u00e4nnagivande|Instruktion|Reglemente|Stadga|'
+                     r'Beslut|Riksdagsordning|Br\u00e5dskande lag)\s*\((\d{4}:\d+)\)', re.I)
 
 
 def sfs_key(s):
@@ -80,8 +80,8 @@ def read_sfsr(bet):
         return parse_sfsr(f.read().decode('utf-8', 'replace'))
 
 
-LABELS = ('Departement', 'Ikraft', 'Förarbeten', 'Omfattning', 'Rubrik', 'Upphävd', 'CELEX-nr', 'Övrigt',
-          'Tidsbegränsad', 'Ikraftträdande', 'Celexnr', 'Kommentar')
+LABELS = ('Departement', 'Ikraft', 'F\u00f6rarbeten', 'Omfattning', 'Rubrik', 'Upph\u00e4vd', 'CELEX-nr', '\u00d6vrigt',
+          'Tidsbegr\u00e4nsad', 'Ikrafttr\u00e4dande', 'Celexnr', 'Kommentar')
 
 
 def parse_sfsr(page):
@@ -96,7 +96,7 @@ def parse_sfsr(page):
     except StopIteration:
         start = next((i for i, x in enumerate(lines) if x.startswith('SFS-nummer')), 0) + 1
     try:
-        end = max(i for i, x in enumerate(lines) if x == 'Sökresultat')
+        end = max(i for i, x in enumerate(lines) if x == 'S\u00f6kresultat')
     except ValueError:
         end = len(lines)
     if end <= start:
@@ -107,7 +107,7 @@ def parse_sfsr(page):
     label = None
     title = []
     for x in body:
-        m = re.match(r'^Ändring, SFS (.+)$', x)
+        m = re.match(r'^\u00c4ndring, SFS (.+)$', x)
         if m:
             e = {'sfs': m.group(1).strip(), 'fields': {}}
             out['entries'].append(e)
@@ -130,7 +130,7 @@ def parse_sfsr(page):
 # ------------------------------------------------------------------------------------------------ HTML body
 
 def split_header(html):
-    """(header fields, body html). The header is the publisher's metadata block (SFS nr, Utfärdad, Ändrad, ...)."""
+    """(header fields, body html). The header is the publisher's metadata block (SFS nr, Utf\u00e4rdad, \u00c4ndrad, ...)."""
     m = re.search(r'Fulltext \(Regeringskansliet\)</a>\s*(?:<br\s*/?>\s*)*(?:<hr\s*/?>)?', html)
     if not m:
         m = re.search(r'<hr\s*/?>', html)
@@ -151,7 +151,7 @@ def parse_body(body):
     """Units in document order: [{'kind', 'key', 'chapter', 'para', 'lines'}].
 
     kind: ingress (text before the first provision), par (a paragraf, from <a class="paragraf" name="K1P2a">),
-    overgang (Övergångsbestämmelser, everything after its heading), bilaga, text (a document without paragraf
+    overgang (\u00d6verg\u00e5ngsbest\u00e4mmelser, everything after its heading), bilaga, text (a document without paragraf
     markup). Headings (h2/h3/h4) become '#'-lines at the top of the next unit. Every stycke and every <br> line is one
     line; a blank line in the text also separates stycken."""
     units = []
@@ -198,7 +198,7 @@ def parse_body(body):
                 new_unit('par', 'split', para=pm.group(1).replace(' ', ''))
                 cur['chapter'] = chapter
                 cur['split'] = True
-            elif not anchored and CH_LINE.match(p) and '§' not in p and len(p) < 200:
+            elif not anchored and CH_LINE.match(p) and '\u00a7' not in p and len(p) < 200:
                 chapter = CH_LINE.match(p).group(1).replace(' ', '')
                 pending.append(p)
                 continue

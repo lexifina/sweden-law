@@ -55,9 +55,9 @@ def raw_doc(dok_id):
         return json.loads(f.read().decode('utf-8'))['dokumentstatus']['dokument']
 
 
-MARK = re.compile(r'^\s*\d+(?: ?[a-z])? §\s*((?:/\s*(?:Upphör att gälla U|Träder i kraft I)\s*:[^/]*/\s*)+)',
+MARK = re.compile(r'^\s*\d+(?: ?[a-z])? \u00a7\s*((?:/\s*(?:Upph\u00f6r att g\u00e4lla U|Tr\u00e4der i kraft I)\s*:[^/]*/\s*)+)',
                   re.I)
-ONE = re.compile(r'(Upphör att gälla U|Träder i kraft I)\s*:\s*(\d{4}-\d{2}-\d{2})?', re.I)
+ONE = re.compile(r'(Upph\u00f6r att g\u00e4lla U|Tr\u00e4der i kraft I)\s*:\s*(\d{4}-\d{2}-\d{2})?', re.I)
 
 
 def html_text_on(html, day):
@@ -94,7 +94,7 @@ def html_text_on(html, day):
             text = htmlmod.unescape(re.sub(r'<[^>]+>', ' ', raw))
             # cut standalone Rubriken/Kapitlet markers out as pieces of their own
             pos = 0
-            for mk in re.finditer(r'/\s*(Rubriken|Kapitlet)\s+(upphör att gälla U|träder i kraft I)\s*:\s*'
+            for mk in re.finditer(r'/\s*(Rubriken|Kapitlet)\s+(upph\u00f6r att g\u00e4lla U|tr\u00e4der i kraft I)\s*:\s*'
                                   r'(\d{4}-\d{2}-\d{2})?[^/\n]*/?', text):
                 pieces.append([text[pos:mk.start()], si, role, []])
                 pieces.append([mk.group(0), si, 'marker', [], mk.group(1), mk.group(2), mk.group(3)])
@@ -110,8 +110,8 @@ def html_text_on(html, day):
         si = p[1]
         if scope == 'Rubriken':
             before = ''.join(q[0] for q in pieces[:k] if q[1] == si)
-            if segs[si]['par'] and re.fullmatch(r'\s*\d+(?: ?[a-z])? §\s*', before):
-                # "N § /Rubriken ...": the heading just before this paragraf
+            if segs[si]['par'] and re.fullmatch(r'\s*\d+(?: ?[a-z])? \u00a7\s*', before):
+                # "N \u00a7 /Rubriken ...": the heading just before this paragraf
                 for q in reversed(pieces[:k]):
                     if q[2] == 'head':
                         q[3].append(v)

@@ -1,7 +1,7 @@
 """Print Swedish statutes as this repository has them in force on a date.
 
     python tools/in_force_on.py 2026-10-28 1962/700                 # Brottsbalk (1962:700), whole text
-    python tools/in_force_on.py 2026-10-28 1962/700/kap-3/1.md      # 3 kap. 1 §
+    python tools/in_force_on.py 2026-10-28 1962/700/kap-3/1.md      # 3 kap. 1 \u00a7
     python tools/in_force_on.py 2026-10-28 1974/152                 # Regeringsform (1974:152)
     python tools/in_force_on.py 1995-01-01 1962                     # every statute of 1962 the record has then
 
