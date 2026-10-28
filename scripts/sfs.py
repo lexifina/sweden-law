@@ -18,7 +18,7 @@ WS_RE = re.compile(r'[ \t\r\n    ​­]+')
 BLANK_RE = re.compile(r'\n[ \t\r ]*\n')
 # a validity marker as the publisher prints it: /Upphör att gälla U:<when>/ or /Träder i kraft I:<when>/,
 # optionally led by Kapitlet, Rubriken, Lagen ... (the closing slash is sometimes missing)
-PAR_LINE = re.compile(r'^(\d+(?: ?[a-z])?) §(?: |$)')
+PAR_LINE = re.compile(r'^(\d+(?: ?[a-z])?) §(?: (?=[A-ZÅÄÖÉ/0-9–-])|$)')
 CH_LINE = re.compile(r'^(\d+(?: ?[a-z])?) kap\.(?: |$)')
 MARK_RE = re.compile(r'/\s*([A-Za-zÀ-ÿ ]*?)\s*(upphör att gälla U|träder i kraft I)\s*:\s*([^/\n]*?)\s*(?:/|(?=\n)|$)',
                      re.I)

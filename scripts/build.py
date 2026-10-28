@@ -121,16 +121,123 @@ def in_force(I, U, day):
     return True
 
 
-def render_state(units, day, validity):
+def _v(when):
+    d = sfs.when_date(when)
+    return d if d and valid_iso(d) else 'undated'
+
+
+def combine(a, b):
+    """Both validities must hold: the later start, the earlier end ('undated' start never comes)."""
+    (I1, U1), (I2, U2) = a, b
+    if 'undated' in (I1, I2):
+        I = 'undated'
+    else:
+        I = max([x for x in (I1, I2) if x] or [None]) if (I1 or I2) else None
+    ends = [x for x in (U1, U2) if x and x != 'undated']
+    U = min(ends) if ends else (U1 or U2)
+    return I, U
+
+
+def assign(units):
+    """Validity of every unit, and of single lines inside units, from the publisher's markers.
+
+    - a marker right after the paragraf label: the whole paragraf;
+    - a stycke that is only "/Rubriken träder i kraft I:<when>/" (or upphör ... U:): itself and the next heading line;
+      the same marker right after a paragraf label: the heading line(s) at the top of that paragraf;
+    - "/Kapitlet upphör att gälla U:<when>": itself and every unit of the chapter it closes (back to the chapter's
+      first unit); "/Kapitlet träder i kraft I:<when>/": itself and every unit of the next chapter.
+    Returns (unit validity list, line validity lists, number of markers not understood)."""
+    uval = []
+    lval = [[(None, None)] * len(u['lines']) for u in units]
+    stray = 0
+    for u in units:
+        I, U, _ = unit_validity(u)
+        uval.append((I, U))
+    for k, u in enumerate(units):
+        lines = u['lines']
+        first_text = next((i for i, l in enumerate(lines) if not l.startswith('#')), None)
+        for i, line in enumerate(lines):
+            ms = sfs.markers(line)
+            if not ms:
+                continue
+            if i == first_text:
+                head = re.sub(r'^\d+(?: ?[a-z])? §\s*', '', line)
+                lead = sfs.MARK_RE.match(head)
+                if lead and not lead.group(1).strip():
+                    ms = ms[len([m for m in sfs.MARK_RE.finditer(head[:_lead_end(head)])]):]
+                elif lead and lead.group(1).strip().lower() == 'rubriken' and head.startswith('/') and len(ms) == 1:
+                    v = (_v(ms[0][2]), None) if ms[0][1] == 'I' else (None, _v(ms[0][2]))
+                    heads = [j for j in range(i) if lines[j].startswith('#')]
+                    if heads and u['kind'] == 'par':
+                        lval[k][heads[-1]] = combine(lval[k][heads[-1]], v)
+                        continue
+            for scope, kind, when in ms:
+                v = (_v(when), None) if kind == 'I' else (None, _v(when))
+                sc = scope.lower()
+                whole = line.startswith('/') and len(ms) == 1
+                if sc == 'rubriken' and whole:
+                    lval[k][i] = combine(lval[k][i], v)
+                    target = None
+                    for j in range(i + 1, len(lines)):
+                        if lines[j].startswith('#'):
+                            target = (k, j)
+                            break
+                    if target is None:
+                        for kk in range(k + 1, len(units)):
+                            hs = [j for j, l in enumerate(units[kk]['lines']) if l.startswith('#')]
+                            if hs:
+                                target = (kk, hs[0])
+                            break
+                    if target is None:
+                        stray += 1
+                    else:
+                        lval[target[0]][target[1]] = combine(lval[target[0]][target[1]], v)
+                elif sc == 'kapitlet' and whole and kind == 'U' and u['chapter']:
+                    lval[k][i] = combine(lval[k][i], v)
+                    kk = k
+                    while kk >= 0 and units[kk]['chapter'] == u['chapter'] and units[kk]['kind'] == 'par':
+                        uval[kk] = combine(uval[kk], v)
+                        kk -= 1
+                elif sc == 'kapitlet' and whole and kind == 'I' and k + 1 < len(units) and units[k + 1]['chapter']:
+                    lval[k][i] = combine(lval[k][i], v)
+                    ch = units[k + 1]['chapter']
+                    kk = k + 1
+                    while kk < len(units) and units[kk]['chapter'] == ch and units[kk]['kind'] == 'par':
+                        uval[kk] = combine(uval[kk], v)
+                        kk += 1
+                else:
+                    stray += 1
+    return uval, lval, stray
+
+
+def _lead_end(head):
+    pos = 0
+    while True:
+        m = sfs.MARK_RE.match(head, pos)
+        if not m or m.group(1).strip():
+            return pos
+        pos = m.end()
+        while pos < len(head) and head[pos] == ' ':
+            pos += 1
+
+
+def render_state(units, day, validity, lvalidity=None, clashes=None):
     files = {}
     order = []
-    for u, (I, U) in zip(units, validity):
+    for k, (u, (I, U)) in enumerate(zip(units, validity)):
         if not in_force(I, U, day):
             continue
         p = sfs.unit_path(u)
-        if p in files:
-            return None, p
-        files[p] = '\n\n'.join(u['lines']) + '\n'
+        n = 1
+        while p in files:  # two texts under one number in force together (as printed): keep both
+            n += 1
+            p = sfs.unit_path(u)[:-3] + '~%d.md' % n
+        if n > 1 and clashes is not None:
+            clashes.append(sfs.unit_path(u))
+        lines = u['lines'] if lvalidity is None else [l for l, (a, b) in zip(u['lines'], lvalidity[k]) if in_force(a, b, day)]
+        if not lines:
+            continue
+        files[p] = '\n\n'.join(lines) + '\n'
         order.append(p)
     return (files, order), None
 
@@ -167,7 +274,7 @@ def build_law(doc_meta, today):
     up = d['uppgift']
     title = sfs.clean_line(d['titel'] or doc_meta['titel'])
     out.update(title=title, issued=(up.get('utfardad') or fields.get('Utfärdad') or '')[:10],
-               amended_through=(re.sub(r'^t\.o\.m\.\s*', '', up.get('andrattillochmed') or fields.get('Ändrad') or '')),
+               amended_through=(re.sub(r'^t\.o\.m\.\s*(?:SFS\s*)?', '', up.get('andrattillochmed') or fields.get('Ändrad') or '')),
                repealed=(up.get('upphavd') or fields.get('Upphävd') or '')[:10],
                repealed_by=re.sub(r'^SFS\s*', '', up.get('upphnr') or fields.get('Författningen har upphävts genom') or ''),
                department=d['organ'], other=up.get('text2') or fields.get('Övrig text') or '',
@@ -197,32 +304,32 @@ def build_law(doc_meta, today):
         else:
             law_I = v
 
-    validity, stray = [], 0
-    for u in units:
-        I, U, other = unit_validity(u)
-        validity.append((I, U))
-        stray += other
+    validity, lvalidity, stray = assign(units)
     if law_I is not None or law_U is not None:
         stray -= 1  # the law-level marker itself
-    has_markers = any(v != (None, None) for v in validity) or stray > 0
+    has_markers = (any(v != (None, None) for v in validity) or stray > 0
+                   or any(x != (None, None) for lv in lvalidity for x in lv))
     tom = sfs.sfs_key(out['amended_through'])
     repealed = out['repealed'] if valid_iso(out['repealed']) else ''
 
     # dated change days from paragraf markers
-    dated = sorted({x for v in validity for x in v if x not in (None, 'undated')})
+    dated = sorted({x for v in validity + [x for lv in lvalidity for x in lv] for x in v if x not in (None, 'undated')})
     cls = 'plain'
     if has_markers:
         cls = 'dated-versions'
         if stray > 0:
             cls = 'as-printed'
         else:
-            probe_days = [today] + dated + [day_before(x) for x in dated]
+            probe_days = sorted(set([today] + dated + [day_before(x) for x in dated]))
+            seen = set()
             for day in probe_days:
-                st, clash = render_state(units, day, validity)
-                if st is None:
-                    cls = 'as-printed'
-                    out['issues'].append([bet, 'two versions of %s in force on %s; kept as printed' % (clash, day)])
-                    break
+                cl = []
+                render_state(units, day, validity, lvalidity, cl)
+                for c in cl:
+                    if c not in seen:
+                        seen.add(c)
+                        out['issues'].append([bet, 'two texts of %s in force together (from %s); the second kept as %s'
+                                              % (c, day, c[:-3] + '~2.md')])
     out['class_'] = cls
     for u, (I, U) in zip(units, validity):
         if 'undated' in (I, U):
@@ -250,7 +357,7 @@ def build_law(doc_meta, today):
         past, future = [], []
     if law_I not in (None, 'undated') and law_I > today:
         # the whole statute takes effect later: future branch only
-        st, _ = render_state(units, law_I, validity) if cls == 'dated-versions' else ((as_printed(units)), None)
+        st, _ = render_state(units, law_I, validity, lvalidity) if cls == 'dated-versions' else ((as_printed(units)), None)
         files, order = st if cls == 'dated-versions' else st
         out['events'].append({'branch': 'future', 'day': law_I, 'kind': 'enacted', 'act': bet, 'files': files,
                               'order': order, 'date_source': 'marker', 'law': out['dir']})
@@ -265,7 +372,7 @@ def build_law(doc_meta, today):
     date_source = 'sfsr-amendment' if base_act else ('sfsr-in-force' if base_day else '')
     if not base_act and out['base_in_force'] and out['base_in_force'] > cutoff:
         if out['base_in_force'] > today and not end:
-            files, order = (render_state(units, out['base_in_force'], validity)[0] if cls == 'dated-versions'
+            files, order = (render_state(units, out['base_in_force'], validity, lvalidity)[0] if cls == 'dated-versions'
                             else as_printed(units))
             out['events'].append({'branch': 'future', 'day': out['base_in_force'], 'kind': 'enacted', 'act': bet,
                                   'files': files, 'order': order, 'date_source': 'sfsr-in-force', 'law': out['dir']})
@@ -288,7 +395,7 @@ def build_law(doc_meta, today):
                   any(valid_iso(x) and x <= cutoff for x in sfs.DATE_RE.findall(e['fields'].get('Ikraft', '')))
                   and sfs.sfs_key(e['sfs']) != sfs.sfs_key(out['repealed_by']) for e in entries)
     if cls == 'dated-versions':
-        (files, order), _ = render_state(units, cutoff, validity)
+        (files, order), _ = render_state(units, cutoff, validity, lvalidity)
     else:
         files, order = as_printed(units)
     out['base_day'], out['date_source'] = base_day, date_source
@@ -297,7 +404,7 @@ def build_law(doc_meta, today):
                           'date_source': date_source, 'law': out['dir']})
     prev = files
     for day in past + future:
-        (nf, norder), _ = render_state(units, day, validity)
+        (nf, norder), _ = render_state(units, day, validity, lvalidity)
         changes = {}
         for p in sorted(set(prev) | set(nf)):
             if prev.get(p) != nf.get(p):
