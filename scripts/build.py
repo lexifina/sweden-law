@@ -85,6 +85,8 @@ def act_name(num, sfsr_entries, fallback=None):
 
 def act_email(num):
     k = sfs.sfs_key(num)
+    if k is None or not sfs.re.fullmatch(r'\s*(?:SFS\s*)?\d{4}:\d+\s*', num):
+        return 'sfs-%s@sfs.invalid' % sfs.slug(num).replace('/', '-')  # old numbers such as 1878:bih. 56 s. 1
     return 'sfs-%d-%d@sfs.invalid' % k
 
 
@@ -211,7 +213,7 @@ def assign(units):
                         kk += 1
                 else:
                     stray += 1
-    # renumbering markers ("/Ny beteckning 4 a § U:<when>/") are not modelled: the statute is kept as printed
+    # renumbering markers ("/Ny beteckning 4 a \u00a7 U:<when>/") are not modelled: the statute is kept as printed
     stray += sum(len(re.findall(r'/\s*Ny beteckning', l)) for u in units for l in u['lines'])
     return uval, lval, stray
 
@@ -579,7 +581,7 @@ def commit_text(g, laws_by_dir, today):
         raise ValueError(kind)
     msg = subject + '\n\n' + body + '\n\n' + '\n'.join(tr) + '\n'
     msg = msg.replace('\r', '')
-    return name.replace('<', '').replace('>', ''), email, msg
+    return ' '.join(name.replace('<', '').replace('>', '').split()), email, msg
 
 
 KIND_ORDER = {'enacted': 0, 'consolidated': 0, 'amendment': 1, 'unexplained': 2, 'repeal': 3}
