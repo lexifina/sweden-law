@@ -24,6 +24,8 @@ import sfs
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 COMMITTER = 'Lexifina <sweden-law@lexifina.com>'
+NL = chr(10)
+NL2 = NL + NL
 PUBLISHER = ('Regeringskansliet SFST (via Riksdagen open data)', 'sfst@rkrattsbaser.invalid')
 
 
@@ -197,6 +199,7 @@ def assign(units):
                     kk = k
                     while kk >= 0 and units[kk]['chapter'] == u['chapter'] and units[kk]['kind'] == 'par':
                         uval[kk] = combine(uval[kk], v)
+                        lval[kk] = [combine(x, v) for x in lval[kk]]
                         kk -= 1
                 elif sc == 'kapitlet' and whole and kind == 'I' and k + 1 < len(units) and units[k + 1]['chapter']:
                     lval[k][i] = combine(lval[k][i], v)
@@ -204,9 +207,12 @@ def assign(units):
                     kk = k + 1
                     while kk < len(units) and units[kk]['chapter'] == ch and units[kk]['kind'] == 'par':
                         uval[kk] = combine(uval[kk], v)
+                        lval[kk] = [combine(x, v) for x in lval[kk]]
                         kk += 1
                 else:
                     stray += 1
+    # renumbering markers ("/Ny beteckning 4 a § U:<when>/") are not modelled: the statute is kept as printed
+    stray += sum(len(re.findall(r'/\s*Ny beteckning', l)) for u in units for l in u['lines'])
     return uval, lval, stray
 
 
@@ -222,10 +228,23 @@ def _lead_end(head):
 
 
 def render_state(units, day, validity, lvalidity=None, clashes=None):
+    """Files in force on day. Headings at the top of a paragraf that is not in force are not dropped with it (the
+    publisher marks new or ending headings with their own "/Rubriken ..." markers): they go to the next paragraf
+    shown, or the end of the last one."""
     files = {}
     order = []
+    carry = []
     for k, (u, (I, U)) in enumerate(zip(units, validity)):
+        lines = u['lines'] if lvalidity is None else [l for l, (a, b) in zip(u['lines'], lvalidity[k]) if in_force(a, b, day)]
         if not in_force(I, U, day):
+            for l in lines:
+                if not l.startswith('#'):
+                    break
+                carry.append(l)
+            continue
+        lines = carry + lines
+        carry = []
+        if not lines:
             continue
         p = sfs.unit_path(u)
         n = 1
@@ -234,11 +253,10 @@ def render_state(units, day, validity, lvalidity=None, clashes=None):
             p = sfs.unit_path(u)[:-3] + '~%d.md' % n
         if n > 1 and clashes is not None:
             clashes.append(sfs.unit_path(u))
-        lines = u['lines'] if lvalidity is None else [l for l, (a, b) in zip(u['lines'], lvalidity[k]) if in_force(a, b, day)]
-        if not lines:
-            continue
-        files[p] = '\n\n'.join(lines) + '\n'
+        files[p] = NL2.join(lines) + NL
         order.append(p)
+    if carry and order:
+        files[order[-1]] = files[order[-1]] + NL + NL2.join(carry) + NL
     return (files, order), None
 
 
@@ -349,10 +367,17 @@ def build_law(doc_meta, today):
         return best
 
     # the end of the record on main: repeal day or --today
+    if law_U not in (None, 'undated') and (not repealed or law_U < repealed):
+        # the whole statute ceases to apply on a printed day ("/Upph\u00f6r att g\u00e4lla U:<day> genom lag (X)/")
+        repealed = law_U
+        g = re.search(r'(\d{4}:\d+)', fm.group(3)) if fm else None
+        if g:
+            out['repealed_by'] = g.group(1)
+        out['repealed'] = law_U
     end = repealed if repealed and repealed <= today else None
     if cls == 'dated-versions':
         past = [x for x in dated if x <= today and (not end or x < end)]
-        future = [x for x in dated if x > today and not end]
+        future = [x for x in dated if x > today and not end and (not repealed or x < repealed)]
     else:
         past, future = [], []
     if law_I not in (None, 'undated') and law_I > today:

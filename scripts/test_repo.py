@@ -51,10 +51,10 @@ class Smoke:
             self.results.append((name, False, str(exc)))
             print('FAIL %s: %s' % (name, exc))
 
-    def amendments(self, n=3):
-        """(commit, in-force day, file) of the newest dated amendments on main that modify an existing file."""
+    def amendments(self, n=3, ref='main'):
+        """(commit, in-force day, file) of the newest dated amendments on ref that modify an existing file."""
         out = self.git('log', '--format=%x1e%H%x1f%(trailers:key=In-force,valueonly,separator=)%x1f%(trailers:key=Kind,'
-                              'valueonly,separator=)', '--diff-filter=M', '--name-only', 'main')
+                              'valueonly,separator=)', '--diff-filter=M', '--name-only', ref)
         found = []
         for chunk in out.split('\x1e')[1:]:
             head, _, rest = chunk.partition('\n')
@@ -66,19 +66,23 @@ class Smoke:
                 found.append((sha, day.strip(), files[0]))
             if len(found) >= n:
                 break
-        assert found, 'no dated amendment on main'
-        return found
+        if not found and ref == 'main':
+            return self.amendments(n, 'future')
+        assert found, 'no dated amendment on main or future'
+        return [(sha, day, path, ref) for sha, day, path in found] if ref == 'future' else found
 
     def blame(self):
-        sha, day, path = self.amendments(1)[0]
-        out = self.git('blame', '--line-porcelain', 'main', '--', path)
+        sha, day, path, *ref = self.amendments(1)[0]
+        out = self.git('blame', '--line-porcelain', ref[0] if ref else 'main', '--', path)
         authors = {l[7:] for l in out.splitlines() if l.startswith('author ')}
         assert any(ACT.search(a) for a in authors), 'no act among %s' % authors
         return '%s lines by %s' % (path, ', '.join(sorted(authors)))
 
     def on_date(self):
         done = []
-        for sha, day, path in self.amendments(3):
+        for sha, day, path, *ref in self.amendments(3):
+            if ref:
+                continue  # the on-date tool reads main; future amendments are checked by blame and follow
             prev = (subprocess.run([sys.executable, '-c', 'import datetime,sys;print(datetime.date.fromisoformat(sys.argv[1])'
                                     '-datetime.timedelta(days=1))', day], capture_output=True, text=True).stdout.strip())
             after, _ = self.tool(day, path)
@@ -103,8 +107,8 @@ class Smoke:
 
     def follow(self):
         checked = []
-        for sha, day, path in self.amendments(3):
-            out = self.git('log', '--follow', '--format=%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
+        for sha, day, path, *ref in self.amendments(3):
+            out = self.git('log', '--follow', '--format=%(trailers:key=In-force,valueonly,separator=)', ref[0] if ref else 'main', '--', path)
             days = [d.strip() for d in out.splitlines() if d.strip()]
             assert len(days) >= 2, '%s: %d commits' % (path, len(days))
             assert days == sorted(days, reverse=True), '%s: not in date order %s' % (path, days)

@@ -196,9 +196,11 @@ def main():
             raw_cache.clear()
             raw_cache[dok] = raw_doc(dok)
         raw = raw_cache[dok]
-        for sha, when, deleted in vs:
+        for j, (sha, when, deleted) in enumerate(vs):
             if deleted:
                 continue
+            if j + 1 < len(vs) and vs[j + 1][1] == when and not vs[j + 1][2]:
+                continue  # several acts on one day: only the day's last commit holds the whole day's text
             idx = blobs.get(sha, law + '/index.txt')
             if idx is None:
                 bad.append([law, sha[:7], 'no index.txt'])
