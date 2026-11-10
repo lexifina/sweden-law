@@ -17,7 +17,6 @@
 5.md
 5a.md
 5b.md
-5c.md
 6.md
 6a.md
 7.md
