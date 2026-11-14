@@ -1,228 +1,228 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="703" viewBox="0 0 880 703" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
-<rect x="0.5" y="0.5" width="879" height="702" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Svensk rätt som git-historik</text>
-<rect x="587.3" y="24.5" width="138" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="656.3" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">data t.o.m. 6 nov. 2026</text>
-<rect x="733.2" y="24.5" width="123" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="794.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">aktualitet: aktuell</text>
-<rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">11 153</text>
-<text x="40.0" y="106" font-size="12" fill="#59636e">författningar</text>
-<line x1="190.4" y1="61" x2="190.4" y2="118" stroke="#d1d9e0"/>
-<text x="206.4" y="87" font-size="20" font-weight="600" fill="#1f2328">15 543</text>
-<text x="206.4" y="106" font-size="12" fill="#59636e">ändringar, som commits</text>
-<line x1="356.8" y1="61" x2="356.8" y2="118" stroke="#d1d9e0"/>
-<text x="372.8" y="87" font-size="20" font-weight="600" fill="#1f2328">109 667</text>
-<text x="372.8" y="106" font-size="12" fill="#59636e">filer med bestämmelser</text>
-<line x1="523.2" y1="61" x2="523.2" y2="118" stroke="#d1d9e0"/>
-<text x="539.2" y="87" font-size="20" font-weight="600" fill="#1f2328">8 109</text>
-<text x="539.2" y="106" font-size="12" fill="#59636e">upphov: lagar och utgivare</text>
-<line x1="689.6" y1="61" x2="689.6" y2="118" stroke="#d1d9e0"/>
-<text x="705.6" y="87" font-size="20" font-weight="600" fill="#1f2328">1723–2026</text>
-<text x="705.6" y="106" font-size="12" fill="#59636e">års historik</text>
-<rect x="24.5" y="134.5" width="831" height="248" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="160.5" font-size="14" font-weight="600" fill="#1f2328">Ändringar per år för ikraftträdande</text>
-<line x1="80.5" y1="330.5" x2="839.5" y2="330.5" stroke="#d1d9e0" stroke-width="1"/>
-<text x="72.5" y="334.5" font-size="11" text-anchor="end" fill="#59636e">0</text>
-<line x1="80.5" y1="255.5" x2="839.5" y2="255.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">1 000</text>
-<line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
-<text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">2 000</text>
-<rect x="80.75" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1723: ändringar som trädde i kraft: 1</title></rect>
-<rect x="113.21" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1736: ändringar som trädde i kraft: 1</title></rect>
-<text x="149.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1750</text>
-<rect x="165.64" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1757: ändringar som trädde i kraft: 1</title></rect>
-<text x="274.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1800</text>
-<rect x="297.96" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1810: ändringar som trädde i kraft: 2</title></rect>
-<rect x="325.43" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1821: ändringar som trädde i kraft: 1</title></rect>
-<rect x="340.41" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1827: ändringar som trädde i kraft: 1</title></rect>
-<rect x="342.90" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1828: ändringar som trädde i kraft: 1</title></rect>
-<rect x="345.40" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1829: ändringar som trädde i kraft: 1</title></rect>
-<rect x="357.88" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1834: ändringar som trädde i kraft: 1</title></rect>
-<rect x="372.86" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1840: ändringar som trädde i kraft: 1</title></rect>
-<rect x="382.85" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1844: ändringar som trädde i kraft: 1</title></rect>
-<rect x="392.84" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1848: ändringar som trädde i kraft: 1</title></rect>
-<text x="398.8" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1850</text>
-<rect x="400.33" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1851: ändringar som trädde i kraft: 1</title></rect>
-<rect x="410.32" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1855: ändringar som trädde i kraft: 1</title></rect>
-<rect x="422.80" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1860: ändringar som trädde i kraft: 1</title></rect>
-<rect x="425.30" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1861: ändringar som trädde i kraft: 2</title></rect>
-<rect x="430.29" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1863: ändringar som trädde i kraft: 1</title></rect>
-<rect x="435.28" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1865: ändringar som trädde i kraft: 1</title></rect>
-<rect x="447.77" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1870: ändringar som trädde i kraft: 2</title></rect>
-<rect x="452.76" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1872: ändringar som trädde i kraft: 1</title></rect>
-<rect x="455.26" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1873: ändringar som trädde i kraft: 1</title></rect>
-<rect x="457.75" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1874: ändringar som trädde i kraft: 1</title></rect>
-<rect x="467.74" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1878: ändringar som trädde i kraft: 1</title></rect>
-<rect x="475.23" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1881: ändringar som trädde i kraft: 1</title></rect>
-<rect x="480.22" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1883: ändringar som trädde i kraft: 1</title></rect>
-<rect x="510.18" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1895: ändringar som trädde i kraft: 2</title></rect>
-<rect x="517.67" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1898: ändringar som trädde i kraft: 2</title></rect>
-<rect x="520.17" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1899: ändringar som trädde i kraft: 3</title></rect>
-<rect x="522.67" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1900: ändringar som trädde i kraft: 1</title></rect>
-<text x="523.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1900</text>
-<rect x="525.16" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1901: ändringar som trädde i kraft: 1</title></rect>
-<rect x="532.65" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1904: ändringar som trädde i kraft: 3</title></rect>
-<rect x="535.15" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1905: ändringar som trädde i kraft: 1</title></rect>
-<rect x="537.65" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1906: ändringar som trädde i kraft: 2</title></rect>
-<rect x="540.14" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1907: ändringar som trädde i kraft: 2</title></rect>
-<rect x="545.14" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1909: ändringar som trädde i kraft: 3</title></rect>
-<rect x="547.63" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1910: ändringar som trädde i kraft: 4</title></rect>
-<rect x="550.13" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1911: ändringar som trädde i kraft: 2</title></rect>
-<rect x="552.63" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1912: ändringar som trädde i kraft: 4</title></rect>
-<rect x="555.12" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1913: ändringar som trädde i kraft: 3</title></rect>
-<rect x="560.12" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1915: ändringar som trädde i kraft: 1</title></rect>
-<rect x="562.61" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1916: ändringar som trädde i kraft: 3</title></rect>
-<rect x="565.11" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1917: ändringar som trädde i kraft: 2</title></rect>
-<rect x="567.61" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1918: ändringar som trädde i kraft: 6</title></rect>
-<rect x="570.10" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1919: ändringar som trädde i kraft: 2</title></rect>
-<rect x="572.60" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1920: ändringar som trädde i kraft: 5</title></rect>
-<rect x="575.10" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1921: ändringar som trädde i kraft: 8</title></rect>
-<rect x="577.60" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1922: ändringar som trädde i kraft: 2</title></rect>
-<rect x="580.09" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1923: ändringar som trädde i kraft: 1</title></rect>
-<rect x="582.59" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1924: ändringar som trädde i kraft: 4</title></rect>
-<rect x="585.09" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1925: ändringar som trädde i kraft: 2</title></rect>
-<rect x="587.58" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1926: ändringar som trädde i kraft: 8</title></rect>
-<rect x="590.08" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1927: ändringar som trädde i kraft: 6</title></rect>
-<rect x="592.58" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1928: ändringar som trädde i kraft: 6</title></rect>
-<rect x="595.07" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1929: ändringar som trädde i kraft: 6</title></rect>
-<rect x="597.57" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1930: ändringar som trädde i kraft: 4</title></rect>
-<rect x="600.07" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1931: ändringar som trädde i kraft: 3</title></rect>
-<rect x="602.56" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1932: ändringar som trädde i kraft: 4</title></rect>
-<rect x="605.06" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1933: ändringar som trädde i kraft: 11</title></rect>
-<rect x="607.56" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1934: ändringar som trädde i kraft: 6</title></rect>
-<rect x="610.05" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1935: ändringar som trädde i kraft: 13</title></rect>
-<rect x="612.55" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1936: ändringar som trädde i kraft: 4</title></rect>
-<rect x="615.05" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1937: ändringar som trädde i kraft: 2</title></rect>
-<rect x="617.54" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1938: ändringar som trädde i kraft: 5</title></rect>
-<rect x="620.04" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1939: ändringar som trädde i kraft: 5</title></rect>
-<rect x="622.54" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1940: ändringar som trädde i kraft: 11</title></rect>
-<rect x="625.03" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1941: ändringar som trädde i kraft: 11</title></rect>
-<rect x="627.53" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1942: ändringar som trädde i kraft: 14</title></rect>
-<rect x="630.03" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1943: ändringar som trädde i kraft: 3</title></rect>
-<rect x="632.52" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1944: ändringar som trädde i kraft: 6</title></rect>
-<rect x="635.02" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1945: ändringar som trädde i kraft: 3</title></rect>
-<rect x="637.52" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1946: ändringar som trädde i kraft: 7</title></rect>
-<rect x="640.01" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1947: ändringar som trädde i kraft: 9</title></rect>
-<rect x="642.51" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1948: ändringar som trädde i kraft: 13</title></rect>
-<rect x="645.01" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1949: ändringar som trädde i kraft: 9</title></rect>
-<rect x="647.50" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1950: ändringar som trädde i kraft: 15</title></rect>
-<text x="648.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1950</text>
-<rect x="650.00" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1951: ändringar som trädde i kraft: 14</title></rect>
-<rect x="652.50" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1952: ändringar som trädde i kraft: 6</title></rect>
-<rect x="654.99" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1953: ändringar som trädde i kraft: 7</title></rect>
-<rect x="657.49" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1954: ändringar som trädde i kraft: 14</title></rect>
-<rect x="659.99" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1955: ändringar som trädde i kraft: 16</title></rect>
-<rect x="662.48" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1956: ändringar som trädde i kraft: 11</title></rect>
-<rect x="664.98" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1957: ändringar som trädde i kraft: 11</title></rect>
-<rect x="667.48" y="328.8" width="2.00" height="1.7" rx="0.8" fill="#1f883d"><title>1958: ändringar som trädde i kraft: 23</title></rect>
-<rect x="669.97" y="328.9" width="2.00" height="1.6" rx="0.8" fill="#1f883d"><title>1959: ändringar som trädde i kraft: 22</title></rect>
-<rect x="672.47" y="328.1" width="2.00" height="2.4" rx="0.8" fill="#1f883d"><title>1960: ändringar som trädde i kraft: 32</title></rect>
-<rect x="674.97" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1961: ändringar som trädde i kraft: 16</title></rect>
-<rect x="677.46" y="328.3" width="2.00" height="2.2" rx="0.8" fill="#1f883d"><title>1962: ändringar som trädde i kraft: 29</title></rect>
-<rect x="679.96" y="329.0" width="2.00" height="1.5" rx="0.8" fill="#1f883d"><title>1963: ändringar som trädde i kraft: 16</title></rect>
-<rect x="682.46" y="328.2" width="2.00" height="2.3" rx="0.8" fill="#1f883d"><title>1964: ändringar som trädde i kraft: 31</title></rect>
-<rect x="684.95" y="328.4" width="2.00" height="2.1" rx="0.8" fill="#1f883d"><title>1965: ändringar som trädde i kraft: 28</title></rect>
-<rect x="687.45" y="328.9" width="2.00" height="1.6" rx="0.8" fill="#1f883d"><title>1966: ändringar som trädde i kraft: 22</title></rect>
-<rect x="689.95" y="327.8" width="2.00" height="2.7" rx="0.8" fill="#1f883d"><title>1967: ändringar som trädde i kraft: 36</title></rect>
-<rect x="692.44" y="327.9" width="2.00" height="2.5" rx="0.8" fill="#1f883d"><title>1968: ändringar som trädde i kraft: 34</title></rect>
-<rect x="694.94" y="328.9" width="2.00" height="1.6" rx="0.8" fill="#1f883d"><title>1969: ändringar som trädde i kraft: 21</title></rect>
-<rect x="697.44" y="328.2" width="2.00" height="2.3" rx="0.8" fill="#1f883d"><title>1970: ändringar som trädde i kraft: 31</title></rect>
-<rect x="699.93" y="328.6" width="2.00" height="1.9" rx="0.8" fill="#1f883d"><title>1971: ändringar som trädde i kraft: 26</title></rect>
-<rect x="702.43" y="328.6" width="2.00" height="1.9" rx="0.8" fill="#1f883d"><title>1972: ändringar som trädde i kraft: 25</title></rect>
-<rect x="704.93" y="327.6" width="2.00" height="2.9" rx="0.8" fill="#1f883d"><title>1973: ändringar som trädde i kraft: 39</title></rect>
-<rect x="707.42" y="327.9" width="2.00" height="2.6" rx="0.8" fill="#1f883d"><title>1974: ändringar som trädde i kraft: 35</title></rect>
-<rect x="709.92" y="326.8" width="2.00" height="3.7" rx="0.8" fill="#1f883d"><title>1975: ändringar som trädde i kraft: 49</title></rect>
-<rect x="712.42" y="327.9" width="2.00" height="2.6" rx="0.8" fill="#1f883d"><title>1976: ändringar som trädde i kraft: 35</title></rect>
-<rect x="714.91" y="327.5" width="2.00" height="3.0" rx="0.8" fill="#1f883d"><title>1977: ändringar som trädde i kraft: 40</title></rect>
-<rect x="717.41" y="327.2" width="2.00" height="3.3" rx="0.8" fill="#1f883d"><title>1978: ändringar som trädde i kraft: 44</title></rect>
-<rect x="719.91" y="327.0" width="2.00" height="3.5" rx="0.8" fill="#1f883d"><title>1979: ändringar som trädde i kraft: 47</title></rect>
-<rect x="722.40" y="328.0" width="2.00" height="2.5" rx="0.8" fill="#1f883d"><title>1980: ändringar som trädde i kraft: 33</title></rect>
-<rect x="724.90" y="327.1" width="2.00" height="3.5" rx="0.8" fill="#1f883d"><title>1981: ändringar som trädde i kraft: 46</title></rect>
-<rect x="727.40" y="326.6" width="2.00" height="3.9" rx="0.8" fill="#1f883d"><title>1982: ändringar som trädde i kraft: 52</title></rect>
-<rect x="729.89" y="325.9" width="2.00" height="4.7" rx="0.8" fill="#1f883d"><title>1983: ändringar som trädde i kraft: 62</title></rect>
-<rect x="732.39" y="323.3" width="2.00" height="7.2" rx="0.8" fill="#1f883d"><title>1984: ändringar som trädde i kraft: 96</title></rect>
-<rect x="734.89" y="321.8" width="2.00" height="8.7" rx="0.8" fill="#1f883d"><title>1985: ändringar som trädde i kraft: 116</title></rect>
-<rect x="737.38" y="319.8" width="2.00" height="10.7" rx="0.8" fill="#1f883d"><title>1986: ändringar som trädde i kraft: 143</title></rect>
-<rect x="739.88" y="296.0" width="2.00" height="34.5" rx="0.8" fill="#1f883d"><title>1987: ändringar som trädde i kraft: 460</title></rect>
-<rect x="742.38" y="293.0" width="2.00" height="37.5" rx="0.8" fill="#1f883d"><title>1988: ändringar som trädde i kraft: 500</title></rect>
-<rect x="744.87" y="299.6" width="2.00" height="30.9" rx="0.8" fill="#1f883d"><title>1989: ändringar som trädde i kraft: 412</title></rect>
-<rect x="747.37" y="309.0" width="2.00" height="21.5" rx="0.8" fill="#1f883d"><title>1990: ändringar som trädde i kraft: 287</title></rect>
-<rect x="749.87" y="295.9" width="2.00" height="34.6" rx="0.8" fill="#1f883d"><title>1991: ändringar som trädde i kraft: 462</title></rect>
-<rect x="752.36" y="294.9" width="2.00" height="35.6" rx="0.8" fill="#1f883d"><title>1992: ändringar som trädde i kraft: 475</title></rect>
-<rect x="754.86" y="297.5" width="2.00" height="33.0" rx="0.8" fill="#1f883d"><title>1993: ändringar som trädde i kraft: 440</title></rect>
-<rect x="757.36" y="290.5" width="2.00" height="40.0" rx="0.8" fill="#1f883d"><title>1994: ändringar som trädde i kraft: 533</title></rect>
-<rect x="759.85" y="299.8" width="2.00" height="30.7" rx="0.8" fill="#1f883d"><title>1995: ändringar som trädde i kraft: 409</title></rect>
-<rect x="762.35" y="300.4" width="2.00" height="30.1" rx="0.8" fill="#1f883d"><title>1996: ändringar som trädde i kraft: 401</title></rect>
-<rect x="764.85" y="309.9" width="2.00" height="20.6" rx="0.8" fill="#1f883d"><title>1997: ändringar som trädde i kraft: 274</title></rect>
-<rect x="767.35" y="306.3" width="2.00" height="24.2" rx="0.8" fill="#1f883d"><title>1998: ändringar som trädde i kraft: 323</title></rect>
-<rect x="769.84" y="305.9" width="2.00" height="24.6" rx="0.8" fill="#1f883d"><title>1999: ändringar som trädde i kraft: 328</title></rect>
-<rect x="772.34" y="309.9" width="2.00" height="20.6" rx="0.8" fill="#1f883d"><title>2000: ändringar som trädde i kraft: 275</title></rect>
-<text x="773.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
-<rect x="774.84" y="307.7" width="2.00" height="22.8" rx="0.8" fill="#1f883d"><title>2001: ändringar som trädde i kraft: 304</title></rect>
-<rect x="777.33" y="313.4" width="2.00" height="17.1" rx="0.8" fill="#1f883d"><title>2002: ändringar som trädde i kraft: 228</title></rect>
-<rect x="779.83" y="316.6" width="2.00" height="13.9" rx="0.8" fill="#1f883d"><title>2003: ändringar som trädde i kraft: 186</title></rect>
-<rect x="782.33" y="313.6" width="2.00" height="16.9" rx="0.8" fill="#1f883d"><title>2004: ändringar som trädde i kraft: 225</title></rect>
-<rect x="784.82" y="313.3" width="2.00" height="17.2" rx="0.8" fill="#1f883d"><title>2005: ändringar som trädde i kraft: 229</title></rect>
-<rect x="787.32" y="309.3" width="2.00" height="21.2" rx="0.8" fill="#1f883d"><title>2006: ändringar som trädde i kraft: 283</title></rect>
-<rect x="789.82" y="308.0" width="2.00" height="22.5" rx="0.8" fill="#1f883d"><title>2007: ändringar som trädde i kraft: 300</title></rect>
-<rect x="792.31" y="293.0" width="2.00" height="37.5" rx="0.8" fill="#1f883d"><title>2008: ändringar som trädde i kraft: 500</title></rect>
-<rect x="794.81" y="309.0" width="2.00" height="21.5" rx="0.8" fill="#1f883d"><title>2009: ändringar som trädde i kraft: 287</title></rect>
-<rect x="797.31" y="308.8" width="2.00" height="21.7" rx="0.8" fill="#1f883d"><title>2010: ändringar som trädde i kraft: 289</title></rect>
-<rect x="799.80" y="301.1" width="2.00" height="29.4" rx="0.8" fill="#1f883d"><title>2011: ändringar som trädde i kraft: 392</title></rect>
-<rect x="802.30" y="313.8" width="2.00" height="16.7" rx="0.8" fill="#1f883d"><title>2012: ändringar som trädde i kraft: 223</title></rect>
-<rect x="804.80" y="318.4" width="2.00" height="12.1" rx="0.8" fill="#1f883d"><title>2013: ändringar som trädde i kraft: 161</title></rect>
-<rect x="807.29" y="315.2" width="2.00" height="15.3" rx="0.8" fill="#1f883d"><title>2014: ändringar som trädde i kraft: 204</title></rect>
-<rect x="809.79" y="314.0" width="2.00" height="16.5" rx="0.8" fill="#1f883d"><title>2015: ändringar som trädde i kraft: 220</title></rect>
-<rect x="812.29" y="312.2" width="2.00" height="18.3" rx="0.8" fill="#1f883d"><title>2016: ändringar som trädde i kraft: 244</title></rect>
-<rect x="814.78" y="315.1" width="2.00" height="15.4" rx="0.8" fill="#1f883d"><title>2017: ändringar som trädde i kraft: 205</title></rect>
-<rect x="817.28" y="300.6" width="2.00" height="29.9" rx="0.8" fill="#1f883d"><title>2018: ändringar som trädde i kraft: 398</title></rect>
-<rect x="819.78" y="310.2" width="2.00" height="20.2" rx="0.8" fill="#1f883d"><title>2019: ändringar som trädde i kraft: 270</title></rect>
-<rect x="822.27" y="310.4" width="2.00" height="20.1" rx="0.8" fill="#1f883d"><title>2020: ändringar som trädde i kraft: 268</title></rect>
-<rect x="824.77" y="312.2" width="2.00" height="18.3" rx="0.8" fill="#1f883d"><title>2021: ändringar som trädde i kraft: 244</title></rect>
-<rect x="827.27" y="298.1" width="2.00" height="32.4" rx="0.8" fill="#1f883d"><title>2022: ändringar som trädde i kraft: 432</title></rect>
-<rect x="829.76" y="308.2" width="2.00" height="22.3" rx="0.8" fill="#1f883d"><title>2023: ändringar som trädde i kraft: 297</title></rect>
-<rect x="832.26" y="304.2" width="2.00" height="26.2" rx="0.8" fill="#1f883d"><title>2024: ändringar som trädde i kraft: 350</title></rect>
-<rect x="834.76" y="293.0" width="2.00" height="37.5" rx="0.8" fill="#1f883d"><title>2025: ändringar som trädde i kraft: 500</title></rect>
-<rect x="837.25" y="245.3" width="2.00" height="85.2" rx="0.8" fill="#1f883d"><title>2026: ändringar som trädde i kraft: 1 136</title></rect>
-<text x="838.3" y="239.3" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">1 136 år 2026</text>
-<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Ändringar daterade efter dag för ikraftträdande: 15 543.</text>
-<rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Fullständighet jämfört med officiella källor, 12 nov. 2026</text>
-<text x="40.5" y="446.5" font-size="13" fill="#1f2328">Grundlag</text>
-<text x="40.5" y="462.5" font-size="11.5" fill="#59636e">i repositoriet</text>
-<g><title>Grundlag: 100 %</title><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="443.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="482.5" font-size="13" fill="#1f2328">Centrala balkar och lagar</text>
-<text x="40.5" y="498.5" font-size="11.5" fill="#59636e">andel av de centrala lagarna</text>
-<g><title>Centrala balkar och lagar: 100 %</title><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="479.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="518.5" font-size="13" fill="#1f2328">Nationella författningar</text>
-<text x="40.5" y="534.5" font-size="11.5" fill="#59636e">andel av officiellt totalantal</text>
-<g><title>Nationella författningar: 96 %</title><rect x="276.5" y="515.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="515.5" width="87.8" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="522.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">96 %</text>
-<text x="456.0" y="446.5" font-size="13" fill="#1f2328">Regionala författningar</text>
-<text x="456.0" y="462.5" font-size="11.5" fill="#59636e">lagstiftande enheter som ingår</text>
-<g><title>Regionala författningar: 0 %</title><rect x="692.0" y="443.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
-<text x="839.5" y="450.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
-<text x="456.0" y="482.5" font-size="13" fill="#1f2328">Rättspraxis</text>
-<text x="456.0" y="498.5" font-size="11.5" fill="#59636e">högsta domstolar som ingår</text>
-<g><title>Rättspraxis: 0 %</title><rect x="692.0" y="479.5" width="91.5" height="8" rx="4" fill="#eff2f5"/></g>
-<text x="839.5" y="486.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">0 %</text>
-<rect x="24.5" y="562.5" width="831" height="116" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
-<text x="40.5" y="588.5" font-size="14" font-weight="600" fill="#1f2328">Riktighet i det som ingår</text>
-<text x="40.5" y="612.5" font-size="13" fill="#1f2328">Ändringar med ikraftträdandedag</text>
-<text x="40.5" y="628.5" font-size="11.5" fill="#59636e">andel av ändringarna</text>
-<g><title>Ändringar med ikraftträdandedag: 100 %</title><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="609.5" width="91.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">100 %</text>
-<text x="40.5" y="648.5" font-size="13" fill="#1f2328">Ändringar med officiell källa</text>
-<text x="40.5" y="664.5" font-size="11.5" fill="#59636e">Source-rad eller länk i commit</text>
-<g><title>Ändringar med officiell källa: 72 %</title><rect x="276.5" y="645.5" width="91.5" height="8" rx="4" fill="#eff2f5"/><rect x="276.5" y="645.5" width="65.5" height="8" rx="4" fill="#1f883d"/></g>
-<text x="424.0" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">72 %</text>
-<text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpusar för landet i global-law</text>
-<text x="456.0" y="628.5" font-size="11.5" fill="#59636e">nationella författningar: 1</text>
-<text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="456.0" y="648.5" font-size="13" fill="#1f2328">Kontrollerad mot officiell källa</text>
-<text x="456.0" y="664.5" font-size="11.5" fill="#59636e">datumet repositoriet anger</text>
-<text x="839.5" y="652.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">6 nov. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="803" viewBox="0 0 880 803" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>@font-face{font-family:'Manrope';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'JetBrains Mono';font-weight:100 900;src:url(data:font/woff2;base64,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) format('woff2')}</style>
+<defs><linearGradient id="yg-light" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1a7f4b"/><stop offset="1" stop-color="#1a7f4b" stop-opacity="0.35"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="879" height="802" rx="8" fill="#ffffff" stroke="#dfe5e1"/>
+<rect x="713.0" y="27" width="139.0" height="24" rx="12" fill="#f4f6f5"/>
+<text x="782.5" y="43" text-anchor="middle" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#5f6e66">data t.o.m. 6 nov. 2026</text>
+<text x="28" y="44" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#14201a">Svensk rätt som git-historik</text>
+<rect x="28" y="70" width="824" height="72" rx="8" fill="#f4f6f5"/>
+<text x="44.0" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">11 153</text>
+<text x="44.0" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">författningar</text>
+<line x1="154.6" y1="86" x2="154.6" y2="126" stroke="#dfe5e1"/>
+<text x="170.6" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">15 543</text>
+<text x="170.6" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">ändringar, som commits</text>
+<line x1="324.8" y1="86" x2="324.8" y2="126" stroke="#dfe5e1"/>
+<text x="340.8" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">109 667</text>
+<text x="340.8" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">filer med bestämmelser</text>
+<line x1="496.7" y1="86" x2="496.7" y2="126" stroke="#dfe5e1"/>
+<text x="512.7" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">8 109</text>
+<text x="512.7" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">upphov: lagar och utgivare</text>
+<line x1="686.9" y1="86" x2="686.9" y2="126" stroke="#dfe5e1"/>
+<text x="702.9" y="105" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="21" font-weight="600" fill="#14201a">1723–2026</text>
+<text x="702.9" y="126" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#5f6e66">års historik</text>
+<rect x="28" y="160" width="824" height="236" rx="8" fill="#f4f6f5"/>
+<text x="46" y="188" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Ändringar per år för ikraftträdande</text>
+<line x1="90" y1="346.0" x2="834" y2="346.0" stroke="#e8ede9"/>
+<text x="82" y="350.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">0</text>
+<line x1="90" y1="277.0" x2="834" y2="277.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="281.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1 000</text>
+<line x1="90" y1="208.0" x2="834" y2="208.0" stroke="#e8ede9" stroke-dasharray="3 3"/>
+<text x="82" y="212.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2 000</text>
+<rect x="90.24" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1723: ändringar som trädde i kraft: 1</title></rect>
+<rect x="122.06" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1736: ändringar som trädde i kraft: 1</title></rect>
+<text x="157.3" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1750</text>
+<rect x="173.46" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1757: ändringar som trädde i kraft: 1</title></rect>
+<text x="279.7" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1800</text>
+<rect x="303.17" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1810: ändringar som trädde i kraft: 2</title></rect>
+<rect x="330.09" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1821: ändringar som trädde i kraft: 1</title></rect>
+<rect x="344.77" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1827: ändringar som trädde i kraft: 1</title></rect>
+<rect x="347.22" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1828: ändringar som trädde i kraft: 1</title></rect>
+<rect x="349.67" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1829: ändringar som trädde i kraft: 1</title></rect>
+<rect x="361.90" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1834: ändringar som trädde i kraft: 1</title></rect>
+<rect x="376.59" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1840: ändringar som trädde i kraft: 1</title></rect>
+<rect x="386.38" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1844: ändringar som trädde i kraft: 1</title></rect>
+<rect x="396.17" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1848: ändringar som trädde i kraft: 1</title></rect>
+<text x="402.0" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1850</text>
+<rect x="403.51" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1851: ändringar som trädde i kraft: 1</title></rect>
+<rect x="413.30" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1855: ändringar som trädde i kraft: 1</title></rect>
+<rect x="425.53" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1860: ändringar som trädde i kraft: 1</title></rect>
+<rect x="427.98" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1861: ändringar som trädde i kraft: 2</title></rect>
+<rect x="432.88" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1863: ändringar som trädde i kraft: 1</title></rect>
+<rect x="437.77" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1865: ändringar som trädde i kraft: 1</title></rect>
+<rect x="450.01" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1870: ändringar som trädde i kraft: 2</title></rect>
+<rect x="454.90" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1872: ändringar som trädde i kraft: 1</title></rect>
+<rect x="457.35" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1873: ändringar som trädde i kraft: 1</title></rect>
+<rect x="459.80" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1874: ändringar som trädde i kraft: 1</title></rect>
+<rect x="469.59" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1878: ändringar som trädde i kraft: 1</title></rect>
+<rect x="476.93" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1881: ändringar som trädde i kraft: 1</title></rect>
+<rect x="481.82" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1883: ändringar som trädde i kraft: 1</title></rect>
+<rect x="511.19" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1895: ändringar som trädde i kraft: 2</title></rect>
+<rect x="518.53" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1898: ändringar som trädde i kraft: 2</title></rect>
+<rect x="520.98" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1899: ändringar som trädde i kraft: 3</title></rect>
+<rect x="523.43" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1900: ändringar som trädde i kraft: 1</title></rect>
+<text x="524.4" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1900</text>
+<rect x="525.88" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1901: ändringar som trädde i kraft: 1</title></rect>
+<rect x="533.22" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1904: ändringar som trädde i kraft: 3</title></rect>
+<rect x="535.67" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1905: ändringar som trädde i kraft: 1</title></rect>
+<rect x="538.11" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1906: ändringar som trädde i kraft: 2</title></rect>
+<rect x="540.56" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1907: ändringar som trädde i kraft: 2</title></rect>
+<rect x="545.46" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1909: ändringar som trädde i kraft: 3</title></rect>
+<rect x="547.90" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1910: ändringar som trädde i kraft: 4</title></rect>
+<rect x="550.35" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1911: ändringar som trädde i kraft: 2</title></rect>
+<rect x="552.80" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1912: ändringar som trädde i kraft: 4</title></rect>
+<rect x="555.24" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1913: ändringar som trädde i kraft: 3</title></rect>
+<rect x="560.14" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1915: ändringar som trädde i kraft: 1</title></rect>
+<rect x="562.59" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1916: ändringar som trädde i kraft: 3</title></rect>
+<rect x="565.03" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1917: ändringar som trädde i kraft: 2</title></rect>
+<rect x="567.48" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1918: ändringar som trädde i kraft: 6</title></rect>
+<rect x="569.93" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1919: ändringar som trädde i kraft: 2</title></rect>
+<rect x="572.38" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1920: ändringar som trädde i kraft: 5</title></rect>
+<rect x="574.82" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1921: ändringar som trädde i kraft: 8</title></rect>
+<rect x="577.27" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1922: ändringar som trädde i kraft: 2</title></rect>
+<rect x="579.72" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1923: ändringar som trädde i kraft: 1</title></rect>
+<rect x="582.17" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1924: ändringar som trädde i kraft: 4</title></rect>
+<rect x="584.61" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1925: ändringar som trädde i kraft: 2</title></rect>
+<rect x="587.06" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1926: ändringar som trädde i kraft: 8</title></rect>
+<rect x="589.51" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1927: ändringar som trädde i kraft: 6</title></rect>
+<rect x="591.96" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1928: ändringar som trädde i kraft: 6</title></rect>
+<rect x="594.40" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1929: ändringar som trädde i kraft: 6</title></rect>
+<rect x="596.85" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1930: ändringar som trädde i kraft: 4</title></rect>
+<rect x="599.30" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1931: ändringar som trädde i kraft: 3</title></rect>
+<rect x="601.74" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1932: ändringar som trädde i kraft: 4</title></rect>
+<rect x="604.19" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1933: ändringar som trädde i kraft: 11</title></rect>
+<rect x="606.64" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1934: ändringar som trädde i kraft: 6</title></rect>
+<rect x="609.09" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1935: ändringar som trädde i kraft: 13</title></rect>
+<rect x="611.53" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1936: ändringar som trädde i kraft: 4</title></rect>
+<rect x="613.98" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1937: ändringar som trädde i kraft: 2</title></rect>
+<rect x="616.43" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1938: ändringar som trädde i kraft: 5</title></rect>
+<rect x="618.88" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1939: ändringar som trädde i kraft: 5</title></rect>
+<rect x="621.32" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1940: ändringar som trädde i kraft: 11</title></rect>
+<rect x="623.77" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1941: ändringar som trädde i kraft: 11</title></rect>
+<rect x="626.22" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1942: ändringar som trädde i kraft: 14</title></rect>
+<rect x="628.67" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1943: ändringar som trädde i kraft: 3</title></rect>
+<rect x="631.11" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1944: ändringar som trädde i kraft: 6</title></rect>
+<rect x="633.56" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1945: ändringar som trädde i kraft: 3</title></rect>
+<rect x="636.01" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1946: ändringar som trädde i kraft: 7</title></rect>
+<rect x="638.46" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1947: ändringar som trädde i kraft: 9</title></rect>
+<rect x="640.90" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1948: ändringar som trädde i kraft: 13</title></rect>
+<rect x="643.35" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1949: ändringar som trädde i kraft: 9</title></rect>
+<rect x="645.80" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1950: ändringar som trädde i kraft: 15</title></rect>
+<text x="646.8" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">1950</text>
+<rect x="648.24" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1951: ändringar som trädde i kraft: 14</title></rect>
+<rect x="650.69" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1952: ändringar som trädde i kraft: 6</title></rect>
+<rect x="653.14" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1953: ändringar som trädde i kraft: 7</title></rect>
+<rect x="655.59" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1954: ändringar som trädde i kraft: 14</title></rect>
+<rect x="658.03" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1955: ändringar som trädde i kraft: 16</title></rect>
+<rect x="660.48" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1956: ändringar som trädde i kraft: 11</title></rect>
+<rect x="662.93" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1957: ändringar som trädde i kraft: 11</title></rect>
+<rect x="665.38" y="344.4" width="1.96" height="1.6" rx="0.8" fill="url(#yg-light)"><title>1958: ändringar som trädde i kraft: 23</title></rect>
+<rect x="667.82" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1959: ändringar som trädde i kraft: 22</title></rect>
+<rect x="670.27" y="343.8" width="1.96" height="2.2" rx="0.8" fill="url(#yg-light)"><title>1960: ändringar som trädde i kraft: 32</title></rect>
+<rect x="672.72" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1961: ändringar som trädde i kraft: 16</title></rect>
+<rect x="675.17" y="344.0" width="1.96" height="2.0" rx="0.8" fill="url(#yg-light)"><title>1962: ändringar som trädde i kraft: 29</title></rect>
+<rect x="677.61" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1963: ändringar som trädde i kraft: 16</title></rect>
+<rect x="680.06" y="343.9" width="1.96" height="2.1" rx="0.8" fill="url(#yg-light)"><title>1964: ändringar som trädde i kraft: 31</title></rect>
+<rect x="682.51" y="344.1" width="1.96" height="1.9" rx="0.8" fill="url(#yg-light)"><title>1965: ändringar som trädde i kraft: 28</title></rect>
+<rect x="684.96" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1966: ändringar som trädde i kraft: 22</title></rect>
+<rect x="687.40" y="343.5" width="1.96" height="2.5" rx="0.8" fill="url(#yg-light)"><title>1967: ändringar som trädde i kraft: 36</title></rect>
+<rect x="689.85" y="343.7" width="1.96" height="2.3" rx="0.8" fill="url(#yg-light)"><title>1968: ändringar som trädde i kraft: 34</title></rect>
+<rect x="692.30" y="344.5" width="1.96" height="1.5" rx="0.8" fill="url(#yg-light)"><title>1969: ändringar som trädde i kraft: 21</title></rect>
+<rect x="694.74" y="343.9" width="1.96" height="2.1" rx="0.8" fill="url(#yg-light)"><title>1970: ändringar som trädde i kraft: 31</title></rect>
+<rect x="697.19" y="344.2" width="1.96" height="1.8" rx="0.8" fill="url(#yg-light)"><title>1971: ändringar som trädde i kraft: 26</title></rect>
+<rect x="699.64" y="344.3" width="1.96" height="1.7" rx="0.8" fill="url(#yg-light)"><title>1972: ändringar som trädde i kraft: 25</title></rect>
+<rect x="702.09" y="343.3" width="1.96" height="2.7" rx="0.8" fill="url(#yg-light)"><title>1973: ändringar som trädde i kraft: 39</title></rect>
+<rect x="704.53" y="343.6" width="1.96" height="2.4" rx="0.8" fill="url(#yg-light)"><title>1974: ändringar som trädde i kraft: 35</title></rect>
+<rect x="706.98" y="342.6" width="1.96" height="3.4" rx="0.8" fill="url(#yg-light)"><title>1975: ändringar som trädde i kraft: 49</title></rect>
+<rect x="709.43" y="343.6" width="1.96" height="2.4" rx="0.8" fill="url(#yg-light)"><title>1976: ändringar som trädde i kraft: 35</title></rect>
+<rect x="711.88" y="343.2" width="1.96" height="2.8" rx="0.8" fill="url(#yg-light)"><title>1977: ändringar som trädde i kraft: 40</title></rect>
+<rect x="714.32" y="343.0" width="1.96" height="3.0" rx="0.8" fill="url(#yg-light)"><title>1978: ändringar som trädde i kraft: 44</title></rect>
+<rect x="716.77" y="342.8" width="1.96" height="3.2" rx="0.8" fill="url(#yg-light)"><title>1979: ändringar som trädde i kraft: 47</title></rect>
+<rect x="719.22" y="343.7" width="1.96" height="2.3" rx="0.8" fill="url(#yg-light)"><title>1980: ändringar som trädde i kraft: 33</title></rect>
+<rect x="721.67" y="342.8" width="1.96" height="3.2" rx="0.8" fill="url(#yg-light)"><title>1981: ändringar som trädde i kraft: 46</title></rect>
+<rect x="724.11" y="342.4" width="1.96" height="3.6" rx="0.8" fill="url(#yg-light)"><title>1982: ändringar som trädde i kraft: 52</title></rect>
+<rect x="726.56" y="341.7" width="1.96" height="4.3" rx="0.8" fill="url(#yg-light)"><title>1983: ändringar som trädde i kraft: 62</title></rect>
+<rect x="729.01" y="339.4" width="1.96" height="6.6" rx="0.8" fill="url(#yg-light)"><title>1984: ändringar som trädde i kraft: 96</title></rect>
+<rect x="731.46" y="338.0" width="1.96" height="8.0" rx="0.8" fill="url(#yg-light)"><title>1985: ändringar som trädde i kraft: 116</title></rect>
+<rect x="733.90" y="336.1" width="1.96" height="9.9" rx="0.8" fill="url(#yg-light)"><title>1986: ändringar som trädde i kraft: 143</title></rect>
+<rect x="736.35" y="314.3" width="1.96" height="31.7" rx="0.8" fill="url(#yg-light)"><title>1987: ändringar som trädde i kraft: 460</title></rect>
+<rect x="738.80" y="311.5" width="1.96" height="34.5" rx="0.8" fill="url(#yg-light)"><title>1988: ändringar som trädde i kraft: 500</title></rect>
+<rect x="741.24" y="317.6" width="1.96" height="28.4" rx="0.8" fill="url(#yg-light)"><title>1989: ändringar som trädde i kraft: 412</title></rect>
+<rect x="743.69" y="326.2" width="1.96" height="19.8" rx="0.8" fill="url(#yg-light)"><title>1990: ändringar som trädde i kraft: 287</title></rect>
+<rect x="746.14" y="314.1" width="1.96" height="31.9" rx="0.8" fill="url(#yg-light)"><title>1991: ändringar som trädde i kraft: 462</title></rect>
+<rect x="748.59" y="313.2" width="1.96" height="32.8" rx="0.8" fill="url(#yg-light)"><title>1992: ändringar som trädde i kraft: 475</title></rect>
+<rect x="751.03" y="315.6" width="1.96" height="30.4" rx="0.8" fill="url(#yg-light)"><title>1993: ändringar som trädde i kraft: 440</title></rect>
+<rect x="753.48" y="309.2" width="1.96" height="36.8" rx="0.8" fill="url(#yg-light)"><title>1994: ändringar som trädde i kraft: 533</title></rect>
+<rect x="755.93" y="317.8" width="1.96" height="28.2" rx="0.8" fill="url(#yg-light)"><title>1995: ändringar som trädde i kraft: 409</title></rect>
+<rect x="758.38" y="318.3" width="1.96" height="27.7" rx="0.8" fill="url(#yg-light)"><title>1996: ändringar som trädde i kraft: 401</title></rect>
+<rect x="760.82" y="327.1" width="1.96" height="18.9" rx="0.8" fill="url(#yg-light)"><title>1997: ändringar som trädde i kraft: 274</title></rect>
+<rect x="763.27" y="323.7" width="1.96" height="22.3" rx="0.8" fill="url(#yg-light)"><title>1998: ändringar som trädde i kraft: 323</title></rect>
+<rect x="765.72" y="323.4" width="1.96" height="22.6" rx="0.8" fill="url(#yg-light)"><title>1999: ändringar som trädde i kraft: 328</title></rect>
+<rect x="768.17" y="327.0" width="1.96" height="19.0" rx="0.8" fill="url(#yg-light)"><title>2000: ändringar som trädde i kraft: 275</title></rect>
+<text x="769.1" y="363" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#5f6e66">2000</text>
+<rect x="770.61" y="325.0" width="1.96" height="21.0" rx="0.8" fill="url(#yg-light)"><title>2001: ändringar som trädde i kraft: 304</title></rect>
+<rect x="773.06" y="330.3" width="1.96" height="15.7" rx="0.8" fill="url(#yg-light)"><title>2002: ändringar som trädde i kraft: 228</title></rect>
+<rect x="775.51" y="333.2" width="1.96" height="12.8" rx="0.8" fill="url(#yg-light)"><title>2003: ändringar som trädde i kraft: 186</title></rect>
+<rect x="777.96" y="330.5" width="1.96" height="15.5" rx="0.8" fill="url(#yg-light)"><title>2004: ändringar som trädde i kraft: 225</title></rect>
+<rect x="780.40" y="330.2" width="1.96" height="15.8" rx="0.8" fill="url(#yg-light)"><title>2005: ändringar som trädde i kraft: 229</title></rect>
+<rect x="782.85" y="326.5" width="1.96" height="19.5" rx="0.8" fill="url(#yg-light)"><title>2006: ändringar som trädde i kraft: 283</title></rect>
+<rect x="785.30" y="325.3" width="1.96" height="20.7" rx="0.8" fill="url(#yg-light)"><title>2007: ändringar som trädde i kraft: 300</title></rect>
+<rect x="787.74" y="311.5" width="1.96" height="34.5" rx="0.8" fill="url(#yg-light)"><title>2008: ändringar som trädde i kraft: 500</title></rect>
+<rect x="790.19" y="326.2" width="1.96" height="19.8" rx="0.8" fill="url(#yg-light)"><title>2009: ändringar som trädde i kraft: 287</title></rect>
+<rect x="792.64" y="326.1" width="1.96" height="19.9" rx="0.8" fill="url(#yg-light)"><title>2010: ändringar som trädde i kraft: 289</title></rect>
+<rect x="795.09" y="319.0" width="1.96" height="27.0" rx="0.8" fill="url(#yg-light)"><title>2011: ändringar som trädde i kraft: 392</title></rect>
+<rect x="797.53" y="330.6" width="1.96" height="15.4" rx="0.8" fill="url(#yg-light)"><title>2012: ändringar som trädde i kraft: 223</title></rect>
+<rect x="799.98" y="334.9" width="1.96" height="11.1" rx="0.8" fill="url(#yg-light)"><title>2013: ändringar som trädde i kraft: 161</title></rect>
+<rect x="802.43" y="331.9" width="1.96" height="14.1" rx="0.8" fill="url(#yg-light)"><title>2014: ändringar som trädde i kraft: 204</title></rect>
+<rect x="804.88" y="330.8" width="1.96" height="15.2" rx="0.8" fill="url(#yg-light)"><title>2015: ändringar som trädde i kraft: 220</title></rect>
+<rect x="807.32" y="329.2" width="1.96" height="16.8" rx="0.8" fill="url(#yg-light)"><title>2016: ändringar som trädde i kraft: 244</title></rect>
+<rect x="809.77" y="331.9" width="1.96" height="14.1" rx="0.8" fill="url(#yg-light)"><title>2017: ändringar som trädde i kraft: 205</title></rect>
+<rect x="812.22" y="318.5" width="1.96" height="27.5" rx="0.8" fill="url(#yg-light)"><title>2018: ändringar som trädde i kraft: 398</title></rect>
+<rect x="814.67" y="327.4" width="1.96" height="18.6" rx="0.8" fill="url(#yg-light)"><title>2019: ändringar som trädde i kraft: 270</title></rect>
+<rect x="817.11" y="327.5" width="1.96" height="18.5" rx="0.8" fill="url(#yg-light)"><title>2020: ändringar som trädde i kraft: 268</title></rect>
+<rect x="819.56" y="329.2" width="1.96" height="16.8" rx="0.8" fill="url(#yg-light)"><title>2021: ändringar som trädde i kraft: 244</title></rect>
+<rect x="822.01" y="316.2" width="1.96" height="29.8" rx="0.8" fill="url(#yg-light)"><title>2022: ändringar som trädde i kraft: 432</title></rect>
+<rect x="824.46" y="325.5" width="1.96" height="20.5" rx="0.8" fill="url(#yg-light)"><title>2023: ändringar som trädde i kraft: 297</title></rect>
+<rect x="826.90" y="321.9" width="1.96" height="24.1" rx="0.8" fill="url(#yg-light)"><title>2024: ändringar som trädde i kraft: 350</title></rect>
+<rect x="829.35" y="311.5" width="1.96" height="34.5" rx="0.8" fill="url(#yg-light)"><title>2025: ändringar som trädde i kraft: 500</title></rect>
+<rect x="831.80" y="267.6" width="1.96" height="78.4" rx="0.8" fill="url(#yg-light)"><title>2026: ändringar som trädde i kraft: 1 136</title></rect>
+<text x="832.8" y="259.6" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="600" fill="#14201a">1 136 år 2026</text>
+<text x="46" y="382" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">Ändringar daterade efter dag för ikraftträdande: 15 543.</text>
+<rect x="28" y="412" width="824" height="197" rx="8" fill="#f4f6f5"/>
+<text x="46" y="440" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Fullständighet jämfört med officiella källor, 12 nov. 2026</text>
+<text x="46.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Grundlag</text>
+<text x="46.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">i repositoriet</text>
+<g><title>Grundlag: 100 %</title><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="464.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100 %</text>
+<text x="460.0" y="470" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Regionala författningar</text>
+<text x="460.0" y="491" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">lagstiftande enheter som ingår</text>
+<g><title>Regionala författningar: 0 %</title><rect x="708.0" y="464.0" width="62.0" height="4" rx="2" fill="#e7efe9"/></g>
+<text x="834.0" y="470" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">0 %</text>
+<text x="46.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Centrala balkar och lagar</text>
+<text x="46.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">andel av de centrala lagarna</text>
+<g><title>Centrala balkar och lagar: 100 %</title><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="509.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100 %</text>
+<text x="460.0" y="515" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Rättspraxis</text>
+<text x="460.0" y="536" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">högsta domstolar som ingår</text>
+<g><title>Rättspraxis: 0 %</title><rect x="708.0" y="509.0" width="62.0" height="4" rx="2" fill="#e7efe9"/></g>
+<text x="834.0" y="515" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">0 %</text>
+<text x="46.0" y="560" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Nationella författningar</text>
+<text x="46.0" y="581" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">andel av officiellt totalantal</text>
+<g><title>Nationella författningar: 96 %</title><rect x="294.0" y="554.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="554.0" width="59.5" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="560" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">96 %</text>
+<rect x="28" y="625" width="824" height="152" rx="8" fill="#f4f6f5"/>
+<text x="46" y="653" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#14201a">Riktighet i det som ingår</text>
+<text x="46.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Ändringar med ikraftträdandedag</text>
+<text x="46.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">andel av ändringarna</text>
+<g><title>Ändringar med ikraftträdandedag: 100 %</title><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="677.0" width="62.0" height="4" rx="2" fill="#1a7f4b"/></g>
+<text x="420.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">100 %</text>
+<text x="460.0" y="683" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Korpusar för landet i global-law</text>
+<text x="460.0" y="704" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">nationella författningar: 1</text>
+<text x="834.0" y="683" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">1</text>
+<text x="46.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Ändringar med officiell källa</text>
+<text x="46.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">Source-rad eller länk i commit</text>
+<g><title>Ändringar med officiell källa: 72 %</title><rect x="294.0" y="722.0" width="62.0" height="4" rx="2" fill="#e7efe9"/><rect x="294.0" y="722.0" width="44.3" height="4" rx="2" fill="#9a6200"/></g>
+<text x="420.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">72 %</text>
+<text x="460.0" y="728" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#14201a">Kontrollerad mot officiell källa</text>
+<text x="460.0" y="749" font-family="Manrope, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="11.5" fill="#5f6e66">datumet repositoriet anger</text>
+<text x="834.0" y="728" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600" fill="#14201a">6 nov. 2026</text>
 </svg>
