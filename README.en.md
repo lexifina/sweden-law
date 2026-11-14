@@ -21,9 +21,9 @@ The text is in Swedish, as the publisher prints it. An English translation is no
 
 | Question | Command |
 | --- | --- |
-| Every change to Brottsbalken 7 kap. 4 §, including one already decided | `git log -p --word-diff future -- 1962/700/kap-7/4.md` |
-| Who wrote each line of 7 kap. 4 § from 1 January 2027? | `git blame future -- 1962/700/kap-7/4.md` |
-| Every version of Brottsbalken, with the day each takes effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" future -- 1962/700` |
+| Every change to Brottsbalken 7 kap. 4 §, including one already decided | `git log -p --word-diff origin/future -- 1962/700/kap-7/4.md` |
+| Who wrote each line of 7 kap. 4 § from 1 January 2027? | `git blame origin/future -- 1962/700/kap-7/4.md` |
+| Every version of Brottsbalken, with the day each takes effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" origin/future -- 1962/700` |
 | 7 kap. 4 § as in force on 14 November 2026 | `python tools/in_force_on.py 2026-11-14 1962/700/kap-7/4.md` |
 
 **Outside git**, we also host this record publicly, for free:

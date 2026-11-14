@@ -21,9 +21,9 @@ Texten är på svenska, så som utgivaren återger den. En engelsk översättnin
 
 | Fråga | Kommando |
 | --- | --- |
-| Varje ändring i 7 kap. 4 § brottsbalken, även en som redan är beslutad | `git log -p --word-diff future -- 1962/700/kap-7/4.md` |
-| Vem skrev varje rad i 7 kap. 4 § från den 1 januari 2027? | `git blame future -- 1962/700/kap-7/4.md` |
-| Varje version av brottsbalken, med den dag då den träder i kraft | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" future -- 1962/700` |
+| Varje ändring i 7 kap. 4 § brottsbalken, även en som redan är beslutad | `git log -p --word-diff origin/future -- 1962/700/kap-7/4.md` |
+| Vem skrev varje rad i 7 kap. 4 § från den 1 januari 2027? | `git blame origin/future -- 1962/700/kap-7/4.md` |
+| Varje version av brottsbalken, med den dag då den träder i kraft | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" origin/future -- 1962/700` |
 | 7 kap. 4 § i den lydelse som gällde den 14 november 2026 | `python tools/in_force_on.py 2026-11-14 1962/700/kap-7/4.md` |
 
 **Utanför git** tillhandahåller vi också detta material offentligt och gratis:
