@@ -1,121 +1,89 @@
-# Swedish statutes (SFS), as a git repository
+# Sweden: law history in git
 
-[Svenska](README.md) · **English**
+**English** · **[Eller läs den på svenska](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Swedish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The law of Sweden as a git history: one file per paragraf, one commit per version on the day it took effect. The sources keep only each statute's current consolidated text, so a statute's history starts with that text, credited to its publisher; the dated changes after it and its repeal are each credited to the act that made them. `git log` lists every change to a paragraf; `git blame` names who wrote each line; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Sweden's national law, which global-law reads at `sweden/national/acts/`.
 
-The statutes of Sweden published in Svensk författningssamling (SFS), as consolidated by the Government Offices
-(Regeringskansliet, SFST) and published as open data by the Riksdag: 5304 statutes in force on `main`, from the
-Regeringsform (`1974/152`), Brottsbalk (`1962/700`) and Rättegångsbalk (`1942/740`) to the newest
-förordningar, plus 5812 repealed statutes in history (deleted on their repeal day) and 37 statutes
-not yet in force on the `future` branch. Every paragraf is one file, one stycke per line, so `git blame` and
-`git diff` work line by line. The text is Swedish, exactly as published.
+**What is in it now:** 5,303 statutes of Svensk författningssamling (SFS) in force, among them the four fundamental laws; 5,813 repealed statutes, deleted on the day their repeal took effect and kept in the history; on the `future` branch, 37 statutes and 448 dated changes and repeals due after 28 October 2026; and the register of amendments (SFSR), 69,678 rows for 67,679 amending acts, in [`data/amendments.csv`](data/amendments.csv). [`laws.csv`](laws.csv) lists every statute, with its dates and status.
 
-**Current text only.** The sources keep one consolidation per statute ("t.o.m. SFS ...", up to and including the
-latest amending act), not earlier versions. So each statute has one main text, dated by the day the latest amending
-act it includes entered into force. Where the publisher prints a provision in two dated versions
-("/Upphör att gälla U:2027-01-01/" and "/Träder i kraft I:2027-01-01/"), the change is a real dated
-commit credited to the act named at the end of the new text ("Lag (2026:1604)."), and a repealed statute is deleted on
-its repeal day by the repealing act. Every paragraf keeps the publisher's note naming the act that last gave it its
-wording, and the register of amendments (SFSR: every amending act, what it changed and when it entered into force) is
-in [`data/amendments.csv`](data/amendments.csv) (69678 rows, 67679 amending acts).
+Each statute is in `<year>/<number>/`, by its SFS number, one file per paragraf, under `kap-<k>/` in statutes with chapters (`1962/700/kap-3/1.md` is 3 kap. 1 § of Brottsbalken, the Criminal Code, SFS 1962:700); the Instrument of Government (Regeringsformen) is [`1974/152/`](1974/152/).
 
-## A lawyer's questions as git commands
+The text is in Swedish, as the publisher prints it. An English translation is not part of this record.
+
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What does Brottsbalken 3 kap. 1 § say today? | `python tools/in_force_on.py 2026-10-28 1962/700/kap-3/1.md` |
-| The whole Regeringsform, in order | `python tools/in_force_on.py 2026-10-28 1974/152` |
-| Since when has this text been in force, and on whose authority? | `git log --format='%(trailers:key=In-force,valueonly,separator=) %an' -- 1962/700/kap-3/1.md` |
-| Which act last gave a paragraf its wording? | the note at its end, e.g. `Lag (2019:806).`; every amendment: `grep '^1962:700,' data/amendments.csv` |
-| What changes are already decided, and when? | `git log --format='%(trailers:key=In-force,valueonly,separator=) %s' main..future` |
-| Everything one act changed, on any branch (here SFS 2026:1602) | `git log --stat --author='2026:1602' --all` |
-| When was a statute repealed, and by what? | `git log --diff-filter=D --format='%(trailers:key=In-force,valueonly,separator=) %an' -- 1961/281` |
-| The text of a repealed statute | `git log -1 --format=%H --diff-filter=D -- 1961/281` then `git show <that>^:1961/281/1.md` |
-| Which statutes cite the Copyright Act (1960:729)? | `git grep -l '(1960:729)'` |
-| The list of statutes, with dates and status | [`laws.csv`](laws.csv) |
+| Every change to Brottsbalken 7 kap. 4 §, including one already decided | `git log -p --word-diff future -- 1962/700/kap-7/4.md` |
+| Who wrote each line of 7 kap. 4 § from 1 January 2027? | `git blame future -- 1962/700/kap-7/4.md` |
+| Every version of Brottsbalken, with the day each takes effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" future -- 1962/700` |
+| 7 kap. 4 § as in force on 14 November 2026 | `python tools/in_force_on.py 2026-11-14 1962/700/kap-7/4.md` |
 
-PowerShell: `$r = git log -1 --format=%H --diff-filter=D -- 1961/281; git show "$($r)^:1961/281/1.md"`.
+**Outside git**, we also host this record publicly, for free:
 
-Files: `<year>/<number>/` per statute (SFS 1962:700 is `1962/700/`; old numbers such as 1736:0123 2 are
-`1736/0123-2/`). Paragrafs are `<n>.md`, or `kap-<k>/<n>.md` in statutes with chapters (`kap-3/1.md` is 3 kap. 1 §,
-`3a.md` is 3 a §). Text before the first paragraf is `ingress.md`; the transitional provisions
-(Övergångsbestämmelser, grouped under the number of each act that added them) are `overgang.md`, and
-annexes after them `bilaga-<n>.md`. Headings (avdelning, kapitel, and the headings between paragrafs) are `#` lines at
-the top of the paragraf that follows them. `index.txt` gives the reading order. Statutes whose source has no paragraf
-markup keep paragrafs split where a stycke begins "<n> §".
+- **[Ask Claude about Swedish law](https://global-law.lexifina.com/v1/try_claude?country=sweden)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=sweden)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=semester&jurisdictions=sweden)**: a search of Swedish law for "semester", returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## The dates, and which one we use
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Swedish or in English.
 
-**Commits are dated by the day a text entered into force**, at noon Stockholm time (CET, or CEST in summer time), in
-the `In-force:` trailer and as the commit date. Each statute's text is dated by the in-force day of the latest amending
-act its consolidation includes, read from the SFSR register (`Date-source: sfsr-amendment`; the statute's own in-force
-day if nothing amended it, `sfsr-in-force`; the issue day where the register gives no in-force day, `issued`). Dated
-two-version provisions change on their printed day (`marker`); repeals on the Upphävd day (`upphavd`). Dates before
-1970 are clamped to 1970-01-01 in git; the real day is in `In-force:`. `Issued:` is the day the statute was issued
-(utfärdad).
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-`tools/in_force_on.py DATE PATH` reads the `In-force:` trailers, so it does not depend on your time zone (unlike
-`git rev-list --before`). Before a statute's record starts it says there is nothing in force. Changes that take effect
-after 2026-10-28 are on the `future` branch (485 commits; never merged into `main`). Provisions whose
-day is "den dag som regeringen bestämmer" (not yet set) are not applied anywhere; they are listed in
-[`data/undated.csv`](data/undated.csv) (623 markers).
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add sweden/national/acts
+python3 tools/law.py show 2026-11-14 sweden/national/acts/1962/700/kap-7/4.md
+```
 
-## What "author" means
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-- **The publisher** (`Regeringskansliet SFST (via Riksdagen open data)`), `Kind: consolidated`: a statute's
-  consolidated text, which many acts wrote. `Last-amended-by:` names the act whose in-force day dates it and
-  `Amended-through:` the last act included. Use the per-paragraf notes and `data/amendments.csv` for who wrote what.
-- **The statute itself** (`Brottsbalk (1962:700) <sfs-1962-700@sfs.invalid>`), `Kind: enacted`: a statute the
-  register shows unamended.
-- **An amending act** (`Lag (2026:1604) om ändring i brottsbalken <sfs-2026-1604@sfs.invalid>`), `Kind: amendment`:
-  a dated two-version provision changing on its day; the act is the one named at the end of the new text.
-- **A repealing act**, `Kind: repeal`: the statute's files are deleted on its repeal day.
-- **The publisher**, `Kind: unexplained`: a dated change no single act can be named for (`Candidate:` lists the
-  possibilities).
+## Dates
 
-Commits by kind on `main`: amendment 3, consolidated 6669, enacted 4447, repeal 4416; on `future`: amendment 427, enacted 37, repeal 17, unexplained 4. Blame credits whole stycken; use
-`git log -p --word-diff` for the words.
+Each commit is dated at noon, Europe/Stockholm, on the day the version took effect, and carries it in its `In-force:` trailer:
 
-## What it does not show
+- for a statute's consolidated text, the in-force day of the latest amending act it includes, from the SFSR register (the statute's own in-force day if nothing amended it; its issue day where the register gives none);
+- for a provision the publisher prints in two dated versions ("/Upphör att gälla U:2027-01-01/", "/Träder i kraft I:2027-01-01/"), the printed day, and for a repeal, the day it took effect; provisions waiting for "den dag som regeringen bestämmer" are not applied ([`data/undated.csv`](data/undated.csv));
+- git cannot store dates before 1970, so earlier commits are dated from 1970-01-01, seconds apart, with the real day in `In-force:`. Ask for a date with `tools/in_force_on.py`, not `git log --before`.
 
-- Any text before the current consolidation: no earlier wording of any statute.
-- Changes to a statute that its consolidation does not yet include (the publisher's text can lag the register).
-- Statutes the publisher prints with undatable two-version passages around chapters or headings: they are kept as
-  printed, both versions, the second copy in a file named `~2` (`Text: as-printed`; text classes: as-printed 42, dated-versions 427, plain 10684).
-- Agency regulations (myndighetsföreskrifter), EU law, case law; the 133 nineteenth-century Riksdag regulations in
-  the same open-data series (OCR text, not SFS statutes).
-- Tables and formatting (italics); statutes that could not be read (387 rows in
-  [`data/unreadable.csv`](data/unreadable.csv)).
-
-This is a research aid. The authoritative text is the one published in Svensk författningssamling.
+A consolidated text is credited to the publisher, `Regeringskansliet SFST (via Riksdagen open data)`, as many acts wrote it: its `Last-amended-by:` and `Amended-through:` trailers name the acts, and each paragraf ends with the act that last gave it its wording (`Lag (2026:1318).`). A statute the register shows unamended is credited to itself, a dated change to the act named in the new text, and a repeal to the repealing act.
 
 ## How it is checked
 
-check_repo.py read back every version of every statute (11541 versions, 20276783 words, on `main` and `future`) and compared its letters and digits with the raw source: the plain-text field of the Riksdagen JSON for statutes without dated versions (text build.py never reads), and for statutes with dated two-version provisions the HTML through a separate minimal extractor, keeping the passages in force on the version's day: 0 mismatches. 15536 commits on main and 485 on future: 0 whose trailers git cannot parse, 0 without In-force, 0 merges, 0 In-force dates going backwards, 0 after the build day on main, 0 CR characters in messages. test_repo.py (blame, the on-date tool before and after dated amendments and a repeal, log --follow order, In-force on every commit, authorship, every README command): 6/6 passed. These results are from the previous build of the same cache; the rebuild that wrote this file was hash-identical.
+- `tools/build/check_repo.py` reads back every version of every statute on `main` and `future` and compares its letters and digits with the source: Riksdagen's plain-text field, which the build never reads, or for dated two-version provisions the HTML through a separate extractor. 0 mismatches in 11,541 versions.
+- Every commit has an `In-force:` trailer that git can parse; there are no merges, no In-force dates going backwards and none after the build day on `main`.
+- `tools/build/test_repo.py` checks blame, the dated tool before and after dated changes and a repeal, and authorship. The results, and a rebuild that gave the same hashes, are in [`REPRODUCE.md`](REPRODUCE.md).
+- Each refresh appends to `main` only versions read back and compared with the source; published commits are never rewritten ([`REFRESH.md`](REFRESH.md)).
 
-## How it is built
+## What it does not show
 
-`fetch.py` reads Riksdagen's document list (doktyp=sfs), each statute's `dokumentstatus` JSON (the consolidated text as
-HTML and as plain text) and its SFSR page at rkrattsbaser.gov.se. `build.py` splits each text at its paragraf anchors,
-dates it from the register, and writes everything with one `git fast-import` stream. No AI model takes part in
-building or checking it. See [`REPRODUCE.md`](REPRODUCE.md).
+- **Earlier wording.** The sources keep only each statute's current consolidation, so no text before it is here; `data/amendments.csv` lists every amendment.
+- **Amendments the consolidation does not yet include** (the publisher's text can lag the register), and changes since the last refresh.
+- **Passages that cannot be dated.** 42 statutes that print two versions around chapters or headings are kept as printed, both versions (`Text: as-printed`).
+- **Agency regulations (myndighetsföreskrifter), EU law and case law**, and the 133 nineteenth-century Riksdag regulations in the same open-data series (OCR text, not SFS).
+- **Some statutes and all formatting.** Of the 11,437 SFS documents in Riksdagen's open data, 284 are not built: 260 that could not be read, 17 never in force and 7 waiting for a day not yet set (see `laws.csv` and [`data/unreadable.csv`](data/unreadable.csv)). Tables and italics are not kept.
+
+## Sources
+
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Riksdagens öppna data](https://data.riksdagen.se) | Consolidated statutes (SFST, Regeringskansliet) | no, the current consolidation only | Each statute's text, with its issue day, the last amendment included and its repeal; the authoritative text is the one in Svensk författningssamling |
+| [SFSR, Regeringskansliets rättsdatabaser](https://rkrattsbaser.gov.se/sfsr) | Register of amendments | n/a | Every amending act, what it changed and its in-force day; it dates each text |
+| [SFST, Regeringskansliets rättsdatabaser](https://rkrattsbaser.gov.se/sfst) | Consolidated statutes | no | The 6 old statutes Riksdagen's open data does not serve |
+
+See [`SOURCES.md`](SOURCES.md) for what is read from each.
 
 ## Licence
 
-Källa: Sveriges riksdag (Source: The Swedish Parliament), Riksdagens öppna data, https://data.riksdagen.se,
-whose terms read "Riksdagens öppna data är fria att användas och spridas vidare så länge du anger
-källa." The consolidated texts are Regeringskansliet's (SFST, https://rkrattsbaser.gov.se), and the amendment register
-is SFSR from the same site. This service is not provided or endorsed by Sveriges riksdag or Regeringskansliet. Statutes
-carry no copyright in Sweden: upphovsrättslagen (1960:729) 1 kap. 9 §, as in this repository
-(`1960/729/kap-1/9.md`): "9 § Upphovsrätt gäller inte till 1. författningar, 2. beslut av myndigheter, 3. yttranden av svenska myndigheter och 4. officiella översättningar av sådant som avses i 1-3. Upphovsrätt gäller dock till verk vilka ingår i en handling som avses i första stycket och är av följande slag: 1. kartor, 2. alster av bildkonst, 3. musikaliska verk eller 4. diktverk. Upphovsrätt gäller även till ett verk som ingår i en bilaga till ett beslut av en myndighet, om beslutet avser rätten att ta del av den allmänna handling där verket ingår. Lag (2000:92)." The wording was not changed; it was only split into files and lines. **This repository
-is private.** Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0. See
-[`LICENSE`](LICENSE).
+See [`LICENSE`](LICENSE). Swedish statutes carry no copyright (upphovsrättslagen (1960:729) 1 kap. 9 §, [`1960/729/kap-1/9.md`](1960/729/kap-1/9.md)); the texts come from Riksdagens öppna data, free to use and redistribute with the source named (Källa: Sveriges riksdag), and this service is not provided or endorsed by Sveriges riksdag or Regeringskansliet. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0 1.0.
+
+No AI model wrote or changed legal text, and no model runs when the record is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
