@@ -30,7 +30,8 @@ Texten är på svenska, så som utgivaren återger den. En engelsk översättnin
 
 - **[Fråga Claude om svensk rätt](https://global-law.lexifina.com/v1/try_claude?country=sweden)**: öppnar Claude med en första fråga färdig.
 - **[Fråga ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=sweden)**: samma fråga i ChatGPT.
-- **[Anropa API:t i webbläsaren](https://global-law.lexifina.com/v1/search_law?query=semester&jurisdictions=sweden)**: en sökning i svensk rätt efter ”semester”, med svar i JSON. Dokumentationen finns [här](https://lexifina.com/api/global-law).
+- **[Sök i svensk rätt på vår webbplats](https://lexifina.com/law?country=sweden&q=semester)**: en sökning efter ”semester”, med varje bestämmelses text och dess versioner, utan konto.
+- **[REST-API för utvecklare](https://global-law.lexifina.com/v1/search_law?query=semester&jurisdiction=sweden)**: samma sökning som JSON, utan nyckel. Dokumentationen finns [här](https://lexifina.com/api/global-law).
 
 Båda assistenterna läser materialet genom den kostnadsfria kopplingen Global law (MCP, `https://global-law.lexifina.com/mcp`); första gången ger chatten dig länken som lägger till den. Fråga på svenska eller på engelska.
 
