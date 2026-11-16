@@ -61,6 +61,7 @@ A consolidated text is credited to the publisher, `Regeringskansliet SFST (via R
 - Every commit has an `In-force:` trailer that git can parse; there are no merges, no In-force dates going backwards and none after the build day on `main`.
 - `tools/build/test_repo.py` checks blame, the dated tool before and after dated changes and a repeal, and authorship. The results, and a rebuild that gave the same hashes, are in [`REPRODUCE.md`](REPRODUCE.md).
 - Each refresh appends to `main` only versions read back and compared with the source; published commits are never rewritten ([`REFRESH.md`](REFRESH.md)).
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
 
 ## What it does not show
 
@@ -85,6 +86,10 @@ See [`SOURCES.md`](SOURCES.md) for what is read from each.
 See [`LICENSE`](LICENSE). Swedish statutes carry no copyright (upphovsrättslagen (1960:729) 1 kap. 9 §, [`1960/729/kap-1/9.md`](1960/729/kap-1/9.md)); the texts come from Riksdagens öppna data, free to use and redistribute with the source named (Källa: Sveriges riksdag), and this service is not provided or endorsed by Sveriges riksdag or Regeringskansliet. Lexifina's own contributions (the tools, the arrangement and the commit messages) are CC0 1.0.
 
 No AI model wrote or changed legal text, and no model runs when the record is built; the scripts were written by an AI model (see [`REPRODUCE.md`](REPRODUCE.md)).
+
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
 
 ## More
 

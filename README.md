@@ -61,6 +61,7 @@ En konsoliderad text tillskrivs utgivaren, `Regeringskansliet SFST (via Riksdage
 - Varje commit har en trailer `In-force:` som git kan tolka; det finns inga merges, inga In-force-datum som går bakåt och inga efter byggdagen på `main`.
 - `tools/build/test_repo.py` kontrollerar blame, datumverktyget före och efter daterade ändringar och ett upphävande, samt upphovsuppgifterna. Resultaten, och ett nytt bygge som gav samma hashvärden, finns i [`REPRODUCE.md`](REPRODUCE.md).
 - Varje uppdatering lägger bara till versioner på `main` som har lästs tillbaka och jämförts med källan; publicerade commits skrivs aldrig om ([`REFRESH.md`](REFRESH.md)).
+- [vulnerabilities/](vulnerabilities/): möjliga redaktionella fel i denna rätt, hittade av global-laws detektorer och kontrollerade för hand. Inte körd ännu.
 
 ## Vad det inte visar
 
@@ -87,6 +88,10 @@ Se [`LICENSE`](LICENSE). Svenska författningar omfattas inte av upphovsrätt (1
 Ingen AI-modell har skrivit eller ändrat författningstext, och ingen modell körs när materialet byggs; skripten skrevs av en AI-modell (se [`REPRODUCE.md`](REPRODUCE.md)).
 
 Detta är en översättning av den engelska versionen ([README.en.md](README.en.md)); om de skiljer sig åt gäller den engelska versionen.
+
+## Visualiseringar
+
+- [visualisations/](visualisations/): diagram ritade ur detta repository. Inte ritade ännu.
 
 ## Mer
 
