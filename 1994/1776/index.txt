@@ -29,6 +29,7 @@ kap-1/18.md
 kap-1/19.md
 kap-1/20.md
 kap-2/1.md
+kap-2/1~2.md
 kap-2/1a.md
 kap-2/1b.md
 kap-2/2.md
